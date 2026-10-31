@@ -1,1 +1,563 @@
-{"blocks":[{"type":"inline","id":"1ac8b9e86878","properties":[],"hasRule":true,"nested":[{"type":"group","id":"387a4b4b5849","properties":["name","size","type","subtype","alignment"],"nested":[{"type":"inline","id":"c97beba92b18","properties":[],"hasRule":false,"nested":[{"type":"heading","id":"db09585a0978","properties":["name"],"conditioned":true,"size":1},{"type":"inline","id":"cab95b982a99","properties":[],"hasRule":false,"nested":[{"type":"action","id":"9948cb6918c9","icon":"sword","callback":"try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"},{"type":"action","id":"88bac85a897a","icon":"plus-with-circle","callback":"try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"}]}]},{"type":"subheading","id":"395a59db5bfb","properties":["size","type","subtype","alignment"],"conditioned":true,"separator":", "}],"conditioned":true},{"type":"image","id":"0aa90b18286a","properties":["image"]}]},{"type":"group","id":"adnd-basics-group","properties":["climate_terrain","frequency","organization","activity_cycle","diet","intelligence","treasure"],"nested":[{"type":"property","id":"adnd-climate-terrain","display":"Climate/Terrain","properties":["climate_terrain"],"conditioned":true},{"type":"property","id":"adnd-frequency","display":"Frequency","properties":["frequency"],"conditioned":true},{"type":"property","id":"adnd-organization","display":"Organization","properties":["organization"],"conditioned":true},{"type":"property","id":"adnd-activity-cycle","display":"Activity Cycle","properties":["activity_cycle"],"conditioned":true},{"type":"property","id":"adnd-diet","display":"Diet","properties":["diet"],"conditioned":true},{"type":"property","id":"adnd-intelligence","display":"Intelligence","properties":["intelligence"],"conditioned":true},{"type":"property","id":"adnd-treasure","display":"Treasure","properties":["treasure"],"conditioned":true},{"type":"property","id":"3acbda0aebea","properties":["original_src"],"fallback":"-","display":"Book Listed","conditioned":true}],"hasRule":true,"conditioned":true},{"type":"group","id":"adnd-combat-group","properties":["armor_class","movement","hit_dice","thaco","no_appearing","attacks","damage_attack","special_attacks","special_defenses","magic_resistance","size","morale","xp_value"],"nested":[{"type":"property","id":"adnd-armor-class","display":"Armor Class","properties":["ac"],"conditioned":false,"fallback":"Undefined"},{"type":"property","id":"adnd-movement","display":"Movement","properties":["movement"],"conditioned":true},{"type":"inline","id":"abebfb4b2ad8","properties":[],"nested":[{"type":"property","id":"5b5beb7a187a","properties":["hit_dice"],"fallback":"undefined","display":"Hit Dice"},{"type":"property","id":"5a492b098959","properties":["health"],"fallback":"-","display":"Health"}]},{"type":"property","id":"adnd-thaco","display":"To Hit Bonus","properties":["to_hit"],"conditioned":true},{"type":"property","id":"197bd80b38ab","properties":["modifier"],"fallback":"undefined","display":"Initiative Modifier"},{"type":"property","id":"adnd-no-appearing","display":"No. Appearing","properties":["no_appearing"],"conditioned":true},{"type":"property","id":"adnd-attacks","display":"No. of Attacks","properties":["attacks"],"conditioned":true},{"type":"property","id":"adnd-damage-attack","display":"Damage/Attack","properties":["damage_attack"],"conditioned":true},{"type":"property","id":"4bfb0bbb8b0a","properties":["armor"],"fallback":"-","display":"Armor"},{"type":"property","id":"48b8f868e9b9","properties":["weapon"],"fallback":"-","display":"Weapon"},{"type":"property","id":"adnd-special-attacks","display":"Special Attacks","properties":["special_attacks"],"conditioned":true},{"type":"property","id":"adnd-special-defenses","display":"Special Defenses","properties":["special_defenses"],"conditioned":true},{"type":"property","id":"adnd-magic-resistance","display":"Magic Resistance","properties":["magic_resistance"],"conditioned":true},{"type":"property","id":"adnd-size","display":"Size","properties":["size"],"conditioned":true},{"type":"property","id":"adnd-morale","display":"Morale","properties":["morale"],"conditioned":true},{"type":"property","id":"adnd-xp-value","display":"XP Value","properties":["xp_value"],"conditioned":true}],"hasRule":true,"conditioned":true},{"type":"group","id":"adnd-saves-group","properties":["saving_throws","infravision","languages","psionics"],"nested":[{"type":"table","id":"adnd-saving-throws-table","properties":["saving_throws"],"headers":["P/P/D","R/S/W","P/P","BW","Spell"],"calculate":false,"hasRule":true,"conditioned":true},{"type":"property","id":"adnd-infravision","display":"Infravision","properties":["infravision"],"conditioned":true},{"type":"property","id":"adnd-languages","display":"Languages","properties":["languages"],"fallback":"-"},{"type":"property","id":"adnd-psionics","display":"Psionics","properties":["psionics"],"conditioned":true},{"type":"spells","id":"8b78c9a9fa6a","properties":["spells"],"fallback":"-"}],"hasRule":true,"conditioned":true},{"type":"group","id":"98882988ba9b","properties":[],"nested":[{"type":"property","id":"594b490a2b99","properties":["level_1_spells"],"fallback":"-","display":"Lvl 1 Spells","conditioned":true},{"type":"property","id":"39a9d8793808","properties":["level_2_spells"],"fallback":"-","conditioned":true,"display":"Lvl 2 Spells"},{"type":"property","id":"59ca1bc9b8c9","properties":["level_3_spells"],"fallback":"-","display":"Lvl 3 Spells","conditioned":true},{"type":"property","id":"1859bb4a896a","properties":["level_4_spells"],"fallback":"-","display":"Lvl 4 Spells","conditioned":true},{"type":"property","id":"fb58dac89a69","properties":["level_5_spells"],"fallback":"-","display":"Lvl 5 Spells","conditioned":true},{"type":"property","id":"2b9998ea280b","properties":["level_6_spells"],"fallback":"-","display":"Lvl 6 Spells","conditioned":true},{"type":"property","id":"89ab89583adb","properties":["level_7_spells"],"fallback":"-","display":"Lvl 7 Spells","conditioned":true},{"type":"property","id":"5bfb9ac83a09","properties":["level_8_spells"],"fallback":"-","display":"Lvl 8 Spells","conditioned":true},{"type":"property","id":"283bf9f9ebc9","properties":["level_9_spells"],"fallback":"-","display":"Lvl 9 Spells","conditioned":true}]},{"type":"text","id":"adnd-description","properties":["description"],"conditioned":true,"text":null},{"type":"text","id":"adnd-combat-text","properties":["combat"],"heading":"Combat","conditioned":true,"text":null},{"type":"text","id":"adnd-habitat-society-text","properties":["habitat_society"],"heading":"Habitat/Society","conditioned":true,"text":null},{"type":"text","id":"adnd-ecology-text","properties":["ecology"],"heading":"Ecology","conditioned":true,"text":null}],"id":"287a38da5829","name":"ADnD_AI","edited":true,"version":1,"diceParsing":[]}
+{
+    "blocks": [
+        {
+            "type": "inline",
+            "id": "1ac8b9e86878",
+            "properties": [],
+            "hasRule": true,
+            "nested": [
+                {
+                    "type": "group",
+                    "id": "387a4b4b5849",
+                    "properties": [
+                        "name",
+                        "size",
+                        "type",
+                        "subtype",
+                        "alignment"
+                    ],
+                    "nested": [
+                        {
+                            "type": "inline",
+                            "id": "c97beba92b18",
+                            "properties": [],
+                            "hasRule": false,
+                            "nested": [
+                                {
+                                    "type": "heading",
+                                    "id": "db09585a0978",
+                                    "properties": [
+                                        "name"
+                                    ],
+                                    "conditioned": true,
+                                    "size": 1
+                                },
+                                {
+                                    "type": "inline",
+                                    "id": "cab95b982a99",
+                                    "properties": [],
+                                    "hasRule": false,
+                                    "nested": [
+                                        {
+                                            "type": "action",
+                                            "id": "9948cb6918c9",
+                                            "icon": "sword",
+                                            "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                                        },
+                                        {
+                                            "type": "action",
+                                            "id": "88bac85a897a",
+                                            "icon": "plus-with-circle",
+                                            "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subheading",
+                            "id": "395a59db5bfb",
+                            "properties": [
+                                "size",
+                                "type",
+                                "subtype",
+                                "alignment"
+                            ],
+                            "conditioned": true,
+                            "separator": ", "
+                        }
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "image",
+                    "id": "0aa90b18286a",
+                    "properties": [
+                        "image"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "group",
+            "id": "adnd-basics-group",
+            "properties": [
+                "climate_terrain",
+                "frequency",
+                "organization",
+                "activity_cycle",
+                "diet",
+                "intelligence",
+                "treasure"
+            ],
+            "nested": [
+                {
+                    "type": "property",
+                    "id": "adnd-climate-terrain",
+                    "display": "Climate/Terrain",
+                    "properties": [
+                        "climate_terrain"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-frequency",
+                    "display": "Frequency",
+                    "properties": [
+                        "frequency"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-organization",
+                    "display": "Organization",
+                    "properties": [
+                        "organization"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-activity-cycle",
+                    "display": "Activity Cycle",
+                    "properties": [
+                        "activity_cycle"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-diet",
+                    "display": "Diet",
+                    "properties": [
+                        "diet"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-intelligence",
+                    "display": "Intelligence",
+                    "properties": [
+                        "intelligence"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-treasure",
+                    "display": "Treasure",
+                    "properties": [
+                        "treasure"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "3acbda0aebea",
+                    "properties": [
+                        "original_src"
+                    ],
+                    "fallback": "-",
+                    "display": "Book Listed",
+                    "conditioned": true
+                }
+            ],
+            "hasRule": true,
+            "conditioned": true
+        },
+        {
+            "type": "group",
+            "id": "adnd-combat-group",
+            "properties": [
+                "armor_class",
+                "movement",
+                "hit_dice",
+                "thaco",
+                "no_appearing",
+                "attacks",
+                "damage_attack",
+                "special_attacks",
+                "special_defenses",
+                "magic_resistance",
+                "size",
+                "morale",
+                "xp_value"
+            ],
+            "nested": [
+                {
+                    "type": "property",
+                    "id": "adnd-armor-class",
+                    "display": "Armor Class",
+                    "properties": [
+                        "ac"
+                    ],
+                    "conditioned": false,
+                    "fallback": "Undefined"
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-movement",
+                    "display": "Movement",
+                    "properties": [
+                        "movement"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "inline",
+                    "id": "abebfb4b2ad8",
+                    "properties": [],
+                    "nested": [
+                        {
+                            "type": "property",
+                            "id": "5b5beb7a187a",
+                            "properties": [
+                                "hit_dice"
+                            ],
+                            "fallback": "undefined",
+                            "display": "Hit Dice"
+                        },
+                        {
+                            "type": "property",
+                            "id": "5a492b098959",
+                            "properties": [
+                                "health"
+                            ],
+                            "fallback": "-",
+                            "display": "Health"
+                        }
+                    ]
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-thaco",
+                    "display": "To Hit Bonus",
+                    "properties": [
+                        "to_hit"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "197bd80b38ab",
+                    "properties": [
+                        "modifier"
+                    ],
+                    "fallback": "undefined",
+                    "display": "Initiative Modifier"
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-no-appearing",
+                    "display": "No. Appearing",
+                    "properties": [
+                        "no_appearing"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-attacks",
+                    "display": "No. of Attacks",
+                    "properties": [
+                        "attacks"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-damage-attack",
+                    "display": "Damage/Attack",
+                    "properties": [
+                        "damage_attack"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "4bfb0bbb8b0a",
+                    "properties": [
+                        "armor"
+                    ],
+                    "fallback": "-",
+                    "display": "Armor"
+                },
+                {
+                    "type": "property",
+                    "id": "48b8f868e9b9",
+                    "properties": [
+                        "weapon"
+                    ],
+                    "fallback": "-",
+                    "display": "Weapon"
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-special-attacks",
+                    "display": "Special Attacks",
+                    "properties": [
+                        "special_attacks"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-special-defenses",
+                    "display": "Special Defenses",
+                    "properties": [
+                        "special_defenses"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-magic-resistance",
+                    "display": "Magic Resistance",
+                    "properties": [
+                        "magic_resistance"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-size",
+                    "display": "Size",
+                    "properties": [
+                        "size"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-morale",
+                    "display": "Morale",
+                    "properties": [
+                        "morale"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-xp-value",
+                    "display": "XP Value",
+                    "properties": [
+                        "xp_value"
+                    ],
+                    "conditioned": true
+                }
+            ],
+            "hasRule": true,
+            "conditioned": true
+        },
+        {
+            "type": "group",
+            "id": "adnd-saves-group",
+            "properties": [
+                "saving_throws",
+                "infravision",
+                "languages",
+                "psionics"
+            ],
+            "nested": [
+                {
+                    "type": "table",
+                    "id": "adnd-saving-throws-table",
+                    "properties": [
+                        "saving_throws"
+                    ],
+                    "headers": [
+                        "P/P/D",
+                        "R/S/W",
+                        "P/P",
+                        "BW",
+                        "Spell"
+                    ],
+                    "calculate": false,
+                    "hasRule": true,
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-infravision",
+                    "display": "Infravision",
+                    "properties": [
+                        "infravision"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-languages",
+                    "display": "Languages",
+                    "properties": [
+                        "languages"
+                    ],
+                    "fallback": "-"
+                },
+                {
+                    "type": "property",
+                    "id": "adnd-psionics",
+                    "display": "Psionics",
+                    "properties": [
+                        "psionics"
+                    ],
+                    "conditioned": true
+                },
+                {
+                    "type": "spells",
+                    "id": "8b78c9a9fa6a",
+                    "properties": [
+                        "spells"
+                    ],
+                    "fallback": "-"
+                }
+            ],
+            "hasRule": true,
+            "conditioned": true
+        },
+        {
+            "type": "group",
+            "id": "98882988ba9b",
+            "properties": [],
+            "nested": [
+                {
+                    "type": "property",
+                    "id": "594b490a2b99",
+                    "properties": [
+                        "level_1_spells"
+                    ],
+                    "fallback": "-",
+                    "display": "Lvl 1 Spells",
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "39a9d8793808",
+                    "properties": [
+                        "level_2_spells"
+                    ],
+                    "fallback": "-",
+                    "conditioned": true,
+                    "display": "Lvl 2 Spells"
+                },
+                {
+                    "type": "property",
+                    "id": "59ca1bc9b8c9",
+                    "properties": [
+                        "level_3_spells"
+                    ],
+                    "fallback": "-",
+                    "display": "Lvl 3 Spells",
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "1859bb4a896a",
+                    "properties": [
+                        "level_4_spells"
+                    ],
+                    "fallback": "-",
+                    "display": "Lvl 4 Spells",
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "fb58dac89a69",
+                    "properties": [
+                        "level_5_spells"
+                    ],
+                    "fallback": "-",
+                    "display": "Lvl 5 Spells",
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "2b9998ea280b",
+                    "properties": [
+                        "level_6_spells"
+                    ],
+                    "fallback": "-",
+                    "display": "Lvl 6 Spells",
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "89ab89583adb",
+                    "properties": [
+                        "level_7_spells"
+                    ],
+                    "fallback": "-",
+                    "display": "Lvl 7 Spells",
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "5bfb9ac83a09",
+                    "properties": [
+                        "level_8_spells"
+                    ],
+                    "fallback": "-",
+                    "display": "Lvl 8 Spells",
+                    "conditioned": true
+                },
+                {
+                    "type": "property",
+                    "id": "283bf9f9ebc9",
+                    "properties": [
+                        "level_9_spells"
+                    ],
+                    "fallback": "-",
+                    "display": "Lvl 9 Spells",
+                    "conditioned": true
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "id": "adnd-description",
+            "properties": [
+                "description"
+            ],
+            "conditioned": true,
+            "text": null
+        },
+        {
+            "type": "text",
+            "id": "adnd-combat-text",
+            "properties": [
+                "combat"
+            ],
+            "heading": "Combat",
+            "conditioned": true,
+            "text": null
+        },
+        {
+            "type": "text",
+            "id": "adnd-habitat-society-text",
+            "properties": [
+                "habitat_society"
+            ],
+            "heading": "Habitat/Society",
+            "conditioned": true,
+            "text": null
+        },
+        {
+            "type": "text",
+            "id": "adnd-ecology-text",
+            "properties": [
+                "ecology"
+            ],
+            "heading": "Ecology",
+            "conditioned": true,
+            "text": null
+        }
+    ],
+    "id": "287a38da5829",
+    "name": "ADnD_AI",
+    "edited": true,
+    "version": 1,
+    "diceParsing": []
+}
