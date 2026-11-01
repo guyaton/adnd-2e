@@ -71,6 +71,53 @@ Keep each volume's `images` folder where it is. The notes point to their artwork
 
 ---
 
+# 5. Add the monsters to the bestiary (Frontmatter Parsing)
+
+The steps above make each note render its own stat block. To look monsters up by name from anywhere, you also need to load them into the plugin's bestiary. Once a monster is in the bestiary, you can:
+
+show it in the plugin's Creature view,
+pull it into another note with monster: <name>,
+add it to combats with the Initiative Tracker plugin.
+
+The plugin does this with Frontmatter Parsing: it reads notes in the folders you choose and adds every note that's marked as a creature. Every note in this repo is already marked in its frontmatter, so you don't have to edit any notes:
+
+yaml
+---
+statblock: inline
+name: Aballin
+layout: ADnD_AI
+---
+
+statblock: inline tells the plugin to read the monster's stats from the statblock code block in the same note.
+
+Point the plugin at this repo's folders
+Open Settings → Fantasy Statblocks.
+Find the frontmatter parsing settings, labeled Frontmatter Parsing or Note Parsing depending on your plugin version.
+Turn on Parse Frontmatter for Creatures. This setting is called Automatically Parse Frontmatter in some versions.
+Under Bestiary Folders, add the folder you put this repo in, such as adnd-2e. If you opened the repo as its own vault, add the volume folders (MC1, MC Annual 1, and so on), or / for the whole vault.
+The plugin only parses notes in the folders listed here. If you leave this empty, or point it at the wrong folder, the monsters won't show up in the bestiary.
+Limiting parsing to these folders also keeps the plugin from scanning the rest of a large vault.
+Optional: turn off the 5e SRD monsters in the general settings, so the bestiary only lists AD&D monsters.
+Parse manually with Ctrl+P
+
+New notes are usually picked up automatically. To force a full parse, for example after the first setup, after a git pull, or when you've just added the bestiary folders:
+
+Press Ctrl+P (Cmd+P on macOS) to open the command palette.
+Type parse and run Fantasy Statblocks: Parse Frontmatter for Creatures.
+Wait for the notice saying parsing has finished. This can take a moment the first time, since there are several hundred monsters.
+Check that the bestiary is loaded
+Open Settings → Fantasy Statblocks and scroll to the Bestiary or Homebrew Creatures list. Search for a monster such as Aballin or Ghast.
+Or, in any note, add:
+markdown
+  ```statblock
+  monster: Ghast
+  ```
+
+It should render the full Ghast stat block, the same as the screenshot at the top of this page.
+
+---
+
+
 ## Troubleshooting
 
 | What you see | Likely cause and fix |
