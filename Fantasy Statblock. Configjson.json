@@ -192,7 +192,7 @@
                     "id": "adnd-armor-class",
                     "display": "Armor Class",
                     "properties": [
-                        "ac"
+                        "armor_class"
                     ],
                     "conditioned": false,
                     "fallback": "Undefined"
