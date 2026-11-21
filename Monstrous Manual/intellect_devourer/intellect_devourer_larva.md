@@ -19,7 +19,7 @@ treasure: Qx1d20
 alignment: Neutral (evil)
 no_appearing: 1-3
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 9
 hit_dice: 3+3
 health: 6-27

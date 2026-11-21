@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral (evil)
 no_appearing: 1-4
 armor_class_descending: Variable (typically 3)
-armor_class: Variable (typically 17)
+ac: Variable (typically 17)
 movement: 12, Fl 18 (C; D if mounted)
 hit_dice: 8+4
 health: 12-68

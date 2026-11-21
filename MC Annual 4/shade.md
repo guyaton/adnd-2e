@@ -18,7 +18,7 @@ treasure: K, M, N, W (Varies)
 alignment: Any nongood
 no_appearing: 1-2
 armor_class_descending: 10 (or by armor type)
-armor_class: 10 (or by armor type)
+ac: 10 (or by armor type)
 movement: 15
 hit_dice: 10 (or by class & level)
 health: 10-80 (or by class & level)

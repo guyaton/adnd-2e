@@ -18,7 +18,7 @@ treasure: U
 alignment: Lawful good
 no_appearing: 5-12 per skiff
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 6
 hit_dice: '2'
 health: 2-16

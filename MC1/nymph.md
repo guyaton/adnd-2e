@@ -18,7 +18,7 @@ treasure: Q (Qx10, X)
 alignment: Neutral (good)
 no_appearing: 1-4
 armor_class_descending: 9
-armor_class: 11
+ac: 11
 movement: 12
 hit_dice: 3
 health: 3-24

@@ -18,7 +18,7 @@ treasure: Nil (Ox5)
 alignment: Lawful good
 no_appearing: 10-60
 armor_class_descending: 10 (6 with barkskin)
-armor_class: 10 (14 with barkskin)
+ac: 10 (14 with barkskin)
 movement: 12
 hit_dice: 1 (clerics to 7th level)
 health: 1-8

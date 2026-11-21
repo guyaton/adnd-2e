@@ -11,7 +11,7 @@ original_src: Monstrous Compendium Dragonlance Appendix (MC4, TSR 2105), PDF p. 
 alignment: CG or NG (summary table only)
 no_appearing: 5-30
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 18 or 30
 hit_dice: '1'
 health: 1-8

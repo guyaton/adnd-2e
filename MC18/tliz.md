@@ -18,7 +18,7 @@ treasure: F, T (x2)
 alignment: Any evil
 no_appearing: '1'
 armor_class_descending: As in life, or 3
-armor_class: As in life, or 17
+ac: As in life, or 17
 movement: 12
 hit_dice: As in life +4 hp per HD, minimum 13 HD
 health: As in life (minimum 65-156)

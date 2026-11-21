@@ -19,7 +19,7 @@ treasure: 'Individual: L, N; Clan: I'
 alignment: Lawful good or neutral
 no_appearing: 1-10
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 12
 hit_dice: '1'
 health: 1-8

@@ -18,7 +18,7 @@ treasure: M, Q; (D, I, T)
 alignment: Lawful or chaotic evil
 no_appearing: 2-20
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 6, Run 15 (on all fours, flapping wings), Glide 18
 hit_dice: '2'
 health: 2-16

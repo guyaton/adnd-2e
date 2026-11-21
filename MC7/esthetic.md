@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: Fl 50 (B)
 hit_dice: 20-100 hull points
 health: 20-100 hull points

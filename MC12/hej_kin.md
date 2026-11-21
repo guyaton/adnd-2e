@@ -18,7 +18,7 @@ treasure: O (C)
 alignment: Neutral evil
 no_appearing: 4-16 (4d4)
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 6
 hit_dice: '2'
 health: 2-16

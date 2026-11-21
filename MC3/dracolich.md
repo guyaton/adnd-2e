@@ -18,7 +18,7 @@ treasure: B, H, S, T
 alignment: Evil (any)
 no_appearing: '1'
 armor_class_descending: See below
-armor_class: See below
+ac: See below
 movement: As per former dragon type
 hit_dice: As per former dragon type
 health: As per former dragon type

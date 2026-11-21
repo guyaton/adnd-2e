@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1d3
 armor_class_descending: 1 (6 out of water)
-armor_class: 19 (14 out of water)
+ac: 19 (14 out of water)
 movement: Sw 48 (3 out of water)
 hit_dice: '8'
 health: 8-64

@@ -18,7 +18,7 @@ treasure: U (communal), I (individual)
 alignment: Neutral good
 no_appearing: 3-12 (3d4)
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 3, Fl 27 (C)
 hit_dice: '1'
 health: 1-8

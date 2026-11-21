@@ -19,7 +19,7 @@ treasure: Nil (Qx3)
 alignment: Chaotic evil
 no_appearing: 1-2
 armor_class_descending: -5
-armor_class: 25
+ac: 25
 movement: 6, Fl 4 (E)
 hit_dice: 7
 health: 7-56

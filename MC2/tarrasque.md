@@ -18,7 +18,7 @@ treasure: See below
 alignment: Nil
 no_appearing: '1'
 armor_class_descending: -3
-armor_class: 23
+ac: 23
 movement: 9, Rush 15
 hit_dice: 300 hp (approx. 70 HD)
 health: 300

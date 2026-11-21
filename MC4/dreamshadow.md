@@ -18,7 +18,7 @@ treasure: As creature or person mimicked (but illusionary)
 alignment: As creature or person mimicked
 no_appearing: Variable
 armor_class_descending: As creature or person mimicked
-armor_class: As creature or person mimicked
+ac: As creature or person mimicked
 movement: As creature or person mimicked
 hit_dice: As creature or person mimicked
 health: As creature or person mimicked

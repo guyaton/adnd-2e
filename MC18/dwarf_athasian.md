@@ -18,7 +18,7 @@ treasure: Varies
 alignment: Lawful neutral
 no_appearing: 3-10 (3d10)
 armor_class_descending: 6 (10)
-armor_class: 14 (10)
+ac: 14 (10)
 movement: 6
 hit_dice: 1+2
 health: 3-10

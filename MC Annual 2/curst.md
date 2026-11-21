@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Chaotic neutral
 no_appearing: 2-11
 armor_class_descending: 7 (or by armor)
-armor_class: 13 (or by armor)
+ac: 13 (or by armor)
 movement: 12
 hit_dice: As level
 thac0_original: As level

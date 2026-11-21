@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Variable
 no_appearing: 1-8
 armor_class_descending: Variable
-armor_class: Variable
+ac: Variable
 movement: 15
 hit_dice: Variable
 health: Variable

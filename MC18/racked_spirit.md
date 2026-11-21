@@ -18,7 +18,7 @@ treasure: M (x2), O
 alignment: Chaotic evil
 no_appearing: 3-12 (3d4)
 armor_class_descending: 6, or as in life (see below)
-armor_class: 14, or as in life (see below)
+ac: 14, or as in life (see below)
 movement: 12, Fl 18 (B)
 hit_dice: As in life, or 4
 health: As in life, or 4-32

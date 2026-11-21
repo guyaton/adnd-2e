@@ -18,7 +18,7 @@ treasure: Q, V
 alignment: Lawful good
 no_appearing: 20-200
 armor_class_descending: 5 (10)
-armor_class: 15 (10)
+ac: 15 (10)
 movement: 6 (9)
 hit_dice: '1'
 health: 1-8

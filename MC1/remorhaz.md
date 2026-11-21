@@ -18,7 +18,7 @@ treasure: D
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: Overall 0, head 2, underbelly 4
-armor_class: Overall 20, head 18, underbelly 16
+ac: Overall 20, head 18, underbelly 16
 movement: 12
 hit_dice: 7-14
 health: 7-112

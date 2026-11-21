@@ -18,7 +18,7 @@ treasure: Q (I)
 alignment: Chaotic evil
 no_appearing: 1d6
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 18
 hit_dice: '14'
 health: 14-112

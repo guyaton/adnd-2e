@@ -19,7 +19,7 @@ treasure: Varies
 alignment: Chaotic evil
 no_appearing: 1-20
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 movement: Varies
 hit_dice: Varies
 health: Varies

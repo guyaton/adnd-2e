@@ -19,7 +19,7 @@ treasure: (C)
 alignment: Lawful good
 no_appearing: 4-16 (4d4)
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 12
 hit_dice: 4
 health: 4-32

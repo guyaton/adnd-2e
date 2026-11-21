@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1 patch
 armor_class_descending: Nil
-armor_class: Nil
+ac: Nil
 movement: 0 (Special)
 hit_dice: '2'
 health: 2-16

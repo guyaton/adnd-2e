@@ -19,7 +19,7 @@ treasure: Q (x3), S
 alignment: Nil
 no_appearing: 1-100
 armor_class_descending: 3
-armor_class: 17
+ac: 17
 movement: 18
 hit_dice: 2 (worker), 3 (warrior)
 health: ''

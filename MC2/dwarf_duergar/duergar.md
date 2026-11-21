@@ -19,7 +19,7 @@ treasure: 'Individuals M, Q; Lair B (magic only), F'
 alignment: Lawful evil (neutral)
 no_appearing: 2-9 or 201-300
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 6
 hit_dice: 1+2
 health: 3-10

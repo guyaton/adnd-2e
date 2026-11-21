@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: 5/0
-armor_class: 15/20
+ac: 15/20
 movement: Sw 12, Jet 24
 hit_dice: '18'
 health: 18-144

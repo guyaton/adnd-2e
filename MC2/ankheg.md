@@ -18,7 +18,7 @@ treasure: C
 alignment: Nil
 no_appearing: 1-6
 armor_class_descending: Overall 2, underside 4
-armor_class: Overall 18, underside 16
+ac: Overall 18, underside 16
 movement: 12, Br 6
 hit_dice: 1d6+2
 health: ''

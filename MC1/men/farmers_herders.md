@@ -13,7 +13,7 @@ treasure: Nil
 alignment: Neutral (good)
 no_appearing: 1-20
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 hit_dice: 1-6 hp
 health: 1-6
 thac0_original: 20

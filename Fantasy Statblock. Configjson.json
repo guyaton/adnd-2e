@@ -280,7 +280,7 @@
                     "type": "property",
                     "id": "4bfb0bbb8b0a",
                     "properties": [
-                        "armor"
+                        "ac"
                     ],
                     "fallback": "-",
                     "display": "Armor"

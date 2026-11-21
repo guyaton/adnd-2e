@@ -19,7 +19,7 @@ treasure: (C)
 alignment: Neutral
 no_appearing: 10-100
 armor_class_descending: 0 (8 polyp)
-armor_class: 20 (12 polyp)
+ac: 20 (12 polyp)
 movement: See below
 hit_dice: 3 to 8
 health: 3-64

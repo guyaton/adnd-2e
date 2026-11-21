@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: Varies (usually 1)
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 movement: Varies
 hit_dice: Varies
 health: Varies

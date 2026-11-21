@@ -18,7 +18,7 @@ treasure: B (K, L, M x 5)
 alignment: Neutral (evil)
 no_appearing: 1-6 or 5-30
 armor_class_descending: 4 or better
-armor_class: 16 or better
+ac: 16 or better
 movement: 18
 hit_dice: 5+5
 health: 10-45

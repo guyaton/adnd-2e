@@ -18,7 +18,7 @@ treasure: None
 alignment: Chaotic neutral
 no_appearing: '1'
 armor_class_descending: -4
-armor_class: 24
+ac: 24
 movement: 15 (480' per round astral)
 hit_dice: 15+30
 health: 45-150

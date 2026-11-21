@@ -18,7 +18,7 @@ treasure: C,Qx20 (Mx3)
 alignment: Neutral good
 no_appearing: 4-12 (3d4)
 armor_class_descending: 5(10)
-armor_class: 15(10)
+ac: 15(10)
 movement: 6
 hit_dice: 1
 health: 1-8

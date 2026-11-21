@@ -19,7 +19,7 @@ treasure: B
 alignment: Chaotic evil
 no_appearing: 1 (1-4 in the Abyss)
 armor_class_descending: 5 (base)
-armor_class: 15 (base)
+ac: 15 (base)
 movement: 12, Ju 3
 hit_dice: 5 to 5+8
 health: 5-48

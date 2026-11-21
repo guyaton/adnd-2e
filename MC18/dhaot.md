@@ -18,7 +18,7 @@ treasure: 0
 alignment: Chaotic neutral or any evil
 no_appearing: '1'
 armor_class_descending: As in life, or 3
-armor_class: As in life, or 17
+ac: As in life, or 17
 movement: 9
 hit_dice: As in life (minimum 3+3)
 health: As in life (minimum 6-27)

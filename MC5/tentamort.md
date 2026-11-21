@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1-10
 armor_class_descending: 3 (tentacles)/1 (body)
-armor_class: 17 (tentacles)/19 (body)
+ac: 17 (tentacles)/19 (body)
 movement: 1
 hit_dice: 2 each tentacle, 4 body
 health: tentacles 2-16 each; body 4-32

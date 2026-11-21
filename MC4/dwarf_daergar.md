@@ -18,7 +18,7 @@ treasure: M (x 5); (G, Q (x 20), R)
 alignment: Varies, but usually lawful evil
 no_appearing: 4-400
 armor_class_descending: 4 (10)
-armor_class: 16 (10)
+ac: 16 (10)
 movement: 6
 hit_dice: '1'
 health: 1-8

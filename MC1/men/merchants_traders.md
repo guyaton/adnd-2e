@@ -13,7 +13,7 @@ treasure: 10-1,000 gp
 alignment: Any
 no_appearing: 30-300 (3d10 x 10)
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 hit_dice: 1-6 hp
 health: 1-6
 thac0_original: 20

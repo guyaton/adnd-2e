@@ -18,7 +18,7 @@ treasure: R, (S)
 alignment: Varies, but usually chaotic or neutral good
 no_appearing: 20-200
 armor_class_descending: 8 (10)
-armor_class: 12 (10)
+ac: 12 (10)
 movement: 12 (or 15 if sprinting)
 hit_dice: 1+1
 health: 2-9

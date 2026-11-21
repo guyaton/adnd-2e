@@ -18,7 +18,7 @@ treasure: Any (as guardian)
 alignment: Neutral
 no_appearing: 1 or 1d6
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 6, Fl 15 (B), Sw 9, Jp 3
 hit_dice: 3+3
 health: 6-27

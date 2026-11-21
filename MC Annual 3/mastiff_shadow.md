@@ -17,7 +17,7 @@ intelligence: Semi- (2-4)
 alignment: Neutral evil
 no_appearing: 4-16
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 18 (9 in bright light)
 hit_dice: '4'
 health: 4-32

@@ -18,7 +18,7 @@ treasure: 'Varies (typical individual: O, X; typical lair: P, M, Q, X)'
 alignment: Varies, but usually lawful or chaotic neutral
 no_appearing: 1-20
 armor_class_descending: 8 (10)
-armor_class: 12 (10)
+ac: 12 (10)
 movement: 6 (9)
 hit_dice: '1'
 health: 1-8

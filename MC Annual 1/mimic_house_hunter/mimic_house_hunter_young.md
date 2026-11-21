@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1d4
 armor_class_descending: 0 (shell), 6 (tentacles and tongue)
-armor_class: 20 (shell), 14 (tentacles and tongue)
+ac: 20 (shell), 14 (tentacles and tongue)
 movement: 3
 hit_dice: 10
 health: 10-80

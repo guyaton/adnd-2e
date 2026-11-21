@@ -18,7 +18,7 @@ treasure: Nil, W
 alignment: Chaotic (evil)
 no_appearing: 2-5 (1-4+1)
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 6
 hit_dice: 1/2 (1-4 hp)
 health: 1-4

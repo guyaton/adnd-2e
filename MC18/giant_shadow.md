@@ -18,7 +18,7 @@ treasure: U (F)
 alignment: Chaotic neutral
 no_appearing: 1-4 (1d4)
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 6
 hit_dice: '7'
 health: 7-56

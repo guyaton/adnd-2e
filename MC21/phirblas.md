@@ -18,7 +18,7 @@ treasure: R, U
 alignment: Neutral good
 no_appearing: 1d4
 armor_class_descending: 8 (1 with plate mail)
-armor_class: 12 (19 with plate mail)
+ac: 12 (19 with plate mail)
 movement: 9
 hit_dice: '5'
 health: 5-40

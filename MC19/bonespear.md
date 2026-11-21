@@ -18,7 +18,7 @@ treasure: None
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 1 head, 5 body
-armor_class: 19 head, 15 body
+ac: 19 head, 15 body
 movement: 6
 hit_dice: 5+2
 health: 7-42

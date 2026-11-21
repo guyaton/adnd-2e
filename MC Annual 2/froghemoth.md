@@ -18,7 +18,7 @@ treasure: Incidental
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 4 (tentacles 2, tongue 6)
-armor_class: 16 (tentacles 18, tongue 14)
+ac: 16 (tentacles 18, tongue 14)
 movement: 4 (in swamp), Sw 8
 hit_dice: 16
 health: 16-128

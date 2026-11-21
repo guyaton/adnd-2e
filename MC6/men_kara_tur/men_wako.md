@@ -19,7 +19,7 @@ treasure: A
 alignment: Lawful evil
 no_appearing: 30-180
 armor_class_descending: See below
-armor_class: See below
+ac: See below
 movement: 12
 hit_dice: 1 (2-7 hit points)
 health: 2-7

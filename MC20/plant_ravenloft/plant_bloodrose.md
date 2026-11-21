@@ -19,7 +19,7 @@ treasure: U
 alignment: Nil
 no_appearing: 3-36 (3d12)
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 0
 hit_dice: '10'
 health: 10-80

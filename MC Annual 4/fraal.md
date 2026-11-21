@@ -18,7 +18,7 @@ treasure: Special
 alignment: Lawful neutral
 no_appearing: '7-12 (10%: 2-8)'
 armor_class_descending: 8 (or 2)
-armor_class: 12 (or 18)
+ac: 12 (or 18)
 movement: 12
 hit_dice: '2'
 health: 2-16

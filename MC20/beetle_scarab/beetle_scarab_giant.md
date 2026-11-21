@@ -19,7 +19,7 @@ treasure: (Z)
 alignment: Neutral
 no_appearing: 1d6 swarms
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 6, Br 3
 hit_dice: 6 per swarm
 health: 6-48 per swarm

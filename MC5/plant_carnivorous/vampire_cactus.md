@@ -19,7 +19,7 @@ treasure: Incidental
 alignment: Neutral
 no_appearing: 1-3
 armor_class_descending: 6 (core), 7 (leaf), 8 (thread)
-armor_class: 14 (core), 13 (leaf), 12 (thread)
+ac: 14 (core), 13 (leaf), 12 (thread)
 movement: 0
 hit_dice: 3 (core), 1+1 (leaf), 4 hp (thread)
 health: core 3-24; leaf 2-9; thread 4

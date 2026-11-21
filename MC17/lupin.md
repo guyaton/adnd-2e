@@ -18,7 +18,7 @@ treasure: C
 alignment: Any good
 no_appearing: 2d6
 armor_class_descending: 10 (8 with armor)
-armor_class: 10 (12 with armor)
+ac: 10 (12 with armor)
 movement: 12
 hit_dice: '2'
 health: 2-16

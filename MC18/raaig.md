@@ -18,7 +18,7 @@ treasure: E, V
 alignment: Any
 no_appearing: 1-4 (1d4)
 armor_class_descending: As in life, or 0 (see below)
-armor_class: As in life, or 20 (see below)
+ac: As in life, or 20 (see below)
 movement: 9, Fl 18 (B)
 hit_dice: As in life, minimum 8 HD
 health: As in life (minimum 8-64)

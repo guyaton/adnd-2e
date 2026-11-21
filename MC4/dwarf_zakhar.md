@@ -18,7 +18,7 @@ treasure: M (x 5); (G, Q (x 20), R)
 alignment: Varies, but usually neutral
 no_appearing: 2-20
 armor_class_descending: 3 (10)
-armor_class: 17 (10)
+ac: 17 (10)
 movement: 6
 hit_dice: '1'
 health: 1-8

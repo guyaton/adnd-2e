@@ -18,7 +18,7 @@ treasure: M, Q (R, S, X)
 alignment: Neutral
 no_appearing: 5-30
 armor_class_descending: By type
-armor_class: By type
+ac: By type
 movement: 15
 hit_dice: 4 or more (d10)
 health: 4-40 or more

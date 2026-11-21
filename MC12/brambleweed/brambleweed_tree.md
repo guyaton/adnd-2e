@@ -19,7 +19,7 @@ treasure: Incidental
 alignment: Nil
 no_appearing: 1-20
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 1" per day
 hit_dice: 2-4
 health: 2-32

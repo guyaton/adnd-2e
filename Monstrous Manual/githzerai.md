@@ -18,7 +18,7 @@ treasure: Individual P; Lair H x2
 alignment: Chaotic neutral
 no_appearing: 2-8 (away from lair)
 armor_class_descending: Variable
-armor_class: Variable
+ac: Variable
 movement: 12, 96 in Limbo
 hit_dice: Per class and level
 health: Per class and level

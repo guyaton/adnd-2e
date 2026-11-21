@@ -18,7 +18,7 @@ treasure: 'Nil (In lair: K x5, L x5, C)'
 alignment: Neutral
 no_appearing: 2-12
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 9, Sw 6
 hit_dice: '3'
 health: 3-24

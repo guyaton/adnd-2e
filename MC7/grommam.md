@@ -18,7 +18,7 @@ treasure: 50% chance each of J, K, M (D in community)
 alignment: Lawful good
 no_appearing: 10-120
 armor_class_descending: 5 (10)
-armor_class: 15 (10)
+ac: 15 (10)
 movement: 9, 15 in trees
 hit_dice: 2+1 (males), 1+1 (females), or by class/level
 health: 3-17 (males), 2-9 (females)

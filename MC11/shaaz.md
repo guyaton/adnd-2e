@@ -18,7 +18,7 @@ treasure: Nil (G)
 alignment: Lawful neutral (good)
 no_appearing: 2-12 (2d6)
 armor_class_descending: 5 (4 with shield)
-armor_class: 15 (16 with shield)
+ac: 15 (16 with shield)
 movement: 6, Fl 18 (B)
 hit_dice: '1'
 health: 1-8

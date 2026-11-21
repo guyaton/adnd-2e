@@ -18,7 +18,7 @@ treasure: Incidental
 alignment: Neutral evil
 no_appearing: 1 (7-12 in lair)
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: Sw 6
 hit_dice: 5+
 health: 5-52 (5 to 5+12 HD)

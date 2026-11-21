@@ -19,7 +19,7 @@ treasure: 'Individual: M, N, Q; Clan: A'
 alignment: Chaotic good
 no_appearing: 2-20
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 12, Sw 12
 hit_dice: '1'
 health: 1-8

@@ -18,7 +18,7 @@ treasure: (F)
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 12
 hit_dice: 5 (20 hp)
 health: 20

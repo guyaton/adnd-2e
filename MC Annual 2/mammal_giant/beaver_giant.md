@@ -10,7 +10,7 @@ group: Mammal, Giant
 original_src: Monstrous Compendium Annual Volume Two (TSR 2159), PDF p. 84
 no_appearing: 4-40
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 6, Sw 12
 hit_dice: 4
 health: 4-32

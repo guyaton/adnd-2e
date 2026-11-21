@@ -18,7 +18,7 @@ treasure: J (Q x 5)
 alignment: Neutral evil
 no_appearing: 3-300
 armor_class_descending: 8
-armor_class: 12
+ac: 12
 movement: 6, Fl 15 (C)
 hit_dice: 2-5
 health: 2-40

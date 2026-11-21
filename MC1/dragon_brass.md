@@ -18,7 +18,7 @@ treasure: Special
 alignment: Chaotic good (neutral)
 no_appearing: 1 (2-5)
 armor_class_descending: 0(base)
-armor_class: 20(base)
+ac: 20(base)
 movement: 12, Fl 30 (C), Br 6
 hit_dice: 12 (base)
 health: 12-96

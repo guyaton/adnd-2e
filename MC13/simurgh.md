@@ -18,7 +18,7 @@ treasure: (A)
 alignment: Lawful good
 no_appearing: '1'
 armor_class_descending: 1
-armor_class: 19
+ac: 19
 movement: 3, Fl 48 (A)
 hit_dice: 10+10
 health: 20-90

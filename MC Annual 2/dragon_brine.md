@@ -18,7 +18,7 @@ treasure: Special (see table)
 alignment: Chaotic neutral
 no_appearing: 1 (2-5)
 armor_class_descending: 2 (base)
-armor_class: 18 (base)
+ac: 18 (base)
 movement: Sw 9
 hit_dice: 11 (base)
 health: 11-88

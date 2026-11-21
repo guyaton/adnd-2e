@@ -18,7 +18,7 @@ treasure: L, M; (C)
 alignment: Varies, but usually lawful evil
 no_appearing: 'Patrol: 1-8; Settlement: 20-400'
 armor_class_descending: 6 (5)
-armor_class: 14 (15)
+ac: 14 (15)
 movement: 12
 hit_dice: 6+3
 health: 9-51

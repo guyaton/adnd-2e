@@ -18,7 +18,7 @@ treasure: Varies
 alignment: Chaotic neutral
 no_appearing: 3-30 (3d10)
 armor_class_descending: 6 (10)
-armor_class: 14 (10)
+ac: 14 (10)
 movement: 12
 hit_dice: 1+1
 health: 2-9

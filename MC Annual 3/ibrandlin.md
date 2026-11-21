@@ -18,7 +18,7 @@ treasure: Nil (except as guardian)
 alignment: Lawful neutral
 no_appearing: 1-8
 armor_class_descending: 3
-armor_class: 17
+ac: 17
 movement: 9
 hit_dice: '10'
 health: 10-80

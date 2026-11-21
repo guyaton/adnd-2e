@@ -18,7 +18,7 @@ treasure: Qx2d4
 alignment: Neutral evil
 no_appearing: 1d6
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 6
 hit_dice: 6+6
 health: 12-54

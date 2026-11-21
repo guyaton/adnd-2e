@@ -18,7 +18,7 @@ treasure: V
 alignment: Neutral (rarely, any)
 no_appearing: 1d6
 armor_class_descending: 6 (or 0)
-armor_class: 14 (or 20)
+ac: 14 (or 20)
 movement: Sw 9
 hit_dice: '5'
 health: 5-40

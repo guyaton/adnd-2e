@@ -11,7 +11,7 @@ group: Insect
 original_src: Monstrous Manual (TSR 2140), PDF p. 207
 no_appearing: '1'
 armor_class_descending: 3
-armor_class: 17
+ac: 17
 movement: 11
 hit_dice: '9'
 health: 9-72

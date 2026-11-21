@@ -18,7 +18,7 @@ treasure: See below
 alignment: Neutral
 no_appearing: '3'
 armor_class_descending: '-2 shell, 8 underbelly'
-armor_class: 22 shell, 12 underbelly
+ac: 22 shell, 12 underbelly
 movement: 3
 hit_dice: 8+3
 health: 11-67

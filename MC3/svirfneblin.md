@@ -18,7 +18,7 @@ treasure: K (x2) and Q (x3)
 alignment: Neutral (good)
 no_appearing: 3-30
 armor_class_descending: 2 and better
-armor_class: 18 and better
+ac: 18 and better
 movement: 9
 hit_dice: 3+6
 health: 9-30

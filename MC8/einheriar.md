@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Varies (same as plane encountered in)
 no_appearing: 10d10
 armor_class_descending: Varies according to type and magic
-armor_class: Varies
+ac: Varies
 movement: 12
 hit_dice: Varies by level
 health: Varies (maximum per die)

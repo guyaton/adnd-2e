@@ -19,7 +19,7 @@ treasure: Incidental
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 5 (10 polyp)
-armor_class: 15 (10 polyp)
+ac: 15 (10 polyp)
 movement: Nil
 hit_dice: '3'
 health: 3-24

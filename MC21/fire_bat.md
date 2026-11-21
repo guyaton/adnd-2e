@@ -18,7 +18,7 @@ treasure: I
 alignment: Neutral evil
 no_appearing: 10 + 1d10
 armor_class_descending: 8
-armor_class: 12
+ac: 12
 movement: 6, Fl 21 (B)
 hit_dice: '2'
 health: 2-16

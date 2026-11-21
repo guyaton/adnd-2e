@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral (neutral evil)
 no_appearing: '1'
 armor_class_descending: 3 (membrane), 0 (water)
-armor_class: 17 (membrane), 20 (water)
+ac: 17 (membrane), 20 (water)
 movement: Sw 15
 hit_dice: '8'
 health: 8-64

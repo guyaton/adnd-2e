@@ -18,7 +18,7 @@ treasure: Individuals R; Lair H
 alignment: Any evil
 no_appearing: 2-8 (away from lair)
 armor_class_descending: Per armor
-armor_class: Per armor
+ac: Per armor
 movement: 12, 96 on Astral plane
 hit_dice: Per class and level
 health: Per class and level

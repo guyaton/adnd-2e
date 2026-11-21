@@ -18,7 +18,7 @@ treasure: Q x 2; (U)
 alignment: Lawful evil
 no_appearing: 2-20
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 6, Run 15 (on all fours, flapping wings), Glide 18, Fl 6 (E)
 hit_dice: '4'
 health: 4-32

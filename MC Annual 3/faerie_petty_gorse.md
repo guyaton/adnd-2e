@@ -18,7 +18,7 @@ treasure: Nil (O, P, Q, S)
 alignment: Neutral
 no_appearing: 5-40
 armor_class_descending: 6 (2 if flying)
-armor_class: 14 (18 if flying)
+ac: 14 (18 if flying)
 movement: 3, Fl 12 (A)
 hit_dice: 1 hp
 health: 1

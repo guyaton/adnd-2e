@@ -18,7 +18,7 @@ treasure: M, Q (H, Rx10)
 alignment: Neutral
 no_appearing: 10-100
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 6, Br 6 (stone walk)
 hit_dice: '2'
 health: 2-16

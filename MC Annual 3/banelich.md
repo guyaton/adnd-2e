@@ -18,7 +18,7 @@ treasure: R (A, S, Z)
 alignment: Lawful evil
 no_appearing: '1'
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 9
 hit_dice: 17+
 health: 17-136 (at 17 HD)

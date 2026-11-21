@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Chaotic evil
 no_appearing: '1'
 armor_class_descending: Nil
-armor_class: Nil
+ac: Nil
 movement: Nil
 hit_dice: Nil
 health: Nil

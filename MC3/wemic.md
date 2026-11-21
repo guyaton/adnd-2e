@@ -18,7 +18,7 @@ treasure: B
 alignment: Neutral
 no_appearing: 2-16
 armor_class_descending: Males 6(5), females 7
-armor_class: Males 14(15), females 13
+ac: Males 14(15), females 13
 movement: 12
 hit_dice: 5+8
 health: 13-48

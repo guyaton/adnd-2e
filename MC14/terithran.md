@@ -18,7 +18,7 @@ treasure: Various discharged magical items, mostly useless
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 3 (6 Ethereal Plane)
-armor_class: 17 (14 Ethereal Plane)
+ac: 17 (14 Ethereal Plane)
 movement: 15 (18 Ethereal Plane)
 hit_dice: 5+1
 health: 6-41

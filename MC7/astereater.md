@@ -18,7 +18,7 @@ treasure: Not printed
 alignment: Lawful evil
 no_appearing: '1'
 armor_class_descending: -2
-armor_class: 22
+ac: 22
 movement: Fl 3 (B)
 hit_dice: '8'
 health: 8-64

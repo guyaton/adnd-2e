@@ -19,7 +19,7 @@ treasure: Incidental
 alignment: Chaotic neutral
 no_appearing: 2-16
 armor_class_descending: 6 (or special)
-armor_class: 14 (or special)
+ac: 14 (or special)
 movement: 12, Fl 6 (Gaseous 1)
 hit_dice: 2
 health: 2-16

@@ -18,7 +18,7 @@ treasure: See below
 alignment: Lawful good
 no_appearing: 1-8
 armor_class_descending: 2 or better
-armor_class: 18 or better
+ac: 18 or better
 movement: 9
 hit_dice: '8'
 health: 8-64

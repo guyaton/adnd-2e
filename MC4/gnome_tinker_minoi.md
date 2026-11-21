@@ -18,7 +18,7 @@ treasure: M (x 3); (C, Q (x 20))
 alignment: Neutral or lawful good
 no_appearing: 40-400
 armor_class_descending: 5 (10)
-armor_class: 15 (10)
+ac: 15 (10)
 movement: 6
 hit_dice: '1'
 health: 1-8

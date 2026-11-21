@@ -18,7 +18,7 @@ treasure: V
 alignment: Chaotic evil
 no_appearing: 1d3
 armor_class_descending: 4 or 0
-armor_class: 16 or 20
+ac: 16 or 20
 movement: 18
 hit_dice: 5-10
 health: 5-80

@@ -18,7 +18,7 @@ treasure: A
 alignment: Any evil
 no_appearing: '1'
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 6
 hit_dice: 9+18
 health: 27-90

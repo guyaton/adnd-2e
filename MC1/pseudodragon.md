@@ -18,7 +18,7 @@ treasure: Q (x10)
 alignment: Neutral (good)
 no_appearing: 1 (50% chance of 1-8 in nests)
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 6, Fl 24 (B)
 hit_dice: 2
 health: 2-16

@@ -18,7 +18,7 @@ treasure: A (magic only), R
 alignment: Neutral (good)
 no_appearing: 1 or 12-30
 armor_class_descending: 5 (10 base in human form)
-armor_class: 15 (10 base in human form)
+ac: 15 (10 base in human form)
 movement: 12, Sw 36
 hit_dice: 3+3
 health: 6-27

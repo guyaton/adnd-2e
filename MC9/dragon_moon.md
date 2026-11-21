@@ -18,7 +18,7 @@ treasure: Special
 alignment: Variable
 no_appearing: 1 (1-3)
 armor_class_descending: 4 (base)
-armor_class: 16 (base)
+ac: 16 (base)
 movement: 12, Fl 18 (C)
 hit_dice: 9 (base)
 health: 9-72

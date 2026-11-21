@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral evil
 no_appearing: 1d10
 armor_class_descending: 0/as duplicated form
-armor_class: 20/as duplicated form
+ac: 20/as duplicated form
 movement: 18/as duplicated form
 hit_dice: Special/as duplicated form
 thac0_original: Nil/as duplicated form

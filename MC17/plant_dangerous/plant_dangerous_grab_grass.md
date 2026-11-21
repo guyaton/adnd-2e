@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1 patch
 armor_class_descending: 9
-armor_class: 11
+ac: 11
 movement: 3
 hit_dice: 1 per 5' square
 health: 1-8 per 5' square

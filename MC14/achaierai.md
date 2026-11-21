@@ -18,7 +18,7 @@ treasure: F
 alignment: Chaotic evil
 no_appearing: 1-8
 armor_class_descending: 8 (legs AC -1)
-armor_class: 12 (legs AC 21)
+ac: 12 (legs AC 21)
 movement: 18
 hit_dice: Body 40 hp; legs 15 hp each
 health: Body 40; legs 15 each

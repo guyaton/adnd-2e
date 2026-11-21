@@ -19,7 +19,7 @@ treasure: Nil (Qx3)
 alignment: Neutral
 no_appearing: 20-70
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: Sw 12
 hit_dice: 1-3
 health: 1-24

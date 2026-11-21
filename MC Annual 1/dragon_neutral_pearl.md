@@ -18,7 +18,7 @@ treasure: See below
 alignment: Neutral
 no_appearing: 1d3
 armor_class_descending: 2 (base)
-armor_class: 18 (base)
+ac: 18 (base)
 movement: 9, Fl 18 (C), Sw 12
 hit_dice: 6 (base)
 health: 6-48

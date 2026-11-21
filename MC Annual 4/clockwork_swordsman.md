@@ -18,7 +18,7 @@ treasure: Qx2, see below
 alignment: Chaotic good
 no_appearing: '1'
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 12
 hit_dice: 5 to 10
 health: 5-80

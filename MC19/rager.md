@@ -18,7 +18,7 @@ treasure: P, L, Q
 alignment: Any chaotic
 no_appearing: 1-8
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 movement: 12
 hit_dice: 3d10 to 8d10
 health: 3-80

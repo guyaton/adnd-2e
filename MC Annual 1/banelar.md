@@ -18,7 +18,7 @@ treasure: Any (especially Q, V)
 alignment: Lawful evil
 no_appearing: 1d4
 armor_class_descending: '6 (head and stinger: 3; tentacles 1)'
-armor_class: '14 (head and stinger: 17; tentacles 19)'
+ac: '14 (head and stinger: 17; tentacles 19)'
 movement: 12
 hit_dice: 7+7
 health: 14-63

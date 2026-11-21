@@ -18,7 +18,7 @@ treasure: Q
 alignment: Chaotic neutral
 no_appearing: 6d4
 armor_class_descending: 10 or 0
-armor_class: 10 or 20
+ac: 10 or 20
 movement: 9
 hit_dice: 1+2
 health: 3-10

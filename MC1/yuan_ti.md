@@ -18,7 +18,7 @@ treasure: C
 alignment: Chaotic evil
 no_appearing: 1-4
 armor_class_descending: 4/0
-armor_class: 16/20
+ac: 16/20
 movement: 12, slither 9
 hit_dice: 6-9
 health: 6-72

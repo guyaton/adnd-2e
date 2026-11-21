@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Lawful evil
 no_appearing: 1-8
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 6
 hit_dice: 1/2
 health: 1-4

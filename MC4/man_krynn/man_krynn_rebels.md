@@ -18,7 +18,7 @@ treasure: K, L
 alignment: Lawful good
 no_appearing: 2-20
 armor_class_descending: See below
-armor_class: See below
+ac: See below
 movement: 12
 hit_dice: 1-6 hp
 health: 1-6

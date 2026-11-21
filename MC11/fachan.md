@@ -18,7 +18,7 @@ treasure: K
 alignment: Neutral evil
 no_appearing: 2-12 (4-48)
 armor_class_descending: 5 (head AC 2)
-armor_class: 15 (head AC 18)
+ac: 15 (head AC 18)
 movement: 9, Sw 15
 hit_dice: 4+2
 health: 6-34

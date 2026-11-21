@@ -19,7 +19,7 @@ treasure: See below
 alignment: Lawful neutral
 no_appearing: 1-2
 armor_class_descending: Body 4, eyes 7
-armor_class: Body 16, eyes 13
+ac: Body 16, eyes 13
 movement: Fl 10 (B)
 hit_dice: 4+4 hit points
 health: 8-36

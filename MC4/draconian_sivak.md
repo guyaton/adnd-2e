@@ -18,7 +18,7 @@ treasure: Q, 1/2 V; (Z)
 alignment: Neutral evil
 no_appearing: 2-20
 armor_class_descending: 1
-armor_class: 19
+ac: 19
 movement: 6, Run 15 (on all fours, flapping wings), Glide 18, Fl 24 (C)
 hit_dice: '6'
 health: 6-48

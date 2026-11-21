@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Chaotic evil
 no_appearing: '1'
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 movement: 9
 hit_dice: Varies
 health: Varies

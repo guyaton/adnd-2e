@@ -18,7 +18,7 @@ treasure: I (see below)
 alignment: Lawful neutral
 no_appearing: 1d6
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 6
 hit_dice: '3'
 health: 3-24

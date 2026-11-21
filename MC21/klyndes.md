@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: Fl 12 (A)
 hit_dice: '4'
 health: 4-32

@@ -18,7 +18,7 @@ treasure: Nil (B, Prime Material plane)
 alignment: Chaotic evil
 no_appearing: '1'
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 18
 hit_dice: '7'
 health: 7-56

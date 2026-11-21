@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Evil
 no_appearing: 1-4
 armor_class_descending: As in life
-armor_class: As in life
+ac: As in life
 movement: 18
 hit_dice: As in life
 health: As in life

@@ -18,7 +18,7 @@ treasure: D
 alignment: Lawful evil
 no_appearing: 1d4+1 wings of 2d10 members
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 12, Fl 36 (D)
 hit_dice: '5'
 health: 5-40

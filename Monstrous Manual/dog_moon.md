@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral good
 no_appearing: 1 or 2-8 (see below)
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 30, bipedal 9
 hit_dice: 9+3
 health: 12-75

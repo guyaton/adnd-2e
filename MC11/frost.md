@@ -18,7 +18,7 @@ treasure: Q x2 each
 alignment: Neutral good
 no_appearing: 1d6
 armor_class_descending: 9 (5 if flying)
-armor_class: 11 (15 if flying)
+ac: 11 (15 if flying)
 movement: 6, Fl 24
 hit_dice: 1/2 (1d4 hp)
 health: 1-4

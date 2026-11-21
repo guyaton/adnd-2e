@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: See below
 armor_class_descending: 8, Fl 6 (A)
-armor_class: 12
+ac: 12
 movement: 6, Fl 18 (C)
 hit_dice: 1 hp/20 insects
 health: 1 per 20 insects

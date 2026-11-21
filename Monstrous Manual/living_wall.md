@@ -18,7 +18,7 @@ treasure: Variable
 alignment: Chaotic evil
 no_appearing: '1'
 armor_class_descending: 8 (Base)
-armor_class: 12 (Base)
+ac: 12 (Base)
 movement: Nil
 hit_dice: 8 (Base)
 health: 64 (base, see below)

@@ -18,7 +18,7 @@ treasure: J, K, L, M, N, Q, S, and X (up to 3 types per individual)
 alignment: Nil
 no_appearing: 1-4
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 6, Sw 15
 hit_dice: 5 to 7
 health: 5-56

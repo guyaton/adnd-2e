@@ -18,7 +18,7 @@ treasure: 250 x 1d10 gp
 alignment: Neutral
 no_appearing: 1-2
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 6, Sw 6
 hit_dice: 5+3
 health: 8-43

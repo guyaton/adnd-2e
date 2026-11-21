@@ -18,7 +18,7 @@ treasure: F
 alignment: Neutral
 no_appearing: 1-2
 armor_class_descending: 3 (males), 4 (females)
-armor_class: 17 (males), 16 (females)
+ac: 17 (males), 16 (females)
 movement: 12, Jp 6
 hit_dice: 8+8
 health: 16-72

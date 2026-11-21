@@ -13,7 +13,7 @@ frequency: Uncommon
 intelligence: Low (5-7)
 no_appearing: 1-2
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 12, Sw 6
 hit_dice: 1+3
 health: 4-11

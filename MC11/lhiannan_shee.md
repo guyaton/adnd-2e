@@ -18,7 +18,7 @@ treasure: K, M, N, U
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: 8 in darkness; 5 in strong firelight or light spell; 2 in sunlight or continual light spell
-armor_class: 12 in darkness; 15 in firelight or light; 18 in sunlight or continual light
+ac: 12 in darkness; 15 in firelight or light; 18 in sunlight or continual light
 movement: 12
 hit_dice: '5'
 health: 5-40

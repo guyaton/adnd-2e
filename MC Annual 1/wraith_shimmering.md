@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1 the first day, 2 the second, 4 the third, 16 the fourth, 256 the fifth; on the sixth day and onward, attacks are nonstop
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 12
 hit_dice: 4
 health: 4-32

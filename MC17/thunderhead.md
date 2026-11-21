@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Chaotic evil
 no_appearing: 1d3
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 3, Fl 18 (E)
 hit_dice: 8 (16 in thunderstorms)
 health: 8-64 (16-128 in thunderstorms)

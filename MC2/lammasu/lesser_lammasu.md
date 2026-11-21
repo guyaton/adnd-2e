@@ -19,7 +19,7 @@ treasure: R, S, T
 alignment: Lawful good
 no_appearing: 2-8
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 12, Fl 24 (C)
 hit_dice: 7+7
 health: 14-63

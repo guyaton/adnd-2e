@@ -19,7 +19,7 @@ treasure: K, L, M, (D)
 alignment: Any (seldom good)
 no_appearing: 2-8
 armor_class_descending: 3 (8)
-armor_class: 17 (12)
+ac: 17 (12)
 movement: 6
 hit_dice: '5'
 health: 5-40

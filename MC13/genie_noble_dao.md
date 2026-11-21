@@ -18,7 +18,7 @@ treasure: U, Q (x10)
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 12, Fl 21 (B), Br 9
 hit_dice: 12+3
 health: 15-99

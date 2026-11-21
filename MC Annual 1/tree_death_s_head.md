@@ -18,7 +18,7 @@ treasure: Special
 alignment: Neutral evil
 no_appearing: Special
 armor_class_descending: 10 (trunk); 7 (branches/heads)
-armor_class: 10 (trunk); 13 (branches/heads)
+ac: 10 (trunk); 13 (branches/heads)
 movement: 0 (tree), Fl 6 (E) (heads)
 hit_dice: 10 (plus 6 hp per head)
 thac0_original: 11

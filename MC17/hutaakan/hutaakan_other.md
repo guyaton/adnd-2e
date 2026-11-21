@@ -19,7 +19,7 @@ treasure: S (I)
 alignment: Lawful neutral
 no_appearing: 1d10
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 9
 hit_dice: '1'
 health: 1-8

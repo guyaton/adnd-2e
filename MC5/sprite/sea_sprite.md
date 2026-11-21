@@ -18,7 +18,7 @@ treasure: (D)
 alignment: Chaotic neutral
 no_appearing: 5-40
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 6, Sw 24
 hit_dice: 1
 health: 1-8

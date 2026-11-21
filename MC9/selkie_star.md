@@ -18,7 +18,7 @@ treasure: A (magic only), R
 alignment: Neutral good
 no_appearing: 1 or 10-20
 armor_class_descending: 2 (prow -2), 10 in human form
-armor_class: 18 (prow 22), 10 in human form
+ac: 18 (prow 22), 10 in human form
 movement: Fl 12 (B), SR 5
 hit_dice: '4'
 health: 4-32

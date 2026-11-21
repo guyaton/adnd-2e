@@ -19,7 +19,7 @@ treasure: None
 alignment: Neutral evil
 no_appearing: 1d4 per secondary
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 16
 hit_dice: '4'
 health: 4-32

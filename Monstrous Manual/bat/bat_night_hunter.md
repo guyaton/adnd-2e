@@ -19,7 +19,7 @@ treasure: M, O, Z (in lair)
 alignment: Neutral evil
 no_appearing: 1-12 (1-30 in lair)
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 2, Fl 18 (A)
 hit_dice: 2+2
 health: 4-18

@@ -19,7 +19,7 @@ treasure: W (I)
 alignment: Lawful evil
 no_appearing: 1 per tribe
 armor_class_descending: 5 (6)
-armor_class: 15 (14)
+ac: 15 (14)
 movement: 5 (6)
 hit_dice: 5+1
 health: 6-41

@@ -18,7 +18,7 @@ treasure: L, M, N, Q; X
 alignment: Any
 no_appearing: 1 (2d4)
 armor_class_descending: 3
-armor_class: 17
+ac: 17
 movement: 12, Sw 24
 hit_dice: 4-7
 health: 4-56

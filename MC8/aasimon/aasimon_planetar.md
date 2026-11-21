@@ -19,7 +19,7 @@ treasure: None
 alignment: Any good
 no_appearing: '1'
 armor_class_descending: -7
-armor_class: 27
+ac: 27
 movement: 15, Fl 48 (B)
 hit_dice: '14'
 health: 14-112

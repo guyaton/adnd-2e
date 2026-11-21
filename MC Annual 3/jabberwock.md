@@ -18,7 +18,7 @@ treasure: Incidental
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: -10
-armor_class: 30
+ac: 30
 movement: 15, fly 15 (C)
 hit_dice: 15 (99 hp)
 health: 99

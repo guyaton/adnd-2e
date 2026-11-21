@@ -18,7 +18,7 @@ treasure: P, Q (individuals); D (in lair)
 alignment: Lawful evil
 no_appearing: 1 or 1-8
 armor_class_descending: 7 (base)
-armor_class: 13 (base)
+ac: 13 (base)
 movement: 12, 18 (rolling)
 hit_dice: '6'
 health: 6-48

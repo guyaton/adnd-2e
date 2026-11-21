@@ -18,7 +18,7 @@ treasure: Incidental
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 8 (body), 3 (needles)
-armor_class: 12 (body), 17 (needles)
+ac: 12 (body), 17 (needles)
 movement: Special
 hit_dice: 5-8
 health: 5-64

@@ -19,7 +19,7 @@ treasure: U (Nil)
 alignment: Chaotic evil
 no_appearing: 2d4
 armor_class_descending: -3
-armor_class: 23
+ac: 23
 movement: 18, Wb 15, Cl 9
 hit_dice: 9+1
 health: 10-73

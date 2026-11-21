@@ -17,7 +17,7 @@ treasure: All possible
 alignment: Varies
 no_appearing: 1 (1-2)
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: Varies (usually 12)/1, Fl 14 (C)
 hit_dice: Varies
 health: Varies

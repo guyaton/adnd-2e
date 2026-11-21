@@ -18,7 +18,7 @@ treasure: V
 alignment: Neutral
 no_appearing: 1d20
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 12, Fl 12 (E)
 hit_dice: 4+1 per level of the creator
 thac0_original: 12

@@ -14,7 +14,7 @@ treasure: L, M
 alignment: Lawful neutral
 no_appearing: 10-100
 armor_class_descending: 7 to 4
-armor_class: 13 to 16
+ac: 13 to 16
 hit_dice: 2-8 hp
 health: 2-8
 thac0_original: 20

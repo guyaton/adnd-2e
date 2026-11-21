@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Any evil
 no_appearing: 1 or 3
 armor_class_descending: 1
-armor_class: 19
+ac: 19
 movement: 12 (Fl 18 in gnat form)
 hit_dice: 9+9
 health: 18-81

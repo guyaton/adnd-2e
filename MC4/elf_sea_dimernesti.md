@@ -17,7 +17,7 @@ treasure: G, (S)
 alignment: Varies, but usually chaotic or neutral good
 no_appearing: 10-100
 armor_class_descending: 5 (10)
-armor_class: 15 (10)
+ac: 15 (10)
 movement: 9, Sw 15 (or 18 as otter)
 hit_dice: 1+1
 health: 2-9

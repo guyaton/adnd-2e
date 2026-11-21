@@ -19,7 +19,7 @@ treasure: K(B)
 alignment: Lawful good
 no_appearing: 2-12 (2d6)
 armor_class_descending: 6(10)
-armor_class: 14(10)
+ac: 14(10)
 movement: 6(9)
 hit_dice: 1-6 hit points
 health: 1-6

@@ -19,7 +19,7 @@ treasure: D
 alignment: Chaotic evil
 no_appearing: '1 (rarely: 1-2)'
 armor_class_descending: -3
-armor_class: 23
+ac: 23
 movement: 15
 hit_dice: 8+14
 health: 22-78

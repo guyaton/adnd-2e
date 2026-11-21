@@ -18,7 +18,7 @@ treasure: U
 alignment: Lawful neutral
 no_appearing: 4-40
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 6, Sw 15
 hit_dice: 1 to 4
 health: 1-32

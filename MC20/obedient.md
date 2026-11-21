@@ -18,7 +18,7 @@ treasure: M
 alignment: See below
 no_appearing: '1'
 armor_class_descending: 10 (by armor type)
-armor_class: 10 (by armor type)
+ac: 10 (by armor type)
 movement: 12
 hit_dice: Varies
 health: Varies

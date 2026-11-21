@@ -19,7 +19,7 @@ treasure: W (D)
 alignment: Any chaotic
 no_appearing: 1 or 3-9
 armor_class_descending: 0 or -3 (Matriarch)
-armor_class: 20 or 23 (Matriarch)
+ac: 20 or 23 (Matriarch)
 movement: 15
 hit_dice: 9 or 12 (Matriarch)
 health: 9-72 or 12-96

@@ -18,7 +18,7 @@ treasure: A (25% chance)
 alignment: Any
 no_appearing: '1'
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: Nil
 hit_dice: 22
 health: 22-176

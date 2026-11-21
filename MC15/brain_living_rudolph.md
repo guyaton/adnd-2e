@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: Special
 hit_dice: 1 (8 hp)
 health: 8

@@ -18,7 +18,7 @@ treasure: All possible (G is most common in lair)
 alignment: Neutral evil
 no_appearing: 1-3 (usually 1)
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: Fl 9 (A)
 hit_dice: '9'
 health: 9-72

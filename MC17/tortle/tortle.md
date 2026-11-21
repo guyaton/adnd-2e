@@ -19,7 +19,7 @@ treasure: E
 alignment: Lawful good
 no_appearing: 1d6
 armor_class_descending: 3 or -1
-armor_class: 17 or 21
+ac: 17 or 21
 movement: 3, Sw 3
 hit_dice: '4'
 health: 4-32

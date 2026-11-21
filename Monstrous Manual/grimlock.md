@@ -18,7 +18,7 @@ treasure: Individual K, L, M; B in Lair
 alignment: Neutral evil
 no_appearing: 20-200
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 12
 hit_dice: 2 (and see below)
 health: 2-16 (and see below)

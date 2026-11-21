@@ -19,7 +19,7 @@ treasure: W
 alignment: Neutral evil
 no_appearing: 1-2
 armor_class_descending: 5 (0)
-armor_class: 15 (20)
+ac: 15 (20)
 movement: Fl 12 (D)
 hit_dice: '7'
 health: 7-56

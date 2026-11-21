@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: '11-20 (village: 20-50)'
 armor_class_descending: 10 or better
-armor_class: 10 or better
+ac: 10 or better
 movement: 9
 hit_dice: '1'
 health: 1-8

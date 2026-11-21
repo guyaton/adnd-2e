@@ -18,7 +18,7 @@ treasure: I, U (Nil)
 alignment: Neutral evil
 no_appearing: 1-3
 armor_class_descending: 4 base
-armor_class: 16 base
+ac: 16 base
 movement: 15, Br 3
 hit_dice: 7 base
 health: 7-56 (base)

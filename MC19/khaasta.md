@@ -18,7 +18,7 @@ treasure: B, individual J, K, L
 alignment: Chaotic neutral (evil)
 no_appearing: 6-24
 armor_class_descending: 5 (2)
-armor_class: 15 (18)
+ac: 15 (18)
 movement: 9
 hit_dice: 3+3
 health: 6-27

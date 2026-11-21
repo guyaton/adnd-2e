@@ -12,7 +12,7 @@ treasure: L, M
 alignment: Any
 no_appearing: 10-100 (10d10)
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 hit_dice: Varies
 health: ''
 thac0_original: Varies

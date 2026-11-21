@@ -18,7 +18,7 @@ treasure: P, L, Q
 alignment: Varies (generally neutral)
 no_appearing: 1d6
 armor_class_descending: Varies (4)
-armor_class: Varies (16)
+ac: Varies (16)
 movement: Varies (12)
 hit_dice: Varies (4d10)
 health: Varies (4-40)

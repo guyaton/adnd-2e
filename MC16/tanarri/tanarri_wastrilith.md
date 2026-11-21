@@ -19,7 +19,7 @@ treasure: 25-50,000 gp
 alignment: Chaotic evil
 no_appearing: '1'
 armor_class_descending: -1
-armor_class: 21
+ac: 21
 movement: 9, Sw 15
 hit_dice: '15'
 health: 15-120

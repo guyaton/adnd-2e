@@ -18,7 +18,7 @@ treasure: S,T,U,V,W,X (all x5)
 alignment: Lawful evil
 no_appearing: '1'
 armor_class_descending: -12
-armor_class: 32
+ac: 32
 movement: 18, Sw 39
 hit_dice: 25 (200 hp)
 health: '200'

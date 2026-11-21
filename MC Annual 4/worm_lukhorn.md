@@ -18,7 +18,7 @@ treasure: Incidental
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 3 (5 Interior)
-armor_class: 17 (15 Interior)
+ac: 17 (15 Interior)
 movement: 9, Br 9
 hit_dice: '10'
 health: 10-80

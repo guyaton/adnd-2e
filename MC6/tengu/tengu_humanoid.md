@@ -19,7 +19,7 @@ treasure: C
 alignment: Chaotic neutral
 no_appearing: 1-3
 armor_class_descending: Not printed
-armor_class: Not printed
+ac: Not printed
 movement: 12, Fl 15 (C)
 hit_dice: 5-10 (8 ave.)
 health: 5-80

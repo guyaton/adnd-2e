@@ -18,7 +18,7 @@ treasure: 'Nil (F: 25% chance)'
 alignment: Any evil
 no_appearing: 1 or 1-4
 armor_class_descending: -6 or as host
-armor_class: 26 or as host
+ac: 26 or as host
 movement: 12 or as host
 hit_dice: 8
 health: 8-64

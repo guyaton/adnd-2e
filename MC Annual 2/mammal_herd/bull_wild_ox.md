@@ -10,7 +10,7 @@ group: Mammal, Herd
 original_src: Monstrous Compendium Annual Volume Two (TSR 2159), PDF p. 85
 no_appearing: 1-20
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 15
 hit_dice: 4
 health: 4-32

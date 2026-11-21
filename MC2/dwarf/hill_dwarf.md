@@ -19,7 +19,7 @@ treasure: M (x5) (G, Qx20, R)
 alignment: Lawful good
 no_appearing: 40-400
 armor_class_descending: 4 (10)
-armor_class: 16 (10)
+ac: 16 (10)
 movement: 6
 hit_dice: '1'
 health: 1-8

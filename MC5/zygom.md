@@ -18,7 +18,7 @@ treasure: Incidental (or host's possessions)
 alignment: Neutral evil
 no_appearing: 1-3
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 1 (or host's movement)
 hit_dice: 3 (or host's HD)
 health: 3-24 (or host's hp)

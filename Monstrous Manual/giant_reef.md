@@ -18,7 +18,7 @@ treasure: Z (A)
 alignment: Neutral good
 no_appearing: 1 or 1-4
 armor_class_descending: 0 or -4
-armor_class: 20 or 24
+ac: 20 or 24
 movement: 15, Sw 12
 hit_dice: '18'
 health: 18-144

@@ -18,7 +18,7 @@ treasure: Nil (Rx2)
 alignment: Chaotic neutral
 no_appearing: 1-3
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 9, Sw 18
 hit_dice: Young (7-8 HD); Adolescent (9-10 HD); Adult (11-12 HD); Ancient (13-14 HD)
 health: 7-112

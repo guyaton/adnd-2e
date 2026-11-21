@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 4d6 per herd
 armor_class_descending: 8
-armor_class: 12
+ac: 12
 movement: 12
 hit_dice: 1
 health: 1-8

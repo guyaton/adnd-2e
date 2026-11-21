@@ -19,7 +19,7 @@ treasure: None
 alignment: Chaotic evil
 no_appearing: 1-4
 armor_class_descending: 10 (4 as spider)
-armor_class: 10 (16 as spider)
+ac: 10 (16 as spider)
 movement: 12, Wb 6 as spider
 hit_dice: 6+6
 health: 12-54

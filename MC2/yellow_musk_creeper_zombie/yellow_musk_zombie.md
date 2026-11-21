@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1 per 2 flowers
 armor_class_descending: Variable (10)
-armor_class: Variable (10)
+ac: Variable (10)
 movement: 6
 hit_dice: 2 (special)
 health: ''

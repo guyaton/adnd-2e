@@ -18,7 +18,7 @@ treasure: B, E, H
 alignment: Lawful evil
 no_appearing: '1'
 armor_class_descending: 0 or better
-armor_class: 20 or better
+ac: 20 or better
 movement: 12
 hit_dice: As in life, minimum 10 HD
 health: As in life (minimum 10-80)

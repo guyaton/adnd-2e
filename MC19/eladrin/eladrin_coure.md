@@ -19,7 +19,7 @@ treasure: Incidental
 alignment: Chaotic good
 no_appearing: 2-40
 armor_class_descending: 5 (0)
-armor_class: 15 (20)
+ac: 15 (20)
 movement: 9, Fl 24 (B) or 48 (A)
 hit_dice: 2+1
 health: 3-17

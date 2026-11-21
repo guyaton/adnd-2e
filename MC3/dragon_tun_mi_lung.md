@@ -18,7 +18,7 @@ treasure: Special
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: '-3 (base)'
-armor_class: 23 (base)
+ac: 23 (base)
 movement: 12, Fl 48 (E), Sw 12
 hit_dice: 15 (base)
 health: 15-120

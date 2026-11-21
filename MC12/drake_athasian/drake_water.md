@@ -19,7 +19,7 @@ treasure: Special
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: -1
-armor_class: 21
+ac: 21
 movement: 12, Sw 15
 hit_dice: 20 (140 hit points)
 health: 140

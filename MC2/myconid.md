@@ -18,7 +18,7 @@ treasure: S (x2)
 alignment: Lawful neutral
 no_appearing: 1-12; 20-200 in lair
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 9
 hit_dice: 1-6
 health: 1-48

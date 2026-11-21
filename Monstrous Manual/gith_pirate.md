@@ -18,7 +18,7 @@ treasure: A (N)
 alignment: Lawful evil
 no_appearing: 20-40/As ship crew
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 12
 hit_dice: 7-11
 health: 7-88

@@ -19,7 +19,7 @@ treasure: R, W
 alignment: Neutral
 no_appearing: 1-2 (1-6 on the Spire)
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 18
 hit_dice: '8'
 health: 8-64

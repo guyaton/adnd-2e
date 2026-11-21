@@ -18,7 +18,7 @@ treasure: Any (as guardian)
 alignment: Lawful good (15% are lawful neutral)
 no_appearing: '1'
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 9
 hit_dice: 9+6
 health: 15-78

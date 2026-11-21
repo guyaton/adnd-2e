@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Lawful evil
 no_appearing: '1'
 armor_class_descending: 10; 8 with head detached
-armor_class: 10; 12 with head detached
+ac: 10; 12 with head detached
 movement: 12; head detached Fl 18 (B)
 hit_dice: Body variable; head 4
 health: Head 4-32

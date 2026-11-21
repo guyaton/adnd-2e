@@ -19,7 +19,7 @@ treasure: J, K, L, M, N
 alignment: Neutral
 no_appearing: 2-20 (2d10)
 armor_class_descending: 8
-armor_class: 12
+ac: 12
 movement: 6, Wb 15
 hit_dice: 1+1
 health: 2-9

@@ -19,7 +19,7 @@ treasure: E
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 6
 hit_dice: Variable (4+)
 health: Variable (4-32 at 4 HD)

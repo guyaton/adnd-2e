@@ -19,7 +19,7 @@ treasure: J, Q
 alignment: Lawful neutral
 no_appearing: 3-12
 armor_class_descending: 3
-armor_class: 17
+ac: 17
 movement: 3, Sw 9
 hit_dice: '4'
 health: 4-32

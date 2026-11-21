@@ -18,7 +18,7 @@ treasure: None
 alignment: Neutral
 no_appearing: 2-20 vines
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 0
 hit_dice: 5 hp per vine
 health: 5 per vine

@@ -18,7 +18,7 @@ treasure: L (C)
 alignment: Any
 no_appearing: 2-7 (1d6+1)
 armor_class_descending: 8 (10)
-armor_class: 12 (10)
+ac: 12 (10)
 movement: 9
 hit_dice: 5+5
 health: 10-45

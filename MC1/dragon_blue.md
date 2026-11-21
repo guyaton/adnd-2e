@@ -18,7 +18,7 @@ treasure: Special
 alignment: Lawful evil
 no_appearing: 1 (2-5)
 armor_class_descending: 0(base)
-armor_class: 20(base)
+ac: 20(base)
 movement: 9, Fl 30 (C), Br 4
 hit_dice: 14 (base)
 health: 14-112

@@ -19,7 +19,7 @@ treasure: J-N, Q, C (magic only)
 alignment: Nil
 no_appearing: 3-12
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: Nil
 hit_dice: 2-4
 health: 2-32

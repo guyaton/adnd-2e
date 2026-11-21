@@ -19,7 +19,7 @@ treasure: I, Y
 alignment: Neutral evil
 no_appearing: 1-6 or 10-30
 armor_class_descending: -2
-armor_class: 22
+ac: 22
 movement: 6, Glide 12 (E), Sw 24
 hit_dice: 7+14
 health: 21-70

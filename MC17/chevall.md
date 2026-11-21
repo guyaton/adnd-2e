@@ -18,7 +18,7 @@ treasure: M, Q (C)
 alignment: Neutral good
 no_appearing: 1d3
 armor_class_descending: 2 (as horse) or 5 (as centaur)
-armor_class: 18 (as horse) or 15 (as centaur)
+ac: 18 (as horse) or 15 (as centaur)
 movement: 24 (as horse) or 18 (as centaur)
 hit_dice: '7'
 health: 7-56

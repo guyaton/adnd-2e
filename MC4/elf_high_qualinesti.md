@@ -18,7 +18,7 @@ treasure: M; (E, S (x 1/2), T)
 alignment: Varies, but usually lawful or neutral good
 no_appearing: 10-100
 armor_class_descending: 5 (10)
-armor_class: 15 (10)
+ac: 15 (10)
 movement: 12
 hit_dice: 1+1
 health: 2-9

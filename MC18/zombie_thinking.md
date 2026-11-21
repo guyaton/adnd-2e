@@ -17,7 +17,7 @@ treasure: See below
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: As in life, or 6
-armor_class: As in life, or 14
+ac: As in life, or 14
 movement: 12
 hit_dice: As in life, minimum 5+6
 health: As in life (minimum 11-46)

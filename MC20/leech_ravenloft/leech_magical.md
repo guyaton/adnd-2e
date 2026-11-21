@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 5-30 (5d6)
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 0, Sw 3
 hit_dice: 1 hit point
 health: 1

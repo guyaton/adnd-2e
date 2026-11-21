@@ -15,7 +15,7 @@ treasure: M, Q (C, S, T)
 alignment: Neutral (good)
 no_appearing: 6-60
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 no_of_attacks: 1
 morale: Elite (13)
 xp_value: 'Normal: 270; Exceptional (4-6 HD): 650; Exceptional (7-8 HD): 2,000; Mage: 2,000 + 1,000 per level over 7th; Priest: 2,000 + 1,000 per level over 7th; Triton leader: 4,000'

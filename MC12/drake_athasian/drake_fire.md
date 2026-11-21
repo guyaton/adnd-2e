@@ -19,7 +19,7 @@ treasure: Special
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: -3
-armor_class: 23
+ac: 23
 movement: 12, Jp 3
 hit_dice: 20+8 (145 hit points)
 health: 145

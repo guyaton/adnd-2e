@@ -19,7 +19,7 @@ treasure: Special
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: -2
-armor_class: 22
+ac: 22
 movement: 9, Fl 30 (B), Jp 6
 hit_dice: 25+9 (170 hit points)
 health: 170

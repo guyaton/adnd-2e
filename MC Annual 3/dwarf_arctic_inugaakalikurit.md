@@ -18,7 +18,7 @@ treasure: M (Qx5)
 alignment: Varies, usually lawful neutral
 no_appearing: 10-100
 armor_class_descending: 8 (10)
-armor_class: 12 (10)
+ac: 12 (10)
 movement: 6
 hit_dice: '1'
 health: 1-8

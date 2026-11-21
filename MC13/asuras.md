@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Chaotic good
 no_appearing: 1 (2-200 on home plane)
 armor_class_descending: Not printed
-armor_class: Not printed
+ac: Not printed
 movement: 12, Fl 33 (A)
 hit_dice: '8'
 health: 8-64

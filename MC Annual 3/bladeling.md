@@ -18,7 +18,7 @@ treasure: R, M (individual); D (group)
 alignment: Lawful evil (neutral)
 no_appearing: 2-20
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 12
 hit_dice: 2 to 11
 health: 2-88

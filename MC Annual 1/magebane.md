@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Chaotic neutral
 no_appearing: '1'
 armor_class_descending: See below
-armor_class: See below
+ac: See below
 movement: 6, Fl 12 (A)
 hit_dice: 2+4
 health: 6-20

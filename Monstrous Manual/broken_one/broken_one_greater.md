@@ -19,7 +19,7 @@ treasure: I, K, M (Z)
 alignment: Neutral evil
 no_appearing: 1-4 (1d4)
 armor_class_descending: 5 (8)
-armor_class: 15 (12)
+ac: 15 (12)
 movement: 9
 hit_dice: '5'
 health: 5-40

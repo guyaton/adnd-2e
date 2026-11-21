@@ -18,7 +18,7 @@ treasure: M (X, Y)
 alignment: Neutral (good)
 no_appearing: 2-12
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 6, Leap 12
 hit_dice: 1/2+1
 health: 2-5

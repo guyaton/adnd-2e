@@ -19,7 +19,7 @@ treasure: V
 alignment: Any
 no_appearing: 1d6
 armor_class_descending: 9
-armor_class: 11
+ac: 11
 movement: 12
 hit_dice: '8'
 health: 8-64

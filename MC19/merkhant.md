@@ -18,7 +18,7 @@ treasure: H, individual R x 3, U
 alignment: Any nongood
 no_appearing: 1-4
 armor_class_descending: Varies (5)
-armor_class: Varies (15)
+ac: Varies (15)
 movement: 12
 hit_dice: Varies (5d6)
 health: Varies (5-30)

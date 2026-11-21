@@ -17,7 +17,7 @@ treasure: F, S in lair
 alignment: Varies, but usually chaotic or lawful good
 no_appearing: 10-40
 armor_class_descending: 8 (10)
-armor_class: 12 (10)
+ac: 12 (10)
 movement: 9, Sw 15 (or 30 as dolphin)
 hit_dice: 1+1
 health: 2-9

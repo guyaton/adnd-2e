@@ -18,7 +18,7 @@ treasure: G lair, R individual
 alignment: Lawful neutral
 no_appearing: 1-6
 armor_class_descending: 2 (5)
-armor_class: 18 (15)
+ac: 18 (15)
 movement: 12
 hit_dice: '10'
 health: 10-80

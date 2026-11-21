@@ -18,7 +18,7 @@ treasure: A
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: 1
-armor_class: 19
+ac: 19
 movement: 15, Wb 21, Jp3
 hit_dice: 6+12
 health: 18-60

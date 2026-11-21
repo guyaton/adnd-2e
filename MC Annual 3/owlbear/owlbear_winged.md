@@ -19,7 +19,7 @@ treasure: Incidental
 alignment: Neutral
 no_appearing: 1 (2-5)
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 12, Fl 18 (E)
 hit_dice: 5+2
 health: 7-42

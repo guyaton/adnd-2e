@@ -18,7 +18,7 @@ treasure: (Q x3)
 alignment: Lawful evil
 no_appearing: '1'
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 15, Fl 30 (B)
 hit_dice: 7+3 (47 hp)
 health: 47

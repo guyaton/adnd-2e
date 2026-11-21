@@ -18,7 +18,7 @@ treasure: A, B, C, or D (Z)
 alignment: Lawful good or chaotic evil
 no_appearing: 1-8
 armor_class_descending: 10 or 7
-armor_class: 10 or 13
+ac: 10 or 13
 movement: 12
 hit_dice: '1'
 health: 1-8

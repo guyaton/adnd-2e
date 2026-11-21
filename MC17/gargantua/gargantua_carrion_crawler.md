@@ -18,7 +18,7 @@ treasure: Bx2
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 3 (head)/7 (body)
-armor_class: 17 (head)/13 (body)
+ac: 17 (head)/13 (body)
 movement: 24
 hit_dice: 12+4
 health: 16-100

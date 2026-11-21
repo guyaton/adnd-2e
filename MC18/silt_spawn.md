@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 2d6
 armor_class_descending: 8
-armor_class: 12
+ac: 12
 movement: 15 (in silt)
 hit_dice: '2'
 health: 2-16

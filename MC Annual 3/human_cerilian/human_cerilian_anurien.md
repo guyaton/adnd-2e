@@ -14,7 +14,7 @@ treasure: L, M
 alignment: Any lawful
 no_appearing: 1-20
 armor_class_descending: 2 or 4
-armor_class: 18 or 16
+ac: 18 or 16
 hit_dice: 2+
 health: 2-16+
 thac0_original: 19 or less

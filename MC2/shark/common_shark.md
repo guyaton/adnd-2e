@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Nil
 no_appearing: 3-12
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: Sw 24
 hit_dice: 3-8
 health: 3-64

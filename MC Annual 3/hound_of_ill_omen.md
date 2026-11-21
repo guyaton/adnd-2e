@@ -17,7 +17,7 @@ intelligence: Non- (0)
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 48
 hit_dice: '1'
 health: 1-8

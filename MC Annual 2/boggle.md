@@ -18,7 +18,7 @@ treasure: 'Nil (25%: M or Q)'
 alignment: Chaotic neutral
 no_appearing: 1-3 (2-8)
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 9
 hit_dice: 4+3
 health: 7-35

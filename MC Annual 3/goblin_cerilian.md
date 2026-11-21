@@ -18,7 +18,7 @@ treasure: K (C)
 alignment: Lawful evil
 no_appearing: 4-24 (60-360 in settlement)
 armor_class_descending: 'Common: 7 (10); Elite: 5 (10); Huge: 3 (10)'
-armor_class: 'Common: 13 (10); Elite: 15 (10); Huge: 17 (10)'
+ac: 'Common: 13 (10); Elite: 15 (10); Huge: 17 (10)'
 movement: 6
 hit_dice: 'Common: 1-1; Elite: 1+1; Huge: 3+1'
 health: 'Common: 1-7; Elite: 2-9; Huge: 4-25'

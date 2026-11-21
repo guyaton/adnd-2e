@@ -18,7 +18,7 @@ treasure: M + 1 jewelry (U, W)
 alignment: Neutral
 no_appearing: 5-20 (100 in lair)
 armor_class_descending: 4 (10)
-armor_class: 16 (10)
+ac: 16 (10)
 movement: 12
 hit_dice: 1+1 and up
 health: 2-9 and up

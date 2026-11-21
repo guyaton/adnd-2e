@@ -19,7 +19,7 @@ treasure: U (see below)
 alignment: Any lawful
 no_appearing: 3d12
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 18
 hit_dice: 6+3
 health: 9-51

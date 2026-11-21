@@ -11,7 +11,7 @@ original_src: Monstrous Compendium Dragonlance Appendix (MC4, TSR 2105), PDF p. 
 alignment: LE (summary table only)
 no_appearing: 6-36
 armor_class_descending: 3
-armor_class: 17
+ac: 17
 movement: 9
 hit_dice: 3+3
 health: 6-27

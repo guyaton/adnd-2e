@@ -18,7 +18,7 @@ treasure: S, T, U
 alignment: Chaotic good
 no_appearing: 1-6
 armor_class_descending: 5 (1 when invisible)
-armor_class: 15 (19 when invisible)
+ac: 15 (19 when invisible)
 movement: 6, Fl 24 (A)
 hit_dice: See below (1-16 hit points by age)
 health: 1-16 (by age)

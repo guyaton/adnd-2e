@@ -18,7 +18,7 @@ treasure: See below
 alignment: Neutral
 no_appearing: 3-18
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 1/4
 hit_dice: '16'
 health: 16-128

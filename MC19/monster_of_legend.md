@@ -18,7 +18,7 @@ treasure: G, Z x 2
 alignment: Per prime-material monster
 no_appearing: '1'
 armor_class_descending: 0 or better (-6)
-armor_class: 20 or better (26)
+ac: 20 or better (26)
 movement: Per prime-material monster (18, Fl 30 D)
 hit_dice: 75-150 hit points (120 hp)
 health: 75-150 (120)

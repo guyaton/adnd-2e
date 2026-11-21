@@ -11,7 +11,7 @@ group: Mammal
 original_src: Monstrous Manual (TSR 2140), PDF p. 244
 no_appearing: 2-20
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 6, Sw 9
 hit_dice: 2+1
 health: 3-17

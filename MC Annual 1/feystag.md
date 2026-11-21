@@ -18,7 +18,7 @@ treasure: Vx2,X
 alignment: Chaotic neutral
 no_appearing: 1d2
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 14
 hit_dice: 2+4
 health: 6-20

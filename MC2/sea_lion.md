@@ -15,7 +15,7 @@ treasure: B
 alignment: Neutral
 no_appearing: 3-12
 armor_class_descending: 5/3
-armor_class: 15/17
+ac: 15/17
 xp_value: 270
 hit_dice: '6'
 health: 6-48

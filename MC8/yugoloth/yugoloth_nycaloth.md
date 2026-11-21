@@ -19,7 +19,7 @@ treasure: Q (x10), X
 alignment: Neutral evil
 no_appearing: 1 (or 1-2, but very rarely)
 armor_class_descending: -6
-armor_class: 26
+ac: 26
 movement: 12, Fl 36 (C)
 hit_dice: 11+22
 health: 33-110

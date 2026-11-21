@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 5 internal (2 external)
-armor_class: 15 internal (18 external)
+ac: 15 internal (18 external)
 movement: 1
 hit_dice: 15 or 16
 health: 15-128

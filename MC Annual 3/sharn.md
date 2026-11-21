@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Chaotic neutral
 no_appearing: 1-12
 armor_class_descending: 2/6 (portal/tentacles or body)
-armor_class: 18/14 (portal/tentacles or body)
+ac: 18/14 (portal/tentacles or body)
 movement: 4, Fl 15 (C)
 hit_dice: 6+6
 health: 12-54

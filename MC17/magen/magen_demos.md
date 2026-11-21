@@ -19,7 +19,7 @@ treasure: C
 alignment: Neutral
 no_appearing: 2d6
 armor_class_descending: 7 or armor type
-armor_class: 13 or armor type
+ac: 13 or armor type
 movement: 12
 hit_dice: 3+2
 health: 5-26

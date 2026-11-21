@@ -18,7 +18,7 @@ treasure: E, R, T
 alignment: Lawful neutral (evil)
 no_appearing: '1'
 armor_class_descending: '-2 (body)/2 (eyestalks)'
-armor_class: 22 (body)/18 (eyestalks)
+ac: 22 (body)/18 (eyestalks)
 movement: Fl 3 (A)
 hit_dice: 8+8
 health: 16-72

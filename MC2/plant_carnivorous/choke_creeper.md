@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 6 (vine)/5 (stalk)
-armor_class: 14 (vine)/15 (stalk)
+ac: 14 (vine)/15 (stalk)
 movement: ½
 hit_dice: 25
 health: 25-200

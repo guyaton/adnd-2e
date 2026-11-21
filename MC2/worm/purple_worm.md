@@ -18,7 +18,7 @@ treasure: (B, Q x 5, X)
 alignment: Nil
 no_appearing: '1'
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 9
 hit_dice: 15
 health: 15-120

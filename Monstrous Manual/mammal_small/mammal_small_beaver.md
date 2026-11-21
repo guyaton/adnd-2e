@@ -14,7 +14,7 @@ intelligence: Animal (1)
 alignment: Neutral
 no_appearing: 10-40
 armor_class_descending: 9
-armor_class: 11
+ac: 11
 movement: 4, Sw 12
 hit_dice: 1-4 hp
 health: 1-4

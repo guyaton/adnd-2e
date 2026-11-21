@@ -18,7 +18,7 @@ treasure: None
 alignment: Any evil
 no_appearing: '1'
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: Fl 12 (C)
 hit_dice: 6+6 (but see below)
 health: 12-54 (base)

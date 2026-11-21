@@ -18,7 +18,7 @@ treasure: I, K, M
 alignment: Neutral evil
 no_appearing: 5d6
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 movement: Varies
 hit_dice: '3'
 health: 21-24

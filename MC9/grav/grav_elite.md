@@ -19,7 +19,7 @@ treasure: R (E)
 alignment: Lawful neutral
 no_appearing: 1 per 30 miners
 armor_class_descending: 6 (10)
-armor_class: 14 (10)
+ac: 14 (10)
 movement: 9
 hit_dice: 5+1
 health: 6-41

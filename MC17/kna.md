@@ -18,7 +18,7 @@ treasure: P (A)
 alignment: Neutral good (80%) or neutral evil (20%)
 no_appearing: 2d10
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: Sw 15
 hit_dice: '7'
 health: 7-56

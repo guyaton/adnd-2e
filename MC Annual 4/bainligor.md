@@ -18,7 +18,7 @@ treasure: Nil (Qx10)
 alignment: Neutral evil
 no_appearing: 4-400
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 6, Jp 9
 hit_dice: 2+1 to 10+9
 health: 3-89

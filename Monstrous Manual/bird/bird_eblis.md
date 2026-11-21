@@ -10,7 +10,7 @@ group: Bird
 original_src: Monstrous Manual (TSR 2140), PDF p. 30
 no_appearing: 4-16
 armor_class_descending: 3
-armor_class: 17
+ac: 17
 movement: 12, Fl 12 (C)
 hit_dice: 4+4
 health: 8-36

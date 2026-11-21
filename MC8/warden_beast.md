@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: Per animal type
 hit_dice: 6 or animal type's HD +3 HD (whichever higher)
 health: 6-48 or more

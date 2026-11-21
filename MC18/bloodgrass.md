@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1 clump
 armor_class_descending: 8
-armor_class: 12
+ac: 12
 movement: Nil
 hit_dice: 1 hit point per tendril
 health: 1 per tendril

@@ -18,7 +18,7 @@ treasure: W
 alignment: Any
 no_appearing: 1-3
 armor_class_descending: See below
-armor_class: See below
+ac: See below
 movement: 12
 hit_dice: 1+1
 health: 2-9

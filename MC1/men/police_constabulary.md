@@ -12,7 +12,7 @@ treasure: 10-60 sp
 alignment: Any lawful
 no_appearing: 2-20 (2d10)
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 hit_dice: 1-6 hp
 health: 1-6
 thac0_original: 20

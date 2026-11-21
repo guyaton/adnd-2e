@@ -18,7 +18,7 @@ treasure: Z
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: 0 (4)
-armor_class: 20 (16)
+ac: 20 (16)
 movement: Fl 12, Fl 6 after feeding (B)
 hit_dice: '13'
 health: 13-104

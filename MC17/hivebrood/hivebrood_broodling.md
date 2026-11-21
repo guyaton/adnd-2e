@@ -19,7 +19,7 @@ treasure: O (I)
 alignment: Neutral
 no_appearing: 1d10x10
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 12
 hit_dice: As host+1d4 hp or 2+1, whichever is greater
 health: See below

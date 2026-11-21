@@ -18,7 +18,7 @@ treasure: P, Q (A)
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: As host (7)
-armor_class: As host (13)
+ac: As host (13)
 movement: As host (12)
 hit_dice: 15+
 health: 15-120

@@ -18,7 +18,7 @@ treasure: R x 3 and incidental
 alignment: Neutral (evil)
 no_appearing: '1'
 armor_class_descending: 0 or better
-armor_class: 20 or better
+ac: 20 or better
 movement: 12
 hit_dice: 9d4+18 to 9d4+26
 health: 27-62

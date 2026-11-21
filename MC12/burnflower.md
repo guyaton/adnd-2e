@@ -18,7 +18,7 @@ treasure: O, U
 alignment: Nil
 no_appearing: 10-100 patches (10d10)
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 0
 hit_dice: 1 per patch
 health: 1-8 per patch

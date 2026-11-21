@@ -19,7 +19,7 @@ treasure: None
 alignment: Chaotic evil
 no_appearing: 2d6
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 12, Fl 6 (E)
 hit_dice: 4
 health: 4-32

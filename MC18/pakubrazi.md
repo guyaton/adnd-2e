@@ -18,7 +18,7 @@ treasure: B, R
 alignment: Chaotic evil
 no_appearing: 1-4 (1d4)
 armor_class_descending: 9 or 6, or by armor
-armor_class: 11 or 14, or by armor
+ac: 11 or 14, or by armor
 movement: 12, Fl 18 (D)
 hit_dice: '6'
 health: 6-48

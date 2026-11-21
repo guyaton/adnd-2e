@@ -18,7 +18,7 @@ treasure: V (x3)
 alignment: Neutral good
 no_appearing: '1'
 armor_class_descending: 0 (10)
-armor_class: 20 (10)
+ac: 20 (10)
 movement: 24
 hit_dice: 16-20
 health: 16-160

@@ -18,7 +18,7 @@ treasure: Q (x20)
 alignment: Neutral (lawful)
 no_appearing: 1d4
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 6
 hit_dice: '24'
 health: 24-192

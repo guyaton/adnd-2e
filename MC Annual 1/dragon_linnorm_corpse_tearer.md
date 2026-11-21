@@ -18,7 +18,7 @@ treasure: Ax3, Bx3, C, Hx3, I
 alignment: Neutral evil
 no_appearing: '1'
 armor_class_descending: -10
-armor_class: 30
+ac: 30
 movement: 24, Fl 39 (C), Sw 18, Br 18, Jp 18
 hit_dice: 28 (170 hp)
 health: '170'

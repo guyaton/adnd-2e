@@ -18,7 +18,7 @@ treasure: Special
 alignment: Lawful neutral (good)
 no_appearing: 1-2
 armor_class_descending: 0 (base)
-armor_class: 20 (base)
+ac: 20 (base)
 movement: 12, Fl 18 (E), Sw 24
 hit_dice: 15 (base)
 health: 15-120

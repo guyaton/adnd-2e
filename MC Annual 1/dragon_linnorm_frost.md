@@ -18,7 +18,7 @@ treasure: See below
 alignment: Neutral evil
 no_appearing: 1d8
 armor_class_descending: -4 (base)
-armor_class: 24 (base)
+ac: 24 (base)
 movement: 12, Sw 18
 hit_dice: 15 (base)
 health: 15-120

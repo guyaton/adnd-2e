@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral evil
 no_appearing: 1-6 (Hades) or 1 (prime)
 armor_class_descending: 3, 2, 1, or 0
-armor_class: 17, 18, 19, or 20
+ac: 17, 18, 19, or 20
 movement: 6, 9, 12, or 15 (D with wings)
 hit_dice: 6+3, 7+2, 8+1, or 9
 health: 9-72

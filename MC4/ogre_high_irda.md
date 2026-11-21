@@ -18,7 +18,7 @@ treasure: 'Individual: L, M; Family: Q (x 5), F'
 alignment: Varies, but usually neutral or lawful good
 no_appearing: 1-10
 armor_class_descending: 8 (10)
-armor_class: 12 (10)
+ac: 12 (10)
 movement: 6 (9)
 hit_dice: 4+1
 health: 5-33

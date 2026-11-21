@@ -13,7 +13,7 @@ treasure: J, N, Q
 alignment: Chaotic evil
 no_appearing: 20-200 (20d10)
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 hit_dice: 1-6 hp
 health: 1-6
 thac0_original: 20

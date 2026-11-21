@@ -18,7 +18,7 @@ treasure: N, P
 alignment: Varies (usually Chaotic good or evil)
 no_appearing: 1-20
 armor_class_descending: 10 (as unarmored human or biped; see below for animal form)
-armor_class: 10 (as unarmored human or biped)
+ac: 10 (as unarmored human or biped)
 movement: 12 (as human or biped; see below for animal form)
 hit_dice: '1'
 health: 1-8

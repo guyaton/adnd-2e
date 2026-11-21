@@ -19,7 +19,7 @@ treasure: Incidental
 alignment: Neutral (evil)
 no_appearing: '1'
 armor_class_descending: 3/5 (appendages)
-armor_class: 17/15 (appendages)
+ac: 17/15 (appendages)
 movement: 0 (effective)
 hit_dice: 6+1 hp/year
 health: 7-49

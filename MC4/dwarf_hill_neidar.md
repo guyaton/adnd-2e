@@ -18,7 +18,7 @@ treasure: M (x 2); (G, Q (x 20), R)
 alignment: Varies, but usually neutral good
 no_appearing: 1 or clan of 10-100 members
 armor_class_descending: 6 (10)
-armor_class: 14 (10)
+ac: 14 (10)
 movement: 6
 hit_dice: '1'
 health: 1-8

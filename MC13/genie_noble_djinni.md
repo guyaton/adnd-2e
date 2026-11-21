@@ -18,7 +18,7 @@ treasure: U
 alignment: Chaotic good
 no_appearing: '1'
 armor_class_descending: 1
-armor_class: 19
+ac: 19
 movement: 12, Fl 36 (A)
 hit_dice: 10+3
 health: 13-83

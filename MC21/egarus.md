@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1d3 patches
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: Nil
 hit_dice: N/A
 health: N/A

@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Chaotic good
 no_appearing: '1'
 armor_class_descending: 10 (without sphere)
-armor_class: 10 (without sphere)
+ac: 10 (without sphere)
 movement: 18
 hit_dice: 8+1
 health: 9-65

@@ -18,7 +18,7 @@ treasure: Per 10 individuals O, Q; in lair C, Q (x5), S, T
 alignment: Neutral evil (slight lawful tendencies)
 no_appearing: 12-48
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 15
 hit_dice: 1-4 hp
 health: 1-4

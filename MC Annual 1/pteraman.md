@@ -18,7 +18,7 @@ treasure: P (individual), E (in lair)
 alignment: Neutral evil
 no_appearing: 1d10 (x10)
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 12, Fl 12 (C) with wings, Fl 21 (B) as pteranodon
 hit_dice: 4
 health: 4-32

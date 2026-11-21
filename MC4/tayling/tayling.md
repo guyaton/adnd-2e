@@ -19,7 +19,7 @@ treasure: K (I)
 alignment: Neutral good
 no_appearing: 1 or 10-100
 armor_class_descending: 10 (8)
-armor_class: 10 (12)
+ac: 10 (12)
 movement: 12
 hit_dice: '4'
 health: 4-32

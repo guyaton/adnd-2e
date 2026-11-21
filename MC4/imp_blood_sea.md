@@ -18,7 +18,7 @@ treasure: E
 alignment: Chaotic evil
 no_appearing: 10-40
 armor_class_descending: 4 or 1 (in mist form)
-armor_class: 16 or 19 (in mist form)
+ac: 16 or 19 (in mist form)
 movement: 12, Fl 24 (A), Sw 6
 hit_dice: 5+3
 health: 8-43

@@ -18,7 +18,7 @@ treasure: R, S, T
 alignment: Any
 no_appearing: 1d4
 armor_class_descending: Varies (10)
-armor_class: Varies (10)
+ac: Varies (10)
 movement: 12
 hit_dice: Varies (6d4 hp)
 health: Varies (6-24)

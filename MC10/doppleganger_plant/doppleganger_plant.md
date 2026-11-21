@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Chaotic evil
 no_appearing: 1 or 2
 armor_class_descending: 10 (vines) or 6 (pods)
-armor_class: 10 (vines) or 14 (pods)
+ac: 10 (vines) or 14 (pods)
 movement: Nil
 hit_dice: 11 to 18
 health: 11-144

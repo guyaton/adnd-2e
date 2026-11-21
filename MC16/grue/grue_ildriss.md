@@ -19,7 +19,7 @@ treasure: Q x2, X
 alignment: Neutral evil
 no_appearing: 1 (2-8)
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 3 as fog, Fl 24 (A)
 hit_dice: '4'
 health: 4-32

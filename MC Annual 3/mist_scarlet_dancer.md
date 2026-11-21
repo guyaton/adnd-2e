@@ -18,7 +18,7 @@ treasure: Nil (S)
 alignment: Neutral
 no_appearing: 10-100
 armor_class_descending: 1 (8 after feeding)
-armor_class: 19 (12 after feeding)
+ac: 19 (12 after feeding)
 movement: Fl 24 (A) (12 (B) after feeding)
 hit_dice: 1 per 10 present
 health: 1-8 per 10 present

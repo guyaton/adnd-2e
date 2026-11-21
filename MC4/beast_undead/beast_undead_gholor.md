@@ -19,7 +19,7 @@ treasure: G, H
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: Nil
 hit_dice: 12+12
 health: 24-108

@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Lawful neutral
 no_appearing: 1d6
 armor_class_descending: 1
-armor_class: 19
+ac: 19
 movement: 12, Fl 36 (A)
 hit_dice: '9'
 health: 9-72

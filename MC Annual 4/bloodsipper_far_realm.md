@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Chaotic neutral
 no_appearing: 1 (2-12 pod denizens)
 armor_class_descending: 1
-armor_class: 19
+ac: 19
 movement: '0 vine (pod denizen: 15)'
 hit_dice: '20 vine (pod denizen: 4)'
 health: '20-160 vine (pod denizen: 4-32)'

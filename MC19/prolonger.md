@@ -18,7 +18,7 @@ treasure: D, X, U
 alignment: Any evil
 no_appearing: 1 (1-4)
 armor_class_descending: Varies (0)
-armor_class: Varies (20)
+ac: Varies (20)
 movement: 9
 hit_dice: Varies (9d6+10)
 health: Varies (19-64)

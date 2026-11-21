@@ -18,7 +18,7 @@ treasure: EG
 alignment: Any lawful
 no_appearing: 1 or 1d4+1
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 9, Sw 15 or Fl 15 (A)
 hit_dice: 6
 health: 6-48

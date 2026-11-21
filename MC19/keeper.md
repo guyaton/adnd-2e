@@ -18,7 +18,7 @@ treasure: Individual K, L, M
 alignment: Lawful neutral
 no_appearing: 3-6 (d4+2)
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 15
 hit_dice: 4+4
 health: 8-36

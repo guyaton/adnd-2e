@@ -19,7 +19,7 @@ treasure: C
 alignment: Nil
 no_appearing: Not printed
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 3, Wb 12
 hit_dice: 4+4
 health: 8-36

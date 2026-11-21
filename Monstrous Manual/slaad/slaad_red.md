@@ -19,7 +19,7 @@ treasure: K, Q
 alignment: Chaotic neutral
 no_appearing: 3-18
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 6
 hit_dice: 7+3
 health: 10-59

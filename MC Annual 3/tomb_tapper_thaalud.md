@@ -18,7 +18,7 @@ treasure: Qx4 (special)
 alignment: Lawful neutral
 no_appearing: 1-12
 armor_class_descending: -2
-armor_class: 22
+ac: 22
 movement: 9, Br 1-4
 hit_dice: 8+8
 health: 16-72

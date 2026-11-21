@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Any
 no_appearing: '1'
 armor_class_descending: 0/victim's AC
-armor_class: 0/victim's AC
+ac: 0/victim's AC
 movement: 6/as victim
 hit_dice: 5/victim's hp
 health: ''

@@ -12,7 +12,7 @@ frequency: Uncommon
 alignment: Any
 no_appearing: 10-1,000 (10d100)
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 hit_dice: 1 hp
 health: 1
 thac0_original: 20

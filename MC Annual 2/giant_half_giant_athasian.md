@@ -18,7 +18,7 @@ treasure: J, K, or M
 alignment: Varies; see below
 no_appearing: '1'
 armor_class_descending: 6 (10)
-armor_class: 14 (10)
+ac: 14 (10)
 movement: 15
 hit_dice: 3+12
 health: 15-36

@@ -18,7 +18,7 @@ treasure: Special
 alignment: Neutral
 no_appearing: 1 (1d4+1)
 armor_class_descending: '-1 (base)'
-armor_class: 21 (base)
+ac: 21 (base)
 movement: 9, Fl 30 (C), Sw 9
 hit_dice: 13 (base)
 health: 13-104 (base)

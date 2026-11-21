@@ -18,7 +18,7 @@ treasure: O, P, Q, X
 alignment: Chaotic evil (neutral)
 no_appearing: 4-16
 armor_class_descending: -3
-armor_class: 23
+ac: 23
 movement: 96
 hit_dice: 'Normal: 1+1-4 hp; Leaders: 3; Elders: 4'
 health: 'Normal: 1+1-4 hp; Leaders: 3-24; Elders: 4-32'

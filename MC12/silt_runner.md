@@ -18,7 +18,7 @@ treasure: J, K (A)
 alignment: Chaotic evil
 no_appearing: 5-30 (5d6)
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 48
 hit_dice: '2'
 health: 2-16

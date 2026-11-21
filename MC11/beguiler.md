@@ -18,7 +18,7 @@ treasure: D (L, N, Q)
 alignment: Neutral
 no_appearing: 1-4
 armor_class_descending: 9
-armor_class: 11
+ac: 11
 movement: 14
 hit_dice: '2'
 health: 2-16

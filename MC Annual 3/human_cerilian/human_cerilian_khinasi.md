@@ -14,7 +14,7 @@ treasure: I
 alignment: Any
 no_appearing: 10-100
 armor_class_descending: 8 to 4
-armor_class: 12 to 16
+ac: 12 to 16
 hit_dice: 1-6 hp
 health: 1-6
 thac0_original: 20

@@ -18,7 +18,7 @@ treasure: J, M, D, (Qx5)
 alignment: Lawful evil
 no_appearing: 2-20 (2d10)
 armor_class_descending: 5(10)
-armor_class: 15(10)
+ac: 15(10)
 movement: 9
 hit_dice: 1+1
 health: 2-9

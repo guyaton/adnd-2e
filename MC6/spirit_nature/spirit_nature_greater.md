@@ -18,7 +18,7 @@ treasure: H
 alignment: Variable
 no_appearing: '1'
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 12
 hit_dice: 8 to 15
 health: 8-120

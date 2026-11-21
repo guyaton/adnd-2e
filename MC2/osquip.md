@@ -17,7 +17,7 @@ treasure: (D)
 alignment: Nil
 no_appearing: 2-24
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 12, Burrow ½
 hit_dice: 3+1
 health: 4-25

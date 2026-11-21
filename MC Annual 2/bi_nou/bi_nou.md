@@ -19,7 +19,7 @@ treasure: Special (eggs)
 alignment: Chaotic evil
 no_appearing: 1 or 2-8
 armor_class_descending: 1
-armor_class: 19
+ac: 19
 movement: 6
 hit_dice: 5+5
 health: 10-45

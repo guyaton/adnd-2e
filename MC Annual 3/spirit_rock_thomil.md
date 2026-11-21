@@ -18,7 +18,7 @@ treasure: Nil (Qx4, X)
 alignment: Chaotic neutral
 no_appearing: 1 (see below)
 armor_class_descending: -3
-armor_class: 23
+ac: 23
 movement: 5
 hit_dice: '5'
 health: 5-40

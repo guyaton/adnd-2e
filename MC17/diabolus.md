@@ -18,7 +18,7 @@ treasure: M (A)
 alignment: Any (usually chaotic good)
 no_appearing: Any
 armor_class_descending: Varies (base 9)
-armor_class: Varies (base 11)
+ac: Varies (base 11)
 movement: 12 (see below)
 hit_dice: 1 (see below)
 health: 1-8 (see below)

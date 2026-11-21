@@ -18,7 +18,7 @@ treasure: 'Individual: J, K, L, M, (B)'
 alignment: Chaotic evil
 no_appearing: 2-8 (2d4)
 armor_class_descending: 5(10)
-armor_class: 15(10)
+ac: 15(10)
 movement: 9
 hit_dice: 3+1
 health: 4-25

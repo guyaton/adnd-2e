@@ -19,7 +19,7 @@ treasure: J (I)
 alignment: Neutral
 no_appearing: 1-8
 armor_class_descending: -4
-armor_class: 24
+ac: 24
 movement: 21
 hit_dice: 1-1
 health: 1-7

@@ -18,7 +18,7 @@ treasure: C,R
 alignment: Chaotic neutral
 no_appearing: 1d3
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: Fl 30 (A)
 hit_dice: 6+3
 health: 9-51

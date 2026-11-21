@@ -12,7 +12,7 @@ treasure: J, M, N, Q
 alignment: Any evil
 no_appearing: 30-300 (30d10)
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 hit_dice: 1-6 hp
 health: 1-6
 thac0_original: 20

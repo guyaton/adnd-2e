@@ -18,7 +18,7 @@ treasure: O, P, Q
 alignment: Chaotic evil
 no_appearing: 2-7
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 15
 hit_dice: '3'
 health: 3-24

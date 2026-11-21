@@ -19,7 +19,7 @@ treasure: J
 alignment: Chaotic neutral
 no_appearing: 1 or 10-100
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 15
 hit_dice: '8'
 health: 8-64

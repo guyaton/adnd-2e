@@ -18,7 +18,7 @@ treasure: J
 alignment: Neutral (chaotic good)
 no_appearing: 1-4
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: 12, Fl 18 (A)
 hit_dice: 1/2
 health: 1-4

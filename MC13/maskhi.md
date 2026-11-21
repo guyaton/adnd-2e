@@ -18,7 +18,7 @@ treasure: P (C)
 alignment: Chaotic neutral
 no_appearing: 2-40
 armor_class_descending: 5 or 0
-armor_class: 15 or 20
+ac: 15 or 20
 movement: 9 (as animal) or 0
 hit_dice: 4+1
 health: 5-33

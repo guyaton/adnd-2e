@@ -19,7 +19,7 @@ treasure: W
 alignment: Neutral evil
 no_appearing: 1-10
 armor_class_descending: 5 (or as former self)
-armor_class: 15 (or as former self)
+ac: 15 (or as former self)
 movement: 12
 hit_dice: 5+5
 health: 10-45

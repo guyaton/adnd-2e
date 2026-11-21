@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: 1 nest
 armor_class_descending: 0
-armor_class: 20
+ac: 20
 movement: 1/10
 hit_dice: 1 per nest
 thac0_original: Special

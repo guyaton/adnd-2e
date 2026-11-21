@@ -18,7 +18,7 @@ treasure: K, L, M, Q or V
 alignment: Lawful neutral
 no_appearing: 20-200
 armor_class_descending: 8 (10)
-armor_class: 12 (10)
+ac: 12 (10)
 movement: 9
 hit_dice: 1+1
 health: 2-9

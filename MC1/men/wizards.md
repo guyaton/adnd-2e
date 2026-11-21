@@ -13,7 +13,7 @@ treasure: L, N, Q
 alignment: Any
 no_appearing: 1-8
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 hit_dice: Varies
 health: ''
 thac0_original: Varies

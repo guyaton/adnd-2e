@@ -19,7 +19,7 @@ treasure: Incidental (see below)
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: 3/8 (head /body)
-armor_class: 17/12 (head /body)
+ac: 17/12 (head /body)
 movement: 3, Sw 18
 hit_dice: 18+18
 health: 36-162

@@ -18,7 +18,7 @@ treasure: K
 alignment: Chaotic neutral
 no_appearing: 2d20 (rarely, 2d100)
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 18
 hit_dice: 1+1
 health: 2-9

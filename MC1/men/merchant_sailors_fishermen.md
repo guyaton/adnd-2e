@@ -13,7 +13,7 @@ treasure: 10-60 sp
 alignment: Any
 no_appearing: 4-80 (4d20)
 armor_class_descending: 9
-armor_class: 11
+ac: 11
 hit_dice: 1-6 hp
 health: 1-6
 thac0_original: 20

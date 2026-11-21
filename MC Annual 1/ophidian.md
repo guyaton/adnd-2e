@@ -18,7 +18,7 @@ treasure: U
 alignment: Chaotic neutral
 no_appearing: 3d4
 armor_class_descending: 5 (base)
-armor_class: 15 (base)
+ac: 15 (base)
 movement: 9, Sw 18
 hit_dice: 3 or 4
 health: 3-32

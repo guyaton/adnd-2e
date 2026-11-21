@@ -19,7 +19,7 @@ treasure: K (H)
 alignment: Chaotic good
 no_appearing: 5-10 (1d6+4)
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 15
 hit_dice: '16'
 health: 16-128

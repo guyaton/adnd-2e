@@ -117,6 +117,35 @@ It should render the full Ghast stat block, the same as the screenshot at the to
 
 ---
 
+## Optional: Switch to Descending Armor Class
+
+By default, the stat blocks show **Ascending Armor Class** (higher is better). Each note stores both values in its `statblock` block:
+
+```yaml
+armor_class_descending: 4
+ac: 16
+```
+
+The layout displays whichever value is in the `ac:` field. To show **Descending Armor Class** (the original 2e style, lower is better), run two find/replace passes across the whole repo (for example with Obsidian's search and replace, VS Code's **Replace in Files**, or a similar tool):
+
+1. Replace `ac:` with `armor_class_ascending:`
+2. Replace `armor_class_descending:` with `ac:`
+
+Do them **in this order**. If you do step 2 first, step 1 will rename both fields and you'll lose track of which value is which.
+
+Afterward, each note will look like this:
+
+```yaml
+ac: 4
+armor_class_ascending: 16
+```
+
+To switch back, reverse the process: replace `ac:` with `armor_class_descending:`, then replace `armor_class_ascending:` with `ac:`.
+
+If you've already loaded the monsters into the bestiary (step 5), run **Parse Frontmatter for Creatures** again so it picks up the new values.
+
+---
+
 
 ## Troubleshooting
 

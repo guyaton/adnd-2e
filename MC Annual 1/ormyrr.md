@@ -18,7 +18,7 @@ treasure: R,V (Z in lair only)
 alignment: Lawful neutral
 no_appearing: 1d12
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 11, Sw 15
 hit_dice: 7+7
 health: 14-63

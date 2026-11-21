@@ -18,7 +18,7 @@ treasure: Qx4, I
 alignment: Neutral
 no_appearing: 1-10
 armor_class_descending: 9
-armor_class: 11
+ac: 11
 movement: 9, leap 15
 hit_dice: 1+1
 health: 2-9

@@ -17,7 +17,7 @@ treasure: J, K, Qx2; C lair
 alignment: Neutral good
 no_appearing: 1-4 (1d4)
 armor_class_descending: 10
-armor_class: 10
+ac: 10
 movement: 12
 hit_dice: 2 (base)
 health: 2-16

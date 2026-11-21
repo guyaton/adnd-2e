@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Chaotic evil
 no_appearing: '1'
 armor_class_descending: 9, 5, or 1
-armor_class: 11, 15, or 19
+ac: 11, 15, or 19
 movement: 12 (see below)
 hit_dice: 7+3
 health: 10-59

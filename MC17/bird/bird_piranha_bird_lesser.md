@@ -19,7 +19,7 @@ treasure: Nil
 alignment: Chaotic neutral
 no_appearing: 1d4 wings of 1d4+2 birds
 armor_class_descending: 7
-armor_class: 13
+ac: 13
 movement: Fl 36 (A)
 hit_dice: 1-4 hp
 health: 1-4

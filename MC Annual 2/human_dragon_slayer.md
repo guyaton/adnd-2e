@@ -18,7 +18,7 @@ treasure: L, M, U
 alignment: Any
 no_appearing: 2-12
 armor_class_descending: 4 or better
-armor_class: 16 or better
+ac: 16 or better
 movement: 12
 hit_dice: 2+
 thac0_original: 19 or better

@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Varies
 no_appearing: 1 or 1-4
 armor_class_descending: 0 (-1, -2, or -3 vs. dragons)
-armor_class: 20 (21, 22, or 23 vs. dragons)
+ac: 20 (21, 22, or 23 vs. dragons)
 movement: 12
 hit_dice: 9, 10, or 11 (10-sided dice)
 health: 9-90, 10-100, or 11-110

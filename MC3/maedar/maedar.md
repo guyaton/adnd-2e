@@ -19,7 +19,7 @@ treasure: P, Q (x10), X, Y
 alignment: Lawful evil
 no_appearing: '1'
 armor_class_descending: 5
-armor_class: 15
+ac: 15
 movement: 9
 hit_dice: '6'
 health: 6-48

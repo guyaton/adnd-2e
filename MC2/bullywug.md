@@ -18,7 +18,7 @@ treasure: J, K, M, Q, (x5); C in lair
 alignment: Chaotic evil
 no_appearing: 10-80
 armor_class_descending: 6 (better with armor)
-armor_class: 14 (better with armor)
+ac: 14 (better with armor)
 movement: 3 Sw 15 (9 in armor)
 hit_dice: 1
 health: 1-8

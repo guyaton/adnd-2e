@@ -19,7 +19,7 @@ treasure: W
 alignment: Chaotic good
 no_appearing: 1-6
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 9, Fl 12 (B)
 hit_dice: 5+5
 health: 10-45

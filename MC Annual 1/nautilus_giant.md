@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral
 no_appearing: '1'
 armor_class_descending: -3 (shell) or 3 (body)
-armor_class: 23 (shell) or 17 (body)
+ac: 23 (shell) or 17 (body)
 movement: Sw 18
 hit_dice: 14
 health: 14-112

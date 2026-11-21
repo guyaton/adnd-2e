@@ -19,7 +19,7 @@ treasure: Incidental
 alignment: Chaotic neutral
 no_appearing: '1'
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: Nil
 hit_dice: '12'
 health: 12-96

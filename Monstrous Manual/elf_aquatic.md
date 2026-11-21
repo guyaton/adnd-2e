@@ -18,7 +18,7 @@ treasure: K, Q, (I, O, X, Y)
 alignment: Chaotic good
 no_appearing: 20-120
 armor_class_descending: 6 (9)
-armor_class: 14 (11)
+ac: 14 (11)
 movement: 9, Sw 15
 hit_dice: 1+1
 health: 2-9

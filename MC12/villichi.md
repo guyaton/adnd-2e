@@ -18,7 +18,7 @@ treasure: K, R
 alignment: Lawful neutral
 no_appearing: 1-4
 armor_class_descending: Varies
-armor_class: Varies
+ac: Varies
 movement: 24
 hit_dice: Varies
 health: Varies

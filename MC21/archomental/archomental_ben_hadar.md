@@ -19,7 +19,7 @@ treasure: U, Z
 alignment: Neutral good
 no_appearing: '1'
 armor_class_descending: -4
-armor_class: 24
+ac: 24
 movement: 12, Sw 18
 hit_dice: 90 hp
 health: 90

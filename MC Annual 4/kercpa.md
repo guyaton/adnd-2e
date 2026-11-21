@@ -18,7 +18,7 @@ treasure: Nil
 alignment: Neutral to Chaotic good
 no_appearing: 3-12
 armor_class_descending: 3
-armor_class: 17
+ac: 17
 movement: 9, Cl 15
 hit_dice: '1'
 health: 1-8

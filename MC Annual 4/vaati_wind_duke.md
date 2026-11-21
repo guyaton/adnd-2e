@@ -17,7 +17,7 @@ treasure: A (A, W)
 alignment: Lawful neutral
 no_appearing: 1d4
 armor_class_descending: 5 (per caste and level)
-armor_class: 15 (per caste and level)
+ac: 15 (per caste and level)
 movement: 12, Fl 12 (A)
 hit_dice: 4 (per caste and level)
 health: 4-32 (per caste and level)

@@ -18,7 +18,7 @@ treasure: R
 alignment: Neutral evil
 no_appearing: 1 or 1-4
 armor_class_descending: 2
-armor_class: 18
+ac: 18
 movement: 9
 hit_dice: 7+3
 health: 10-59

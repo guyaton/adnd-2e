@@ -18,7 +18,7 @@ treasure: B (nest); individual J, K, M
 alignment: Chaotic evil
 no_appearing: 4-40
 armor_class_descending: 6
-armor_class: 14
+ac: 14
 movement: 18
 hit_dice: 2+3
 health: 5-19

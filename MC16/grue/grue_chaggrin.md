@@ -19,7 +19,7 @@ treasure: Nil (C, Q x5)
 alignment: Neutral evil
 no_appearing: 2-5 (1)
 armor_class_descending: 4
-armor_class: 16
+ac: 16
 movement: 12, Br 3
 hit_dice: 5+5
 health: 10-45
