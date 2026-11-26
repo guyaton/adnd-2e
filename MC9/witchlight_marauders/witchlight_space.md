@@ -25,8 +25,8 @@ hit_dice: '45'
 health: 45-360
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 7, sunbeam
-damage_per_attack: 1d6 hull pts (x6)/2d6 hull pts/25d10
+attacks: 7, sunbeam
+damage_attack: 1d6 hull pts (x6)/2d6 hull pts/25d10
 special_attacks: See below
 special_defenses: See below
 magic_resistance: Nil

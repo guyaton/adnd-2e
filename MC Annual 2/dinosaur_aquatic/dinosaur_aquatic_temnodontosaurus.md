@@ -25,8 +25,8 @@ hit_dice: 10
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 5d4
+attacks: 1
+damage_attack: 5d4
 special_attacks: Frenzy
 special_defenses: Nil
 magic_resistance: Nil

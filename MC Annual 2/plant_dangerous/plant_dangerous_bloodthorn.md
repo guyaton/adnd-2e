@@ -24,8 +24,8 @@ hit_dice: 10
 health: 10-80
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 25% of hp
+attacks: 1
+damage_attack: 25% of hp
 special_attacks: Blood drain, system shock
 special_defenses: 'See below mele RESISTANCE: Nil'
 magic_resistance: Nil

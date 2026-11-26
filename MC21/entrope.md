@@ -24,8 +24,8 @@ hit_dice: 11+6
 health: 17-94
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 1d8/1d8/1d12
+attacks: 3
+damage_attack: 1d8/1d8/1d12
 special_attacks: Sunder space
 special_defenses: Struck only by +2 or better weapons, immune to elements
 magic_resistance: Nil

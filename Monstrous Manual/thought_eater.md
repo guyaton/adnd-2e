@@ -23,8 +23,8 @@ movement: 6 (ethereal plane only)
 hit_dice: '3'
 health: 3-24
 thac0_original: Nil
-no_of_attacks: 0
-damage_per_attack: Nil
+attacks: 0
+damage_attack: Nil
 special_attacks: 'Psionics, absorb: psionics, spells, and intelligence'
 special_defenses: Ethereal existence
 magic_resistance: Absorb (see below)

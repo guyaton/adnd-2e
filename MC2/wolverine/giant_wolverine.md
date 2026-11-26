@@ -25,8 +25,8 @@ hit_dice: 4+4
 health: 8-36
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 2-5/2-5/2-8
+attacks: 3
+damage_attack: 2-5/2-5/2-8
 special_attacks: Musk
 special_defenses: Nil
 magic_resistance: Nil

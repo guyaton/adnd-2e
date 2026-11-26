@@ -25,8 +25,8 @@ hit_dice: 115 hp
 health: 115
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2
-damage_per_attack: 3d12/3d12
+attacks: 2
+damage_attack: 3d12/3d12
 special_attacks: Spells
 special_defenses: See below
 magic_resistance: 70%

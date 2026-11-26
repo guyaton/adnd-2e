@@ -24,8 +24,8 @@ hit_dice: 16
 health: 16-128
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1 or 4
-damage_per_attack: 5d10 (bite) or 4x 1d4+4 (tentacle)
+attacks: 1 or 4
+damage_attack: 5d10 (bite) or 4x 1d4+4 (tentacle)
 special_attacks: Swallow, constriction
 special_defenses: Immune to fire, 1 hp/die from electricity (slows 1 rnd.), half damage from blunt weapons
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 12 (84 hp)
 health: 84
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 2
-damage_per_attack: 4-24 (4d6)/4-24 (4d6)
+attacks: 2
+damage_attack: 4-24 (4d6)/4-24 (4d6)
 special_attacks: Animate trees; spells
 special_defenses: Spells
 magic_resistance: Nil

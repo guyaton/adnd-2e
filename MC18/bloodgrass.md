@@ -24,8 +24,8 @@ hit_dice: 1 hit point per tendril
 health: 1 per tendril
 thac0_original: Special
 to_hit: Special
-no_of_attacks: 1
-damage_per_attack: 1 point
+attacks: 1
+damage_attack: 1 point
 special_attacks: Blood drain
 special_defenses: Nil
 magic_resistance: Nil

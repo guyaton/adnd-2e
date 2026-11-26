@@ -23,8 +23,8 @@ movement: Nil
 hit_dice: '1'
 health: 1-8
 thac0_original: Nil
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Nil
 special_defenses: See below
 magic_resistance: Nil

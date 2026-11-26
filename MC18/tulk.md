@@ -24,8 +24,8 @@ hit_dice: 5+1
 health: 6-41
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3 or 1
-damage_per_attack: 2-9 (x2), 1-10 or by weapon
+attacks: 3 or 1
+damage_attack: 2-9 (x2), 1-10 or by weapon
 special_attacks: Headbutt, +1 attack
 special_defenses: Nil
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: '16'
 health: 16-128
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 4
-damage_per_attack: 1d8 (claw)/1d8 (claw)/2d8 (horn)/1d10 (tail)
+attacks: 4
+damage_attack: 1d8 (claw)/1d8 (claw)/2d8 (horn)/1d10 (tail)
 special_attacks: Breath weapon, stun, crushing dive
 special_defenses: See below
 magic_resistance: Nil

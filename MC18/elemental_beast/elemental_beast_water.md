@@ -25,8 +25,8 @@ hit_dice: 1+1
 health: 2-9
 thac0_original: Special
 to_hit: Special
-no_of_attacks: 5-10 (one for each)
-damage_per_attack: 1d8 each
+attacks: 5-10 (one for each)
+damage_attack: 1d8 each
 special_attacks: See below
 special_defenses: +1 or better weapon to hit
 magic_resistance: Nil

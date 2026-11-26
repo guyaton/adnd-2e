@@ -24,8 +24,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3 and 1
-damage_per_attack: 1d4/1d4/1d8 and by weapon
+attacks: 3 and 1
+damage_attack: 1d4/1d4/1d8 and by weapon
 special_attacks: Poison, magic use
 special_defenses: None
 magic_resistance: None

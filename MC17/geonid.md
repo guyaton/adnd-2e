@@ -24,8 +24,8 @@ hit_dice: '2'
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1d8 (claw) or by weapon
+attacks: 1
+damage_attack: 1d8 (claw) or by weapon
 special_attacks: Surprise
 special_defenses: Nil
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 1/2
 health: 1-4
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: Nil
+attacks: 1
+damage_attack: Nil
 special_attacks: Fear
 special_defenses: Invisibility, silver or magical weapon to hit
 magic_resistance: Nil

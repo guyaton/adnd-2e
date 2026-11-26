@@ -24,8 +24,8 @@ hit_dice: 6+2
 health: 8-50
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 bite
-damage_per_attack: 2-8
+attacks: 1 bite
+damage_attack: 2-8
 special_attacks: Swallows whole
 special_defenses: Nil
 magic_resistance: Nil

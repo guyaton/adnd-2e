@@ -24,8 +24,8 @@ hit_dice: Varies (9d6+10)
 health: Varies (19-64)
 thac0_original: Varies (15)
 to_hit: Varies (5)
-no_of_attacks: Varies (1)
-damage_per_attack: By weapon
+attacks: Varies (1)
+damage_attack: By weapon
 special_attacks: Energy drain
 special_defenses: Magical items
 magic_resistance: None

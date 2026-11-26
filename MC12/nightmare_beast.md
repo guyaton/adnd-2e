@@ -24,8 +24,8 @@ hit_dice: '15'
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 5
-damage_per_attack: 2-12/2-12/2-20/2-20/4-40
+attacks: 5
+damage_attack: 2-12/2-12/2-20/2-20/4-40
 special_attacks: Psionics and spells
 special_defenses: +1 or better to hit (see below)
 magic_resistance: 20%

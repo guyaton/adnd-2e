@@ -25,8 +25,8 @@ hit_dice: 10, 14, or 18
 health: 10-144
 thac0_original: '10 HD: 11; 14 HD: 7; 18 HD: 5'
 to_hit: '10 HD: 9; 14 HD: 13; 18 HD: 15'
-no_of_attacks: 1
-damage_per_attack: 5-50
+attacks: 1
+damage_attack: 5-50
 special_attacks: Whirlwind, sandstorm
 special_defenses: +3 weapon or better to hit
 magic_resistance: 50%/25%

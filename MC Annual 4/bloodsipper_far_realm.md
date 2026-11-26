@@ -24,8 +24,8 @@ hit_dice: '20 vine (pod denizen: 4)'
 health: '20-160 vine (pod denizen: 4-32)'
 thac0_original: 'Nil (pod denizen: 17)'
 to_hit: 'Nil (pod denizen: 3)'
-no_of_attacks: 2-12 (1 attack per mature pod)
-damage_per_attack: 1d8 + blood drain
+attacks: 2-12 (1 attack per mature pod)
+damage_attack: 1d8 + blood drain
 special_attacks: Blood drain, pod denizens
 special_defenses: Vulnerable to salt (2d4/handful)
 magic_resistance: Nil

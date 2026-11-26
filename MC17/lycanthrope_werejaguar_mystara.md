@@ -24,8 +24,8 @@ hit_dice: 5+2
 health: 7-42
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d4 (claw)/1d4 (claw)/1d8 (bite)
+attacks: 3
+damage_attack: 1d4 (claw)/1d4 (claw)/1d8 (bite)
 special_attacks: Rear claws (1d6 each), leaping
 special_defenses: Hit only by silver or +1 or better weapons, surprise
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 10 (or by class & level)
 health: 10-80 (or by class & level)
 thac0_original: 11 (or by class & level)
 to_hit: 9 (or by class & level)
-no_of_attacks: 1 (or by class & level)
-damage_per_attack: By weapon (usually 1d8)
+attacks: 1 (or by class & level)
+damage_attack: By weapon (usually 1d8)
 special_attacks: Quasi-real images, surprise
 special_defenses: Shadow images, blink, regeneration
 magic_resistance: Variable

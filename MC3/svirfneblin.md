@@ -24,8 +24,8 @@ hit_dice: 3+6
 health: 9-30
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: By weapon
+attacks: 1
+damage_attack: By weapon
 special_attacks: Stun darts at +2
 special_defenses: Save at +3, +2 vs. poison
 magic_resistance: 20% (or more)

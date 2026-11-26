@@ -24,8 +24,8 @@ hit_dice: '11'
 health: 11-88
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 1d12/1d12/1d6
+attacks: 3
+damage_attack: 1d12/1d12/1d6
 special_attacks: Crush, poison, silence 15' radius, web, darkness 15' radius
 special_defenses: Spider climb, immune to webs
 magic_resistance: 20%

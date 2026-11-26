@@ -25,8 +25,8 @@ hit_dice: 7+2 to 7+20
 health: 9-76
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 2-8/2-8/3-12 +7 (strength bonus)
+attacks: 3
+damage_attack: 2-8/2-8/3-12 +7 (strength bonus)
 special_attacks: Death gaze, backstab, paralyzation
 special_defenses: +1 or better weapons to hit
 magic_resistance: 50%

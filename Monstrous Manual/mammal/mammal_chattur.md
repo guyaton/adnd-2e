@@ -17,8 +17,8 @@ hit_dice: 1-1
 health: 1-7
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1-4 (or weapon)
+attacks: 1
+damage_attack: 1-4 (or weapon)
 morale: Average (8-10)
 xp_value: 15
 ```

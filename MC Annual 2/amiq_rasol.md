@@ -24,8 +24,8 @@ hit_dice: 9
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 1d4/1d4 (claws), 1d6 (bite)
+attacks: 3
+damage_attack: 1d4/1d4 (claws), 1d6 (bite)
 special_attacks: Energy drain, charm
 special_defenses: +2 or better weapon to hit, spell immunities
 magic_resistance: Nil

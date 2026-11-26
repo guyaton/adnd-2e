@@ -25,8 +25,8 @@ hit_dice: 1-4 hp
 health: 1-4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1 (per wing)
-damage_per_attack: 1d4 (bite)
+attacks: 1 (per wing)
+damage_attack: 1d4 (bite)
 special_attacks: +2 to attacks
 special_defenses: Nil
 magic_resistance: Nil

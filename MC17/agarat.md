@@ -24,8 +24,8 @@ hit_dice: 4+3
 health: 7-35
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d3 (claw)/1d3 (claw)/1d3 (bite)
+attacks: 3
+damage_attack: 1d3 (claw)/1d3 (claw)/1d3 (bite)
 special_attacks: Scream
 special_defenses: See below
 magic_resistance: Nil

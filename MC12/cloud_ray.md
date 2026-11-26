@@ -24,8 +24,8 @@ hit_dice: 12+7 to 24+7
 health: 19-199
 thac0_original: '12-13 HD: 7; 14+ HD: 5'
 to_hit: '12-13 HD: 13; 14+ HD: 15'
-no_of_attacks: 1 tail or 1 bite and psionic
-damage_per_attack: 5-50 (tail) or 10-100 (bite)
+attacks: 1 tail or 1 bite and psionic
+damage_attack: 5-50 (tail) or 10-100 (bite)
 special_attacks: Swallow whole
 special_defenses: Psionics
 magic_resistance: Nil

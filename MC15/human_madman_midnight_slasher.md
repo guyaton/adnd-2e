@@ -24,8 +24,8 @@ hit_dice: 5 (17 hp)
 health: 17
 thac0_original: 18
 to_hit: 2
-no_of_attacks: 1
-damage_per_attack: 2-5 (1d4+1)
+attacks: 1
+damage_attack: 2-5 (1d4+1)
 special_attacks: Triple damage on backstabs
 special_defenses: Hide in Shadows 90%
 magic_resistance: Nil

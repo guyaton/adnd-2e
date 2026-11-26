@@ -25,8 +25,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1-4/1-4/2-5
+attacks: 3
+damage_attack: 1-4/1-4/2-5
 special_attacks: Poison, dive
 special_defenses: Regeneration, +1 or better weapons to hit
 magic_resistance: 30%

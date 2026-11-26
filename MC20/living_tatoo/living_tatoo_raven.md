@@ -24,8 +24,8 @@ hit_dice: 2+2
 health: 4-18
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 3-6 (1d4+2)
+attacks: 1
+damage_attack: 3-6 (1d4+2)
 special_attacks: Detect lie
 special_defenses: +1 or better; resist illusions
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1d4/1d4/1d2
+attacks: 3
+damage_attack: 1d4/1d4/1d2
 special_attacks: Absorption
 special_defenses: Drain magical protection
 magic_resistance: 20%

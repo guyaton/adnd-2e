@@ -24,8 +24,8 @@ hit_dice: 10+2
 health: 12-82
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 5 (four claws, one bite)
-damage_per_attack: 2d6/2d6/2d6/2d6/2d4
+attacks: 5 (four claws, one bite)
+damage_attack: 2d6/2d6/2d6/2d6/2d4
 special_attacks: Breath weapon
 special_defenses: Hit only by +1 or better magical weapon
 magic_resistance: 25%

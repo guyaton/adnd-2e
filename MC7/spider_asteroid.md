@@ -24,8 +24,8 @@ hit_dice: 5+2
 health: 7-42
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 6 or 1
-damage_per_attack: 1-3 each or 1-6
+attacks: 6 or 1
+damage_attack: 1-3 each or 1-6
 special_attacks: Paralyze
 special_defenses: Nil
 magic_resistance: Nil

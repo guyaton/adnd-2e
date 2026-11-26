@@ -25,8 +25,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1 (weapon) or special
-damage_per_attack: Weapon or special
+attacks: 1 (weapon) or special
+damage_attack: Weapon or special
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 20%

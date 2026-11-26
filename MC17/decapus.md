@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 9 (hanging from tree)
-damage_per_attack: 1d6 each (tentacles)
+attacks: 9 (hanging from tree)
+damage_attack: 1d6 each (tentacles)
 special_attacks: None
 special_defenses: None
 magic_resistance: Nil

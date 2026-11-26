@@ -25,8 +25,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 3d4+3 (weapon)
+attacks: 1
+damage_attack: 3d4+3 (weapon)
 special_attacks: Spell-like powers
 special_defenses: Struck only by +1 or better weapons
 magic_resistance: 25%

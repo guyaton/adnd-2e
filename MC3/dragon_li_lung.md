@@ -24,8 +24,8 @@ hit_dice: 13 (base)
 health: 13-104
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 3+special
-damage_per_attack: 2-8/2-8/2-20
+attacks: 3+special
+damage_attack: 2-8/2-8/2-20
 special_attacks: Snatch, wing buffet, kick, and magical abilities
 special_defenses: Variable
 magic_resistance: Variable

@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 1d12 (claw)
+attacks: 1
+damage_attack: 1d12 (claw)
 special_attacks: Attacks as a 9 HD creature; dive, grab
 special_defenses: Shared hit points
 magic_resistance: Nil

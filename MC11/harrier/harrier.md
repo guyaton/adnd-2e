@@ -25,8 +25,8 @@ hit_dice: 7+7
 health: 14-63
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 2-5/2-5/2-12
+attacks: 3
+damage_attack: 2-5/2-5/2-12
 special_attacks: Poison, rear claws 2-5 each
 special_defenses: Camouflage, spell immunity
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 10
-damage_per_attack: 1d6 (x8)/1d12/1d20
+attacks: 10
+damage_attack: 1d6 (x8)/1d12/1d20
 special_attacks: Poison, acid
 special_defenses: Immune to acid
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 5+1
 health: 6-41
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1-3/1-3/1-8
+attacks: 3
+damage_attack: 1-3/1-3/1-8
 special_attacks: Pheromone
 special_defenses: Confusion
 magic_resistance: Nil

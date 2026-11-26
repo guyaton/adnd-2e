@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d2 hull points or by weapon
+attacks: 1
+damage_attack: 1d2 hull points or by weapon
 special_attacks: Nil
 special_defenses: Change to human form
 magic_resistance: Nil

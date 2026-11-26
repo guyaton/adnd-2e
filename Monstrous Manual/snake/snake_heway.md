@@ -19,8 +19,8 @@ hit_dice: 1+3
 health: 4-11
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1-3
+attacks: 1
+damage_attack: 1-3
 special_attacks: Poison and hypnotic stare
 special_defenses: Nil
 size: M

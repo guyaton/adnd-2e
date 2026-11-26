@@ -25,8 +25,8 @@ hit_dice: '13'
 health: 13-104
 thac0_original: 8
 to_hit: 12
-no_of_attacks: 4
-damage_per_attack: 1d12+6/1d12+6/5d6/1d12
+attacks: 4
+damage_attack: 1d12+6/1d12+6/5d6/1d12
 special_attacks: Swallow, constriction
 special_defenses: Nil
 magic_resistance: Nil

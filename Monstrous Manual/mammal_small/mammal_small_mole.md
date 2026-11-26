@@ -20,8 +20,8 @@ hit_dice: 1 hp
 health: 1
 thac0_original: 20
 to_hit: 0
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 magic_resistance: Nil
 morale: Unreliable to Average (2-9)
 xp_value: 0

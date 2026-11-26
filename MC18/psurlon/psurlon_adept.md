@@ -25,8 +25,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 3d6/3d6/3d8
+attacks: 3
+damage_attack: 3d6/3d6/3d8
 special_attacks: Psionics
 special_defenses: See below
 magic_resistance: 50%

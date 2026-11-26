@@ -24,8 +24,8 @@ hit_dice: 8+3
 health: 11-67
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1d8
+attacks: 1
+damage_attack: 1d8
 special_attacks: Smothering
 special_defenses: See below
 magic_resistance: Nil

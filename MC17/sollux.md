@@ -24,8 +24,8 @@ hit_dice: 10-14
 health: 10-112
 thac0_original: '''10 HD: 11; 11 HD: 10; 12 HD: 9; 13 HD: 8; 14 HD: 7'''
 to_hit: '''10 HD: 9; 11 HD: 10; 12 HD: 11; 13 HD: 12; 14 HD: 13'''
-no_of_attacks: 2 (5/2)
-damage_per_attack: By weapon +3
+attacks: 2 (5/2)
+damage_attack: By weapon +3
 special_attacks: Weapon specialization, exceptional Strength
 special_defenses: Immune to fire and illusions, saving throw bonus vs. magic
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 9
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 2d10
+attacks: 1
+damage_attack: 2d10
 special_attacks: Spells, blinding
 special_defenses: Displacement
 magic_resistance: 35%

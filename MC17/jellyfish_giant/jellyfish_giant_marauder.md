@@ -25,8 +25,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 40 (1d4/target)
-damage_per_attack: 1d10 each (tentacle sting)
+attacks: 40 (1d4/target)
+damage_attack: 1d10 each (tentacle sting)
 special_attacks: Paralysis, surprise
 special_defenses: Nil
 magic_resistance: Nil

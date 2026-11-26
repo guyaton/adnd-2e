@@ -24,8 +24,8 @@ hit_dice: 6+3, 7+2, 8+1, or 9
 health: 9-72
 thac0_original: '6+3 HD: 15; 7+2 and 8+1 HD: 13; 9 HD: 11'
 to_hit: '6+3 HD: 5; 7+2 and 8+1 HD: 7; 9 HD: 9'
-no_of_attacks: By type of hordling
-damage_per_attack: See attack table
+attacks: By type of hordling
+damage_attack: See attack table
 special_attacks: See special attack table
 special_defenses: See special defense table
 magic_resistance: 0%, 5%, 15%, or 30%

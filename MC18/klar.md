@@ -24,8 +24,8 @@ hit_dice: 11+2
 health: 13-90
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 1d8+1/1d8+1/1d10
+attacks: 3
+damage_attack: 1d8+1/1d8+1/1d10
 special_attacks: Crushing hug
 special_defenses: Nil
 magic_resistance: Nil

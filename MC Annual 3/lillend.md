@@ -24,8 +24,8 @@ hit_dice: 7+14
 health: 21-70
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1 tail and 1 weapon
-damage_per_attack: 2d6 and by weapon type
+attacks: 1 tail and 1 weapon
+damage_attack: 2d6 and by weapon type
 special_attacks: Dropping in flight, spells, crush
 special_defenses: Spells, immunities, +1 or better magical weapon to hit
 magic_resistance: 25%

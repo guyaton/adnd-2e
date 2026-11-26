@@ -25,8 +25,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1-3/1-3
+attacks: 2
+damage_attack: 1-3/1-3
 special_attacks: Energy drain
 special_defenses: +2 or better weapons to hit, immune to fire, never surprised
 magic_resistance: 30%

@@ -24,8 +24,8 @@ hit_dice: 4+4 to 6+6
 health: 8-36 to 12-54
 thac0_original: 15 (4+4 or 5+5), 13 (6+6)
 to_hit: 5 (4+4 or 5+5), 7 (6+6)
-no_of_attacks: 1
-damage_per_attack: 3d4
+attacks: 1
+damage_attack: 3d4
 special_attacks: Magnetism
 special_defenses: See below
 magic_resistance: Nil

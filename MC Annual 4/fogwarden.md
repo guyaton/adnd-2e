@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: Special
 to_hit: Special
-no_of_attacks: Special
-damage_per_attack: 3d6 lightning
+attacks: Special
+damage_attack: 3d6 lightning
 special_attacks: Fear aura, lightning bolt (3d6)
 special_defenses: +1 or better magical wooden weapon to hit; immune to lightning, cold, poison, and gases; animate dead
 magic_resistance: Nil

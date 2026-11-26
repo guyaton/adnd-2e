@@ -24,8 +24,8 @@ hit_dice: 25 (200 hp)
 health: '200'
 thac0_original: 2
 to_hit: 18
-no_of_attacks: 4 plus special
-damage_per_attack: 3d10 (x2)/2d12/4d10/special
+attacks: 4 plus special
+damage_attack: 3d10 (x2)/2d12/4d10/special
 special_attacks: Spells, breath, constriction
 special_defenses: Spells, +2 weapon to hit
 magic_resistance: 70%

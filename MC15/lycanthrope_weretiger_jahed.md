@@ -24,8 +24,8 @@ hit_dice: 6+2 (42 hp)
 health: 42
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1-4 (1d4)/1-4 (1d4)/1-12 (1d12)
+attacks: 3
+damage_attack: 1-4 (1d4)/1-4 (1d4)/1-12 (1d12)
 special_attacks: 2-5 (1d4+1)/2-5 (1d4+1)
 special_defenses: Hit only by silver or magical weapons
 magic_resistance: Nil

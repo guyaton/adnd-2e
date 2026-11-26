@@ -24,8 +24,8 @@ hit_dice: 6+2
 health: 8-50
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d6+1/1d6+1/1d10
+attacks: 3
+damage_attack: 1d6+1/1d6+1/1d10
 special_attacks: Rear claws, knock-down
 special_defenses: Camouflage, immune to magic missiles
 magic_resistance: None

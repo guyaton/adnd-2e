@@ -24,8 +24,8 @@ hit_dice: 6+2
 health: 8-50
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 6 tentacles
-damage_per_attack: 1d2 + special
+attacks: 6 tentacles
+damage_attack: 1d2 + special
 special_attacks: Web, magic use
 special_defenses: Shadow
 magic_resistance: 50% (10%)

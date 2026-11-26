@@ -24,8 +24,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 1d12
+attacks: 1
+damage_attack: 1d12
 special_attacks: Fear, disease
 special_defenses: Immune to charm, sleep, poison, paralysis and normal fire; half damage from copper weapons and magical fire
 magic_resistance: Nil

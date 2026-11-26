@@ -25,8 +25,8 @@ hit_dice: 6+2
 health: 8-50
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1-4
+attacks: 1
+damage_attack: 1-4
 special_attacks: Gaze
 special_defenses: Immune to fire
 magic_resistance: Nil

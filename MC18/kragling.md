@@ -24,8 +24,8 @@ hit_dice: 3, 5
 health: 3-24, 5-40
 thac0_original: 17, 15
 to_hit: 3, 5
-no_of_attacks: 3
-damage_per_attack: 1-4/1-4/1-10, 1-6/1-6/2-20
+attacks: 3
+damage_attack: 1-4/1-4/1-10, 1-6/1-6/2-20
 special_attacks: Elemental transfusion
 special_defenses: Nil
 magic_resistance: Nil

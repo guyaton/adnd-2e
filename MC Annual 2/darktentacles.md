@@ -23,8 +23,8 @@ hit_dice: 9
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 5 or 2 per opponent (36 total)
-damage_per_attack: 1d6 (squeeze) or 1d2 (slap); or by weapon
+attacks: 5 or 2 per opponent (36 total)
+damage_attack: 1d6 (squeeze) or 1d2 (slap); or by weapon
 special_attacks: Charm, hold, constriction, bite
 special_defenses: Sphere of force
 magic_resistance: 60%

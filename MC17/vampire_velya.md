@@ -24,8 +24,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1 or as animal
-damage_per_attack: 1d8 (touch) or as animal
+attacks: 1 or as animal
+damage_attack: 1d8 (touch) or as animal
 special_attacks: Energy drain, charm, shapechange
 special_defenses: Regeneration, immune to normal weapons and some spells
 magic_resistance: Nil

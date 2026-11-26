@@ -24,8 +24,8 @@ hit_dice: 15+
 health: 15-120
 thac0_original: 16
 to_hit: 4
-no_of_attacks: 1 touch + paralysis
-damage_per_attack: 1d10
+attacks: 1 touch + paralysis
+damage_attack: 1d10
 special_attacks: Death gaze (under 3 HD paralyzed if save), paralysis touch, ignores armor, touch destroys items
 special_defenses: +1 or better weapon to hit; immune to 1st and 2nd level spells, mind-affecting spells, and death magic
 magic_resistance: 1% per Hit Die

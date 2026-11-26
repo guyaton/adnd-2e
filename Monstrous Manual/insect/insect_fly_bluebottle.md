@@ -17,8 +17,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1-8
+attacks: 1
+damage_attack: 1-8
 morale: Unsteady (5-7)
 xp_value: 65
 ```

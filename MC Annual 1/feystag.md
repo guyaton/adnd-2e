@@ -24,8 +24,8 @@ hit_dice: 2+4
 health: 6-20
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 2 or 1 plus special
-damage_per_attack: 1d4 (x2) or by weapon -1
+attacks: 2 or 1 plus special
+damage_attack: 1d4 (x2) or by weapon -1
 special_attacks: Control magical items
 special_defenses: Nil
 magic_resistance: 70%

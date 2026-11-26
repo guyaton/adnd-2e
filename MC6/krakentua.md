@@ -24,8 +24,8 @@ hit_dice: '50'
 health: 50-400
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 7 (tentacles), 2 (fists)
-damage_per_attack: See below
+attacks: 7 (tentacles), 2 (fists)
+damage_attack: See below
 special_attacks: Trample, spit, mist
 special_defenses: See below
 magic_resistance: Nil

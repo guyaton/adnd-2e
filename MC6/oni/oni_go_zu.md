@@ -25,8 +25,8 @@ hit_dice: 12+8
 health: 20-104
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 6-16/6-16/1-10
+attacks: 3
+damage_attack: 6-16/6-16/1-10
 special_attacks: See below
 special_defenses: Regeneration
 magic_resistance: 20%

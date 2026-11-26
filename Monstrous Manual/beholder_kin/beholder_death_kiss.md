@@ -25,8 +25,8 @@ hit_dice: 1d8+76 hp
 health: 77-84
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 10
-damage_per_attack: 1-8
+attacks: 10
+damage_attack: 1-8
 special_attacks: Blood drain
 special_defenses: Regeneration
 magic_resistance: Nil

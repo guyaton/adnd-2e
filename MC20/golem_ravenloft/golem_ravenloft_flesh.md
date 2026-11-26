@@ -25,8 +25,8 @@ hit_dice: 9 (40 hp)
 health: 40
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2 (fists)
-damage_per_attack: 2d8/2d8
+attacks: 2 (fists)
+damage_attack: 2d8/2d8
 special_attacks: Strangulation
 special_defenses: See below
 magic_resistance: Special

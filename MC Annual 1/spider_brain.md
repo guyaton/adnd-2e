@@ -24,8 +24,8 @@ hit_dice: 8
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 5
-damage_per_attack: 1d4/1d8 (x4)
+attacks: 5
+damage_attack: 1d4/1d8 (x4)
 special_attacks: Poison, graft weapons
 special_defenses: Psionics
 magic_resistance: Nil

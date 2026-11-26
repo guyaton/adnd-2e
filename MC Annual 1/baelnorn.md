@@ -24,8 +24,8 @@ hit_dice: 9+6
 health: 15-78
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 1d10 or by weapon
+attacks: 1
+damage_attack: 1d10 or by weapon
 special_attacks: Spells
 special_defenses: +1 or better weapon to hit
 magic_resistance: 50%

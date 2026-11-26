@@ -23,8 +23,8 @@ hit_dice: 2 (base)
 health: 2-16
 thac0_original: 18
 to_hit: 2
-no_of_attacks: 1
-damage_per_attack: By weapon
+attacks: 1
+damage_attack: By weapon
 special_attacks: Traps
 special_defenses: See below
 magic_resistance: Special

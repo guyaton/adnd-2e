@@ -24,8 +24,8 @@ hit_dice: 6 to 12 (see below)
 health: 6-96
 thac0_original: '6 HD: 15 (7 HD: 13; 9 HD: 11; 11 HD: 9)'
 to_hit: '6 HD: 5 (7 HD: 7; 9 HD: 9; 11 HD: 11)'
-no_of_attacks: 1
-damage_per_attack: 3d4
+attacks: 1
+damage_attack: 3d4
 special_attacks: Surprise, dissolve, HD growth
 special_defenses: Immune to heat and flame
 magic_resistance: Special

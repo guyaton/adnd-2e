@@ -24,8 +24,8 @@ hit_dice: 7+7
 health: 14-63
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 5
-damage_per_attack: 1d4+1 (x4) or by weapon/2d4
+attacks: 5
+damage_attack: 1d4+1 (x4) or by weapon/2d4
 special_attacks: Hurl rocks, constriction
 special_defenses: Nil
 magic_resistance: Nil

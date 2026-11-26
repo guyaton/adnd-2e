@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: Not printed
-damage_per_attack: 1-2/1-2/1-6
+attacks: Not printed
+damage_attack: 1-2/1-2/1-6
 special_attacks: Breath weapon
 special_defenses: Teleport and plane shift
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 6+4
 health: 10-52
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 3d4
+attacks: 1
+damage_attack: 3d4
 special_attacks: Cause falling, grasping bite, high initiative
 special_defenses: Regeneration, immunity to certain spells and weapons
 magic_resistance: Nil

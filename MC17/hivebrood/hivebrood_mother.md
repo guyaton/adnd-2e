@@ -25,8 +25,8 @@ hit_dice: 12+2
 health: 14-98
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 0
-damage_per_attack: Nil
+attacks: 0
+damage_attack: Nil
 special_attacks: Poisonous gas
 special_defenses: Immune to vision-affecting spells
 magic_resistance: Nil

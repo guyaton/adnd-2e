@@ -24,8 +24,8 @@ hit_dice: 11-16
 health: 11-128
 thac0_original: '''11-12 HD: 9; 13-14 HD: 7; 15-16 HD: 5'''
 to_hit: '''11-12 HD: 11; 13-14 HD: 13; 15-16 HD: 15'''
-no_of_attacks: 2
-damage_per_attack: 5d6+10 (fist)/5d6+10 (fist)
+attacks: 2
+damage_attack: 5d6+10 (fist)/5d6+10 (fist)
 special_attacks: Paralyzing breath
 special_defenses: Spell immunity
 magic_resistance: Nil

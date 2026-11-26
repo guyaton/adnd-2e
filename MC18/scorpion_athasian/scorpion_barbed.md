@@ -25,8 +25,8 @@ hit_dice: 9+5
 health: 14-77
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 1d12/1d12/1d6
+attacks: 3
+damage_attack: 1d12/1d12/1d6
 special_attacks: Poison sting
 special_defenses: Barbs
 magic_resistance: Nil

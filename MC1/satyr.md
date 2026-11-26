@@ -24,8 +24,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 head butt or weapon
-damage_per_attack: 2-8 or by weapon
+attacks: 1 head butt or weapon
+damage_attack: 2-8 or by weapon
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 50%

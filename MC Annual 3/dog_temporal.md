@@ -24,8 +24,8 @@ hit_dice: 4+1
 health: 5-33
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 1d8
+attacks: 1
+damage_attack: 1d8
 special_attacks: Haste (see below)
 special_defenses: Timeslip
 magic_resistance: 10%

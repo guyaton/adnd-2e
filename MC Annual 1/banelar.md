@@ -24,8 +24,8 @@ hit_dice: 7+7
 health: 14-63
 thac0_original: 13
 to_hit: 7
-no_of_attacks: Up to 5
-damage_per_attack: 1d3 plus venom (bite)/2d4 plus venom (sting)/by weapon
+attacks: Up to 5
+damage_attack: 1d3 plus venom (bite)/2d4 plus venom (sting)/by weapon
 special_attacks: Spells, poison, magical items
 special_defenses: Regeneration (1 hp/round)
 magic_resistance: Nil

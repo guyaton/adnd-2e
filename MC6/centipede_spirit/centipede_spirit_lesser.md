@@ -25,8 +25,8 @@ hit_dice: 3+5
 health: 8-29
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1-2
+attacks: 1
+damage_attack: 1-2
 special_attacks: Fog cloud
 special_defenses: Nil
 magic_resistance: 15%

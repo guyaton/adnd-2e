@@ -24,8 +24,8 @@ hit_dice: '11'
 health: 11-88
 thac0_original: 12
 to_hit: 8
-no_of_attacks: 1 or 2
-damage_per_attack: By weapon or 1-6/1-6
+attacks: 1 or 2
+damage_attack: By weapon or 1-6/1-6
 special_attacks: By type, elemental transfusion
 special_defenses: Psionics
 magic_resistance: 20%

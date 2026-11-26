@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 4
-damage_per_attack: 1d6 (x4)
+attacks: 4
+damage_attack: 1d6 (x4)
 special_attacks: Surprise
 special_defenses: Shadow form, immune to heat, needs no air to breathe
 magic_resistance: Nil

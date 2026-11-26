@@ -24,8 +24,8 @@ hit_dice: 9 (base)
 health: 9-72
 thac0_original: 11 (at 9 HD)
 to_hit: 9 (at 9 HD)
-no_of_attacks: 3 + special
-damage_per_attack: 1-8/1-8/2-20
+attacks: 3 + special
+damage_attack: 1-8/1-8/2-20
 special_attacks: Tongue, breath weapon, and magical abilities
 special_defenses: Variable
 magic_resistance: Variable

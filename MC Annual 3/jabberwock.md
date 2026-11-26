@@ -24,8 +24,8 @@ hit_dice: 15 (99 hp)
 health: 99
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 3d10
+attacks: 1
+damage_attack: 3d10
 special_attacks: Burble, eyebeams, fear aura, grasp, flurry attack
 special_defenses: Immune to non-vorpal weapons
 magic_resistance: 80%

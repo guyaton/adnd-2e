@@ -25,8 +25,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 2
-damage_per_attack: 3d6 (claw)/3d6 (claw)
+attacks: 2
+damage_attack: 3d6 (claw)/3d6 (claw)
 special_attacks: Elemental cloud
 special_defenses: See below
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: Variable (4+)
 health: Variable (4-32 at 4 HD)
 thac0_original: Variable
 to_hit: Variable
-no_of_attacks: 2
-damage_per_attack: 1-6/1-6
+attacks: 2
+damage_attack: 1-6/1-6
 special_attacks: Eerie whisper
 special_defenses: +1 or better to hit
 magic_resistance: Nil

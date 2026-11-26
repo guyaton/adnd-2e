@@ -24,8 +24,8 @@ hit_dice: 2+4
 health: 6-20
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d4+2
+attacks: 1
+damage_attack: 1d4+2
 special_attacks: Tail whip
 special_defenses: See below
 magic_resistance: See below

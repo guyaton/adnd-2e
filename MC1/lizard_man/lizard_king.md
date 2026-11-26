@@ -25,8 +25,8 @@ hit_dice: 8
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 5-20 (3d6+2)
+attacks: 1
+damage_attack: 5-20 (3d6+2)
 special_attacks: Skewer
 special_defenses: Nil
 magic_resistance: Nil

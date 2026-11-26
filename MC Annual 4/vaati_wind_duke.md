@@ -23,8 +23,8 @@ hit_dice: 4 (per caste and level)
 health: 4-32 (per caste and level)
 thac0_original: 17 (per caste and level)
 to_hit: 3 (per caste and level)
-no_of_attacks: 1 (per caste and level)
-damage_per_attack: By weapon + Strength bonus
+attacks: 1 (per caste and level)
+damage_attack: By weapon + Strength bonus
 special_attacks: See below
 special_defenses: See below
 magic_resistance: Nil

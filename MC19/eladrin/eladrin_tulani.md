@@ -25,8 +25,8 @@ hit_dice: 12+20
 health: 32-116
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 3
-damage_per_attack: 2d4+12
+attacks: 3
+damage_attack: 2d4+12
 special_attacks: Gaze
 special_defenses: Aura; struck only by cold iron or weapons of +4 or better enchantment
 magic_resistance: 50%

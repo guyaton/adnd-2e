@@ -25,8 +25,8 @@ hit_dice: 10
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 6-24
+attacks: 1
+damage_attack: 6-24
 special_attacks: Long neck
 special_defenses: Hide limbs
 magic_resistance: Nil

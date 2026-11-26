@@ -25,8 +25,8 @@ hit_dice: 3+2
 health: 5-26
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2
-damage_per_attack: 1d4/1d4
+attacks: 2
+damage_attack: 1d4/1d4
 special_attacks: Glitterdust
 special_defenses: See below
 magic_resistance: Nil

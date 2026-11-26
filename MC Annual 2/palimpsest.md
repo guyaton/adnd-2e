@@ -24,8 +24,8 @@ hit_dice: 1 to 10
 health: 1-80
 thac0_original: Varies
 to_hit: Varies
-no_of_attacks: 1
-damage_per_attack: 1d3
+attacks: 1
+damage_attack: 1d3
 special_attacks: Absorption
 special_defenses: Immune to fire and edged weapons
 magic_resistance: 10%

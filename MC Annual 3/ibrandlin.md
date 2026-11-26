@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 5
-damage_per_attack: 1d8 (x4 claws)/2d8 (bite)
+attacks: 5
+damage_attack: 1d8 (x4 claws)/2d8 (bite)
 special_attacks: Fire breath
 special_defenses: Nil
 magic_resistance: 40%

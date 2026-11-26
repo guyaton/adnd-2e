@@ -23,8 +23,8 @@ movement: 0 (tree), Fl 6 (E) (heads)
 hit_dice: 10 (plus 6 hp per head)
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1 per head
-damage_per_attack: 1 per seed (per head) or 1d4 per bite (per head)
+attacks: 1 per head
+damage_attack: 1 per seed (per head) or 1d4 per bite (per head)
 special_attacks: Seed spitting
 special_defenses: Immune to fire
 magic_resistance: 10%

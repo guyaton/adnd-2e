@@ -24,8 +24,8 @@ hit_dice: 2+1 (males), 1+1 (females), or by class/level
 health: 3-17 (males), 2-9 (females)
 thac0_original: By Hit Dice or class/level
 to_hit: By Hit Dice or class/level
-no_of_attacks: 1 or 2
-damage_per_attack: By weapon or spell type
+attacks: 1 or 2
+damage_attack: By weapon or spell type
 special_attacks: Spells, missiles, and magical devices possible
 special_defenses: Spells, missiles, and magical devices possible
 magic_resistance: Nil

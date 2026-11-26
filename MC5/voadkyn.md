@@ -24,8 +24,8 @@ hit_dice: 7+7
 health: 14-63
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1-10 (weapon) +3 to +6 (Strength bonus)
+attacks: 1
+damage_attack: 1-10 (weapon) +3 to +6 (Strength bonus)
 special_attacks: -4 penalty to opponents' surprise rolls
 special_defenses: Resistant to some spells
 magic_resistance: Nil

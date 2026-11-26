@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 1d8/1d8
+attacks: 2
+damage_attack: 1d8/1d8
 special_attacks: Discorporating poison
 special_defenses: Struck only by +4 or better weapons, immunities
 magic_resistance: 95%

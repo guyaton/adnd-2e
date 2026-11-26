@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: 3d8/3d8
+attacks: 2
+damage_attack: 3d8/3d8
 special_attacks: Spell drain
 special_defenses: Anti-magic shell
 magic_resistance: Nil

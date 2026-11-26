@@ -24,8 +24,8 @@ hit_dice: 4+3
 health: 7-35
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1d4/1d4 (claw), 1d4 bite
+attacks: 3
+damage_attack: 1d4/1d4 (claw), 1d4 bite
 special_attacks: Rear claws
 special_defenses: Fire resistance, dimensional portal, resist weapon damage, oil
 magic_resistance: Nil

@@ -23,8 +23,8 @@ movement: See below
 hit_dice: See below
 health: See below
 thac0_original: Nil
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Engulfs
 special_defenses: Regrowth
 magic_resistance: 25%

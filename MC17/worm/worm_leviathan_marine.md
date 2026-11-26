@@ -24,8 +24,8 @@ hit_dice: '70'
 health: 70-560
 thac0_original: 1
 to_hit: 19
-no_of_attacks: 1
-damage_per_attack: 4d10 (bite)
+attacks: 1
+damage_attack: 4d10 (bite)
 special_attacks: Swallow, whirlpool
 special_defenses: See below
 magic_resistance: Nil

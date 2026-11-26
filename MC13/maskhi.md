@@ -24,8 +24,8 @@ hit_dice: 4+1
 health: 5-33
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2
-damage_per_attack: 1-3/1-3 or by weapon
+attacks: 2
+damage_attack: 1-3/1-3 or by weapon
 special_attacks: Surprise
 special_defenses: Shapeshifting
 magic_resistance: Nil

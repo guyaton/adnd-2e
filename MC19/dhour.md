@@ -24,8 +24,8 @@ hit_dice: 7+7
 health: 14-63
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 4d4
+attacks: 1
+damage_attack: 4d4
 special_attacks: Engulf, psionics
 special_defenses: Immune to Type B weapons, 1/2 damage from Type S
 magic_resistance: None

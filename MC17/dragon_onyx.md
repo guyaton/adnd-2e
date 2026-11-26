@@ -24,8 +24,8 @@ hit_dice: 12 (base)
 health: 12-96 (base)
 thac0_original: 9 (base)
 to_hit: 11 (base)
-no_of_attacks: 3
-damage_per_attack: 2d4 (claw)/2d4 (claw)/3d6 (bite)
+attacks: 3
+damage_attack: 2d4 (claw)/2d4 (claw)/3d6 (bite)
 special_attacks: Varies
 special_defenses: Varies
 magic_resistance: Varies

@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 6 or 1
-damage_per_attack: 1d4x6 (tentacles) or 2d10 (maw)
+attacks: 6 or 1
+damage_attack: 1d4x6 (tentacles) or 2d10 (maw)
 special_attacks: Nil
 special_defenses: Ethereal attack
 magic_resistance: Nil

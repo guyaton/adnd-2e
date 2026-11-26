@@ -24,8 +24,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 15 (12 vs. nonflyers)
 to_hit: 5 (8 vs. nonflyers)
-no_of_attacks: 3
-damage_per_attack: 1d6/1d6/1d6
+attacks: 3
+damage_attack: 1d6/1d6/1d6
 special_attacks: Stun, grasp
 special_defenses: Struck only by +1 or better weapons, immunities
 magic_resistance: Nil

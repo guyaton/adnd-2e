@@ -22,8 +22,8 @@ ac: 20/as duplicated form
 movement: 18/as duplicated form
 hit_dice: Special/as duplicated form
 thac0_original: Nil/as duplicated form
-no_of_attacks: 1/as duplicated form
-damage_per_attack: Special/as duplicated form
+attacks: 1/as duplicated form
+damage_attack: Special/as duplicated form
 special_attacks: See below
 special_defenses: See below
 magic_resistance: See below

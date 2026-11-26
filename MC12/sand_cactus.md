@@ -24,8 +24,8 @@ hit_dice: 5-8
 health: 5-64
 thac0_original: '5-6 HD: 15; 7-8 HD: 13'
 to_hit: '5-6 HD: 5; 7-8 HD: 7'
-no_of_attacks: 1 (per appendage)
-damage_per_attack: 1-3
+attacks: 1 (per appendage)
+damage_attack: 1-3
 special_attacks: Blood drain
 special_defenses: Camouflage
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2-5 limbs and 1 bite
-damage_per_attack: 2d4 (per limb), 4d4 (bite)
+attacks: 2-5 limbs and 1 bite
+damage_attack: 2d4 (per limb), 4d4 (bite)
 special_attacks: Surprise, entangle
 special_defenses: Camouflage
 magic_resistance: None

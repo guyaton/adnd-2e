@@ -24,8 +24,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 3d4
+attacks: 2
+damage_attack: 3d4
 special_attacks: Paralysis, friends gaze
 special_defenses: Half damage from blunt weapons, disarming
 magic_resistance: Nil

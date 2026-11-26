@@ -23,8 +23,8 @@ movement: Sw 9
 hit_dice: 2+4
 health: 6-20
 thac0_original: Nil
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Surprise on 1-8, electrical shock
 special_defenses: Camouflage
 magic_resistance: Nil

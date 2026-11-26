@@ -24,8 +24,8 @@ hit_dice: Varies (3d10/4d8)
 health: Varies
 thac0_original: 18
 to_hit: 2
-no_of_attacks: 3 or by weapon
-damage_per_attack: 1-6/1-6/1-4
+attacks: 3 or by weapon
+damage_attack: 1-6/1-6/1-4
 special_attacks: Nil
 special_defenses: Half damage from fire
 magic_resistance: Nil

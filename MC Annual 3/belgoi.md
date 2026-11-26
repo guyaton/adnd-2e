@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 or 1
-damage_per_attack: 1d4+2/1d4+2 or by weapon
+attacks: 2 or 1
+damage_attack: 1d4+2/1d4+2 or by weapon
 special_attacks: Psionics, Constitution drain
 special_defenses: Psionics
 magic_resistance: Nil

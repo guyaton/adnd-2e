@@ -25,8 +25,8 @@ hit_dice: 3 (core), 1+1 (leaf), 4 hp (thread)
 health: core 3-24; leaf 2-9; thread 4
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 12
-damage_per_attack: 1-2 x 12
+attacks: 12
+damage_attack: 1-2 x 12
 special_attacks: Blood drain
 special_defenses: Nil
 magic_resistance: Nil

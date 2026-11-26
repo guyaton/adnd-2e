@@ -24,8 +24,8 @@ hit_dice: '11'
 health: 11-88
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 4
-damage_per_attack: 3d6 (x4)
+attacks: 4
+damage_attack: 3d6 (x4)
 special_attacks: Magic
 special_defenses: Spell immunity
 magic_resistance: 20%

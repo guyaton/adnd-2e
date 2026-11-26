@@ -24,8 +24,8 @@ hit_dice: 7 or 8
 health: 7-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 1-6
+attacks: 2
+damage_attack: 1-6
 special_attacks: Entangle and blood drain
 special_defenses: Spell immunities
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 1
 health: 1-8
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1d2
+attacks: 1
+damage_attack: 1d2
 special_attacks: Control host
 special_defenses: Immune to blunt weapons and mind-affecting spells
 magic_resistance: Nil

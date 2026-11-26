@@ -25,8 +25,8 @@ hit_dice: 5+5
 health: 10-45
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1d8/1d8
+attacks: 2
+damage_attack: 1d8/1d8
 special_attacks: Spells, squeeze
 special_defenses: Immune to blinding, mind-affecting spells, and psionics
 magic_resistance: 20%

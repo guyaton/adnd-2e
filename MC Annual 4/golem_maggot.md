@@ -24,8 +24,8 @@ hit_dice: 8 (45 hp)
 health: 45
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: Special
+attacks: 1
+damage_attack: Special
 special_attacks: Smothering
 special_defenses: Immune to edged weapons, half damage from blunt weapons, regeneration, see below
 magic_resistance: Nil

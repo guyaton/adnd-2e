@@ -24,8 +24,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 4-10/4-10/2-8
+attacks: 3
+damage_attack: 4-10/4-10/2-8
 special_attacks: Burning hooves
 special_defenses: Paralyzing cloud
 magic_resistance: Nil

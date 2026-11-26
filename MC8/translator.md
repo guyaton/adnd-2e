@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: Miss only on a 1
 to_hit: Hits on 2+
-no_of_attacks: 1
-damage_per_attack: Stun
+attacks: 1
+damage_attack: Stun
 special_attacks: Spell erasing
 special_defenses: Deific intervention
 magic_resistance: Nil

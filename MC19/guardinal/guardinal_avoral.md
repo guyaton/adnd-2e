@@ -25,8 +25,8 @@ hit_dice: 7+4
 health: 11-60
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2 wing buffets or 2 talons
-damage_per_attack: 1d8/1d8 or 2d6/2d6
+attacks: 2 wing buffets or 2 talons
+damage_attack: 1d8/1d8 or 2d6/2d6
 special_attacks: Dive, spell-like powers
 special_defenses: Hit only by silver or +1 or better weapons
 magic_resistance: 40%

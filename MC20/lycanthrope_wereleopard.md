@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d4/1d4/1d6
+attacks: 3
+damage_attack: 1d4/1d4/1d6
 special_attacks: Hamstring
 special_defenses: Nil
 magic_resistance: Nil

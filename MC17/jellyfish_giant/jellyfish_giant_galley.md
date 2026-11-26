@@ -25,8 +25,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 16 (1d4/target)
-damage_per_attack: 1d8 each (tentacle sting)
+attacks: 16 (1d4/target)
+damage_attack: 1d8 each (tentacle sting)
 special_attacks: Spit venom
 special_defenses: Nil
 magic_resistance: Nil

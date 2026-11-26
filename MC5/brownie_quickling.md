@@ -24,8 +24,8 @@ hit_dice: 'Normal: 1+1-4 hp; Leaders: 3; Elders: 4'
 health: 'Normal: 1+1-4 hp; Leaders: 3-24; Elders: 4-32'
 thac0_original: 'Normal: 19; Leaders and elders: 17'
 to_hit: 'Normal: 1; Leaders and elders: 3'
-no_of_attacks: 3
-damage_per_attack: By weapon (1-3/1-2)
+attacks: 3
+damage_attack: By weapon (1-3/1-2)
 special_attacks: See below
 special_defenses: See below
 magic_resistance: Nil

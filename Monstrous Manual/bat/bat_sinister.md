@@ -25,8 +25,8 @@ hit_dice: 4+4
 health: 8-36
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 2-5
+attacks: 1
+damage_attack: 2-5
 special_attacks: Magic use
 special_defenses: Energy field
 magic_resistance: 70%

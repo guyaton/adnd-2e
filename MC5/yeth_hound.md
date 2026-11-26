@@ -24,8 +24,8 @@ hit_dice: 3+3
 health: 6-27
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 2-8
+attacks: 1
+damage_attack: 2-8
 special_attacks: Fear
 special_defenses: Silver or magical weapons to hit
 magic_resistance: 10%

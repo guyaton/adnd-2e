@@ -25,8 +25,8 @@ hit_dice: 5-8
 health: 5-64
 thac0_original: '5 heads: 15; 6 heads: 13; 7 heads: 13; 8 heads: 12'
 to_hit: '5 heads: 5; 6 heads: 7; 7 heads: 7; 8 heads: 8'
-no_of_attacks: 5-8
-damage_per_attack: '1 bite per head; 5 heads: 1-6; 6 heads: 1-6; 7 heads: 1-8; 8 heads: 1-8'
+attacks: 5-8
+damage_attack: '1 bite per head; 5 heads: 1-6; 6 heads: 1-6; 7 heads: 1-8; 8 heads: 1-8'
 special_attacks: Cold
 special_defenses: Nil
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 9+3
 health: 12-75
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 3-12
+attacks: 1
+damage_attack: 3-12
 special_attacks: Bay, howl
 special_defenses: Shadowy hypnotic pattern, +2 or better weapons to hit
 magic_resistance: 25%

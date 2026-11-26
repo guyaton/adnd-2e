@@ -24,8 +24,8 @@ hit_dice: 15
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2 tentacles, 6 heads
-damage_per_attack: 2d6/2d6/1d8+4 (x6)
+attacks: 2 tentacles, 6 heads
+damage_attack: 2d6/2d6/1d8+4 (x6)
 special_attacks: Grab, constriction
 special_defenses: Nil
 magic_resistance: Nil

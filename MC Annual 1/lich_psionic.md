@@ -24,8 +24,8 @@ hit_dice: 9+18
 health: 27-90
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 1d8+2
+attacks: 1
+damage_attack: 1d8+2
 special_attacks: Psionics, mind struck power, psionics-draining touch
 special_defenses: Psionics, spell immunities, +1 weapon to hit, phylactery
 magic_resistance: Nil

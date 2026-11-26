@@ -24,8 +24,8 @@ hit_dice: 7-12
 health: 7-96
 thac0_original: '7-8 HD: 13; 9-10 HD: 11; 11-12 HD: 9'
 to_hit: '7-8 HD: 7; 9-10 HD: 9; 11-12 HD: 11'
-no_of_attacks: 5 or 3
-damage_per_attack: 1-6 (x4)/2-7 or by weapon
+attacks: 5 or 3
+damage_attack: 1-6 (x4)/2-7 or by weapon
 special_attacks: Poison
 special_defenses: Dodge missiles on a roll of 11 or better
 magic_resistance: Nil

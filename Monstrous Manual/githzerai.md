@@ -24,8 +24,8 @@ hit_dice: Per class and level
 health: Per class and level
 thac0_original: Per class and level
 to_hit: Per class and level
-no_of_attacks: Per class and level
-damage_per_attack: Per weapon type
+attacks: Per class and level
+damage_attack: Per weapon type
 special_attacks: Nil
 special_defenses: Nil
 magic_resistance: 50%

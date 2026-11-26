@@ -25,8 +25,8 @@ hit_dice: '2'
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 2
-damage_per_attack: 1d4 (claw)/1d4 (claw)
+attacks: 2
+damage_attack: 1d4 (claw)/1d4 (claw)
 special_attacks: Surprise, cold touch
 special_defenses: Immune to cold
 magic_resistance: Nil

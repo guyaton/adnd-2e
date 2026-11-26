@@ -25,8 +25,8 @@ hit_dice: '13'
 health: 13-104
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 6
-damage_per_attack: 1-4 x2/1-6 x2/2-12/2-8 or weapon
+attacks: 6
+damage_attack: 1-4 x2/1-6 x2/2-12/2-8 or weapon
 special_attacks: Fear, poison, tail constriction
 special_defenses: Regeneration, +3 or better weapons to hit
 magic_resistance: 50%

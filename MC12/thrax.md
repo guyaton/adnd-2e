@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1+ special
-damage_per_attack: 2-12 or by weapon +3 (strength)
+attacks: 1+ special
+damage_attack: 2-12 or by weapon +3 (strength)
 special_attacks: Water drain
 special_defenses: Nil
 magic_resistance: Nil

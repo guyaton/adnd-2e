@@ -24,8 +24,8 @@ hit_dice: 11+11
 health: 22-99
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 3d4/3d4/5d4
+attacks: 3
+damage_attack: 3d4/3d4/5d4
 special_attacks: Breath weapon, spells
 special_defenses: Nil
 magic_resistance: Nil

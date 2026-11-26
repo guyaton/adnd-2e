@@ -25,8 +25,8 @@ hit_dice: 12+12
 health: 24-108
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 3
-damage_per_attack: 3-9/3-9/3-24
+attacks: 3
+damage_attack: 3-9/3-9/3-24
 special_attacks: Ensnare and fling
 special_defenses: See below
 magic_resistance: 20%

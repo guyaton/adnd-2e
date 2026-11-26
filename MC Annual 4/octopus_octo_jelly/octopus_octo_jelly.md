@@ -25,8 +25,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1d6+1d10
+attacks: 1
+damage_attack: 1d6+1d10
 special_attacks: Smother
 special_defenses: Luminous cloud
 magic_resistance: Nil

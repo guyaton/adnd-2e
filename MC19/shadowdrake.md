@@ -24,8 +24,8 @@ hit_dice: 9 (base)
 health: 9-72 (base)
 thac0_original: 11 (base)
 to_hit: 9 (base)
-no_of_attacks: 3 + special
-damage_per_attack: 2d4/2d4/3d12
+attacks: 3 + special
+damage_attack: 2d4/2d4/3d12
 special_attacks: Breath, spell-like powers, cause disease
 special_defenses: None
 magic_resistance: 10% (base)

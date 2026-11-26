@@ -17,8 +17,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2
-damage_per_attack: 3-8 and weapon (+1)
+attacks: 2
+damage_attack: 3-8 and weapon (+1)
 special_attacks: No
 special_defenses: No
 ```

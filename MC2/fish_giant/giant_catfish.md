@@ -24,8 +24,8 @@ hit_dice: 7-10
 health: 7-80
 thac0_original: '7 HD: 13; 8-9 HD: 12; 10 HD: 10'
 to_hit: '7 HD: 7; 8-9 HD: 8; 10 HD: 10'
-no_of_attacks: 1
-damage_per_attack: 3-12
+attacks: 1
+damage_attack: 3-12
 special_attacks: Poison spines, swallows whole
 special_defenses: Nil
 magic_resistance: Nil

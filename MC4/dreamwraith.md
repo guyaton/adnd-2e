@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1-10 or by weapon (illusionary)
+attacks: 1
+damage_attack: 1-10 or by weapon (illusionary)
 special_attacks: '-1 bonus to initiative roll'
 special_defenses: Nil
 magic_resistance: See below

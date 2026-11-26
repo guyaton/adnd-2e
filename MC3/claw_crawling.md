@@ -24,8 +24,8 @@ hit_dice: 2-4 hit points
 health: 2-4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1-4 (armored foes), 1-6 (unarmored foes)
+attacks: 1
+damage_attack: 1-4 (armored foes), 1-6 (unarmored foes)
 special_attacks: Nil
 special_defenses: See below
 magic_resistance: See below

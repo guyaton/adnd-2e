@@ -24,8 +24,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 or 3
-damage_per_attack: By weapon or 1d4 (claw)/1d4 (claw)/1d3 (bite)
+attacks: 1 or 3
+damage_attack: By weapon or 1d4 (claw)/1d4 (claw)/1d3 (bite)
 special_attacks: Nil
 special_defenses: Skin protects against fire, blunt weapons
 magic_resistance: Nil

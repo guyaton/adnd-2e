@@ -23,8 +23,8 @@ movement: 1, Br 3
 hit_dice: 1 hp
 health: 1
 thac0_original: Nil
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Psionic
 special_defenses: Psionic
 magic_resistance: Nil

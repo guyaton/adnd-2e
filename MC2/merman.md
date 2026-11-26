@@ -24,8 +24,8 @@ hit_dice: 1+1
 health: 2-9
 thac0_original: 18
 to_hit: 2
-no_of_attacks: 1
-damage_per_attack: By weapon type
+attacks: 1
+damage_attack: By weapon type
 special_attacks: Grapple ship
 special_defenses: Nil
 magic_resistance: Nil

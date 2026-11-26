@@ -24,8 +24,8 @@ hit_dice: 4 (13 hp)
 health: 13
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1-4 (1d4)/1-4 (1d4)
+attacks: 2
+damage_attack: 1-4 (1d4)/1-4 (1d4)
 special_attacks: Strangulation; disease; thief abilities
 special_defenses: Thief abilities
 magic_resistance: Nil

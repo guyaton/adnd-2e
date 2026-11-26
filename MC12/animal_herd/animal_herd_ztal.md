@@ -25,8 +25,8 @@ hit_dice: 2+2
 health: 4-18
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 2
-damage_per_attack: 1, 1-6
+attacks: 2
+damage_attack: 1, 1-6
 special_attacks: Sonics
 special_defenses: Sonics
 magic_resistance: Nil

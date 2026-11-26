@@ -25,8 +25,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 2-16 (2d8)
+attacks: 1
+damage_attack: 2-16 (2d8)
 special_attacks: Electric burst
 special_defenses: Spell immunity, invisibility
 magic_resistance: See below

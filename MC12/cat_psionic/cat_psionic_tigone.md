@@ -25,8 +25,8 @@ hit_dice: 5+2
 health: 7-42
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 5
-damage_per_attack: 1-3/1-3/1-10/1-4/1-4
+attacks: 5
+damage_attack: 1-3/1-3/1-10/1-4/1-4
 special_attacks: Psionic
 special_defenses: Psionic
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 10 (50 hp)
 health: 50
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 3d10
+attacks: 1
+damage_attack: 3d10
 special_attacks: Nil
 special_defenses: +1 or better to hit, immune to electrical and heat-based spells
 magic_resistance: Nil or 25%

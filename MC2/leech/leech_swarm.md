@@ -25,8 +25,8 @@ hit_dice: Special
 health: ''
 thac0_original: NA
 to_hit: NA
-no_of_attacks: 1
-damage_per_attack: Special
+attacks: 1
+damage_attack: Special
 special_attacks: Drain blood
 special_defenses: Nil
 magic_resistance: Nil

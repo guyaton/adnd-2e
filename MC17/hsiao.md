@@ -24,8 +24,8 @@ hit_dice: 4-15
 health: 4-120
 thac0_original: '''4 HD: 17; 5-6 HD: 15; 7-8 HD: 13; 9-10 HD: 11; 11-12 HD: 9; 13-14 HD: 7; 15 HD: 5'''
 to_hit: '''4 HD: 3; 5-6 HD: 5; 7-8 HD: 7; 9-10 HD: 9; 11-12 HD: 11; 13-14 HD: 13; 15 HD: 15'''
-no_of_attacks: 3
-damage_per_attack: 1d6 (claw)/1d6 (claw)/1d4 (beak)
+attacks: 3
+damage_attack: 1d6 (claw)/1d6 (claw)/1d4 (beak)
 special_attacks: Spells
 special_defenses: Allies
 magic_resistance: Nil

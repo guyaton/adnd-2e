@@ -24,8 +24,8 @@ hit_dice: 12+12
 health: 24-108
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 3
-damage_per_attack: 3d6/2d6/2d6
+attacks: 3
+damage_attack: 3d6/2d6/2d6
 special_attacks: Psionics, magical items, trumpet
 special_defenses: Psionics, invisibility
 magic_resistance: 20%

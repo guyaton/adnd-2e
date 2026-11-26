@@ -25,8 +25,8 @@ hit_dice: 15
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 3
-damage_per_attack: 3d6
+attacks: 3
+damage_attack: 3d6
 special_attacks: Mimicry, continuous damage
 special_defenses: Camouflage, heat and cold resistance
 magic_resistance: Nil

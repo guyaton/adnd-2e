@@ -25,8 +25,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7 (+6 strength and weapon bonus)
 to_hit: 13 (+6 strength and weapon bonus)
-no_of_attacks: 3
-damage_per_attack: 1-10 +10 (strength and magical bonus)
+attacks: 3
+damage_attack: 1-10 +10 (strength and magical bonus)
 special_attacks: Vorpal weapon, plus special
 special_defenses: Never surprised, regeneration
 magic_resistance: 75%

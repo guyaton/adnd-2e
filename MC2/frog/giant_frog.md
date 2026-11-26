@@ -24,8 +24,8 @@ hit_dice: 1-3
 health: 1-24
 thac0_original: '1 HD: 19; 2-3 HD: 16'
 to_hit: '1 HD: 1; 2-3 HD: 4'
-no_of_attacks: 1
-damage_per_attack: 1-3/1-6/2-8
+attacks: 1
+damage_attack: 1-3/1-6/2-8
 special_attacks: Tongue and swallow whole
 special_defenses: Nil
 magic_resistance: Nil

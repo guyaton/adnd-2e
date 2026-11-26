@@ -24,8 +24,8 @@ hit_dice: 1/2 master's level
 health: Varies
 thac0_original: Varies (dependent on Hit Dice)
 to_hit: Varies
-no_of_attacks: 1
-damage_per_attack: 1-6
+attacks: 1
+damage_attack: 1-6
 special_attacks: Nil
 special_defenses: Breathe water
 magic_resistance: Nil

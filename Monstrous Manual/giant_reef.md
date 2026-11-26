@@ -24,8 +24,8 @@ hit_dice: '18'
 health: 18-144
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 1-10 or by weapon (typically 2-20 +10)
+attacks: 1
+damage_attack: 1-10 or by weapon (typically 2-20 +10)
 special_attacks: Boulders, whirlpool
 special_defenses: Immune to water-based attacks
 magic_resistance: Nil

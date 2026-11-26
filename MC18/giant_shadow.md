@@ -24,8 +24,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2 or 1
-damage_per_attack: 2d6 + special
+attacks: 2 or 1
+damage_attack: 2d6 + special
 special_attacks: Strength drain
 special_defenses: +2 or better weapon to hit
 magic_resistance: Nil

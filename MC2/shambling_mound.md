@@ -24,8 +24,8 @@ hit_dice: 8-11
 health: 8-88
 thac0_original: '8 HD: 13; 9-10 HD: 11; 11 HD: 9'
 to_hit: '8 HD: 7; 9-10 HD: 9; 11 HD: 11'
-no_of_attacks: 2
-damage_per_attack: 2-16/2-16
+attacks: 2
+damage_attack: 2-16/2-16
 special_attacks: Suffocation
 special_defenses: See below
 magic_resistance: See below

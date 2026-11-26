@@ -24,8 +24,8 @@ hit_dice: Body variable; head 4
 health: Head 4-32
 thac0_original: 16
 to_hit: 4
-no_of_attacks: 1 or 2
-damage_per_attack: 1-6 or by weapon type/1-4
+attacks: 1 or 2
+damage_attack: 1-6 or by weapon type/1-4
 special_attacks: Blood drain
 special_defenses: See below
 magic_resistance: See below

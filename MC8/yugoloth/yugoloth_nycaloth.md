@@ -25,8 +25,8 @@ hit_dice: 11+22
 health: 33-110
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 2 or 1
-damage_per_attack: 9-16/9-16 or by weapon +8 (strength bonus)
+attacks: 2 or 1
+damage_attack: 9-16/9-16 or by weapon +8 (strength bonus)
 special_attacks: Magical axe, wound seepage
 special_defenses: Spell immunity, +2 or better weapons to hit
 magic_resistance: 70%

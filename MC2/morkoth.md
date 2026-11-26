@@ -24,8 +24,8 @@ hit_dice: 7
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1-10
+attacks: 1
+damage_attack: 1-10
 special_attacks: Hypnosis
 special_defenses: Spell reflection.
 magic_resistance: Nil

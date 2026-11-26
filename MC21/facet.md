@@ -24,8 +24,8 @@ hit_dice: 3 (see below)
 health: 3-24 (see below)
 thac0_original: 17 (see below)
 to_hit: 3 (see below)
-no_of_attacks: 2
-damage_per_attack: 1d4/1d4 (see below)
+attacks: 2
+damage_attack: 1d4/1d4 (see below)
 special_attacks: Dehydration
 special_defenses: Nil
 magic_resistance: Nil

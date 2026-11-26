@@ -24,8 +24,8 @@ hit_dice: 10+
 health: 10-80+
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1-4
+attacks: 1
+damage_attack: 1-4
 special_attacks: Mind control
 special_defenses: None
 magic_resistance: 30%

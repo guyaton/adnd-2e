@@ -24,8 +24,8 @@ hit_dice: 6+12
 health: 18-60
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d6/1d6/3d4+3
+attacks: 3
+damage_attack: 1d6/1d6/3d4+3
 special_attacks: Tongue lash
 special_defenses: Struck only by +1 or better weapons
 magic_resistance: 25%

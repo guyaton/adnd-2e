@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: See below
 to_hit: See below
-no_of_attacks: 1
-damage_per_attack: See below
+attacks: 1
+damage_attack: See below
 special_attacks: See below
 special_defenses: Hit only by magical or silver weapons
 magic_resistance: Nil

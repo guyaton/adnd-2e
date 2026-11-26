@@ -25,8 +25,8 @@ hit_dice: +1 HD + 3 hp
 health: Varies
 thac0_original: Varies
 to_hit: Varies
-no_of_attacks: By type
-damage_per_attack: Varies +1
+attacks: By type
+damage_attack: Varies +1
 special_attacks: Fear, disease
 special_defenses: See below
 magic_resistance: Nil

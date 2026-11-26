@@ -24,8 +24,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 4
-damage_per_attack: 2d6+7 (bash)/2d6+7 (bash)/2d6+7 (bash)/2d10 (bite)
+attacks: 4
+damage_attack: 2d6+7 (bash)/2d6+7 (bash)/2d6+7 (bash)/2d10 (bite)
 special_attacks: Poison
 special_defenses: Nil
 magic_resistance: Nil

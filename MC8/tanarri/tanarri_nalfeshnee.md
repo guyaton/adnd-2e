@@ -25,8 +25,8 @@ hit_dice: '11'
 health: 11-88
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 1-4/1-4/2-8
+attacks: 3
+damage_attack: 1-4/1-4/2-8
 special_attacks: Magical spray
 special_defenses: Never surprised, affected only by cold iron or +2 or better weapons
 magic_resistance: 70%

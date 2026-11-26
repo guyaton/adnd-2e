@@ -23,8 +23,8 @@ hit_dice: 8
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 4-16 (4d4)
+attacks: 1
+damage_attack: 4-16 (4d4)
 special_attacks: Surprise
 special_defenses: Invisibility
 magic_resistance: 30%

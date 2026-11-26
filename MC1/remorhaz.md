@@ -24,8 +24,8 @@ hit_dice: 7-14
 health: 7-112
 thac0_original: '7-8 HD: 13; 9-10 HD: 11; 11-12 HD: 9; 13-14 HD: 7'
 to_hit: '7-8 HD: 7; 9-10 HD: 9; 11-12 HD: 11; 13-14 HD: 13'
-no_of_attacks: 1
-damage_per_attack: 'Bite: (7-8 HD) 4-24: (9-12 HD) 5-30; (13-14 HD) 6-36'
+attacks: 1
+damage_attack: 'Bite: (7-8 HD) 4-24: (9-12 HD) 5-30; (13-14 HD) 6-36'
 special_attacks: Swallow whole, heat lash
 special_defenses: Melt metal
 magic_resistance: 75%

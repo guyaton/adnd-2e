@@ -25,8 +25,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 3
 to_hit: 17
-no_of_attacks: 1
-damage_per_attack: 4-32
+attacks: 1
+damage_attack: 4-32
 special_attacks: Charm
 special_defenses: Immune to most spells, +3 or better weapon to hit
 magic_resistance: Nil

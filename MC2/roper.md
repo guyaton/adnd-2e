@@ -15,8 +15,8 @@ alignment: Chaotic evil
 no_appearing: 1-3
 armor_class_descending: 0
 ac: 20
-no_of_attacks: 1 strand + 1 bite
-damage_per_attack: Special/5-20
+attacks: 1 strand + 1 bite
+damage_attack: Special/5-20
 morale: Champion (15)
 xp_value: 7,000
 hit_dice: 10-12

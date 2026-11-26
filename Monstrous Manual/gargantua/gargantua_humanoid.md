@@ -25,8 +25,8 @@ hit_dice: '35'
 health: 35-280
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2
-damage_per_attack: 4-40/4-40
+attacks: 2
+damage_attack: 4-40/4-40
 special_attacks: Trample
 special_defenses: Regeneration
 magic_resistance: Nil

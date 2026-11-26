@@ -24,8 +24,8 @@ hit_dice: 8
 health: 8-64
 thac0_original: 12
 to_hit: 8
-no_of_attacks: 7
-damage_per_attack: 1-4 (x6), 2-12
+attacks: 7
+damage_attack: 1-4 (x6), 2-12
 special_attacks: Constriction
 special_defenses: Ink, color change
 magic_resistance: Nil

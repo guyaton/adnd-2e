@@ -25,8 +25,8 @@ hit_dice: 2 (worker), 3 (warrior)
 health: ''
 thac0_original: 16
 to_hit: 4
-no_of_attacks: 1
-damage_per_attack: 1-6 (worker), 2-8 (warrior)
+attacks: 1
+damage_attack: 1-6 (worker), 2-8 (warrior)
 special_attacks: Warriors have poison sting
 special_defenses: Nil
 magic_resistance: Nil

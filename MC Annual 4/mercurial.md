@@ -24,8 +24,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 2
-damage_per_attack: 1d8+1/1d8+1 [2d8+2/2d8+2]
+attacks: 2
+damage_attack: 1d8+1/1d8+1 [2d8+2/2d8+2]
 special_attacks: Mental blast, borrow form (rogue only), [wish]
 special_defenses: Regeneration [+1 or better magical weapon to hit]
 magic_resistance: 20%

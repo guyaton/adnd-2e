@@ -25,8 +25,8 @@ hit_dice: 10 (50 hp)
 health: 50
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 2d6 (claw)/2d6 (claw)/2d10 (bite)
+attacks: 3
+damage_attack: 2d6 (claw)/2d6 (claw)/2d10 (bite)
 special_attacks: Nil
 special_defenses: See below
 magic_resistance: Nil

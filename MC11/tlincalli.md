@@ -24,8 +24,8 @@ hit_dice: 7+7 to 11+11
 health: 14-99
 thac0_original: '7+7 HD: 13; 8+8 to 9+9 HD: 11; 10+10 to 11+11 HD: 9'
 to_hit: '7+7 HD: 7; 8+8 to 9+9 HD: 9; 10+10 to 11+11 HD: 11'
-no_of_attacks: 3
-damage_per_attack: 2-5/2-5/1-4, or by weapon and 2-5/1-4
+attacks: 3
+damage_attack: 2-5/2-5/1-4, or by weapon and 2-5/1-4
 special_attacks: Poison, possible spell use
 special_defenses: Nil
 magic_resistance: 20%

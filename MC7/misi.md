@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: N/A
 to_hit: N/A
-no_of_attacks: 1 (for entire pack)
-damage_per_attack: Special
+attacks: 1 (for entire pack)
+damage_attack: Special
 special_attacks: See below
 special_defenses: Injured only by spells
 magic_resistance: 10%

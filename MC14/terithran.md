@@ -24,8 +24,8 @@ hit_dice: 5+1
 health: 6-41
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 2-5/2-5
+attacks: 2
+damage_attack: 2-5/2-5
 special_attacks: See below
 special_defenses: Hit only by silver or magical weapons
 magic_resistance: 50%

@@ -24,8 +24,8 @@ hit_dice: 3+4
 health: 7-28
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1d3/1d3/2d4
+attacks: 3
+damage_attack: 1d3/1d3/2d4
 special_attacks: Knockdown, thief abilities
 special_defenses: Shadow form
 magic_resistance: None

@@ -24,8 +24,8 @@ hit_dice: 10+3
 health: 13-83
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1 bite
-damage_per_attack: 5d4
+attacks: 1 bite
+damage_attack: 5d4
 special_attacks: Surprise, swallow
 special_defenses: Silver or +1 weapon to hit
 magic_resistance: Nil

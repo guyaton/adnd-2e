@@ -24,8 +24,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1 or 2
-damage_per_attack: By weapon or 1d4/1d4
+attacks: 1 or 2
+damage_attack: By weapon or 1d4/1d4
 special_attacks: Springing
 special_defenses: Nil
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 4 (27 hp)
 health: 27
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 2-5 (1d4+1)
+attacks: 1
+damage_attack: 2-5 (1d4+1)
 special_attacks: Poison; charm
 special_defenses: Immune to poison
 magic_resistance: Nil

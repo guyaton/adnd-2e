@@ -24,8 +24,8 @@ hit_dice: 3+3
 health: 6-27
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1 weapon and 1 bite
-damage_per_attack: By weapon +1/1d6
+attacks: 1 weapon and 1 bite
+damage_attack: By weapon +1/1d6
 special_attacks: None
 special_defenses: None
 magic_resistance: None

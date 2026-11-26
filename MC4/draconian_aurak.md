@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2 or 1
-damage_per_attack: 3-10 (x2) or spell
+attacks: 2 or 1
+damage_attack: 3-10 (x2) or spell
 special_attacks: Spells and breath
 special_defenses: +4 bonus to saves
 magic_resistance: 30%

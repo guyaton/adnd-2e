@@ -25,8 +25,8 @@ hit_dice: 7-8
 health: 7-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 3-12 (smash)
+attacks: 1
+damage_attack: 3-12 (smash)
 special_attacks: Glue
 special_defenses: Camouflage
 magic_resistance: Nil

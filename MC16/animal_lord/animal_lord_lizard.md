@@ -24,8 +24,8 @@ hit_dice: 15 (122 hp)
 health: 122
 thac0_original: 5
 to_hit: 15
-no_of_attacks: See below
-damage_per_attack: See below
+attacks: See below
+damage_attack: See below
 special_attacks: Hypnotism
 special_defenses: Danger sense, weapon immunity
 magic_resistance: 50%

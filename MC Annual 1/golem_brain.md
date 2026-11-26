@@ -24,8 +24,8 @@ hit_dice: 12 (60 hp)
 health: '60'
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1
-damage_per_attack: 2d12
+attacks: 1
+damage_attack: 2d12
 special_attacks: Mental blast
 special_defenses: Spell immunities, +2 weapon to hit
 magic_resistance: 70%

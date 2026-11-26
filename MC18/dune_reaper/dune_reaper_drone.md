@@ -25,8 +25,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 3d6+7/3d6+7/2d6
+attacks: 3
+damage_attack: 3d6+7/3d6+7/2d6
 special_attacks: Surprise leap
 special_defenses: Nil
 magic_resistance: 10%

@@ -24,8 +24,8 @@ hit_dice: 9 (45 hp)
 health: 45
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 2-8 (2d4)
+attacks: 1
+damage_attack: 2-8 (2d4)
 special_attacks: Magic absorption
 special_defenses: +1 or better weapon to hit; fear aura
 magic_resistance: Special

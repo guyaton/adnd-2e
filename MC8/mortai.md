@@ -24,8 +24,8 @@ hit_dice: '20'
 health: 20-160
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: Special
+attacks: 1
+damage_attack: Special
 special_attacks: Wind and cloud related magic
 special_defenses: None
 magic_resistance: 80%

@@ -24,8 +24,8 @@ hit_dice: 3 (but see below)
 health: 3-24 (but see below)
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 2d6 or 4d8
+attacks: 1
+damage_attack: 2d6 or 4d8
 special_attacks: Heat, charge
 special_defenses: Melt weapons, gain hit points from heat/fire attacks
 magic_resistance: Nil

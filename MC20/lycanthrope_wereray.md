@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1d6/1d8
+attacks: 2
+damage_attack: 1d6/1d8
 special_attacks: Sting
 special_defenses: +1 or better weapons to hit
 magic_resistance: Nil

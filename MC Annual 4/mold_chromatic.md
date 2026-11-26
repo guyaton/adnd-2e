@@ -23,8 +23,8 @@ movement: 0 (Special)
 hit_dice: '2'
 health: 2-16
 thac0_original: Nil
-no_of_attacks: 1
-damage_per_attack: Nil
+attacks: 1
+damage_attack: Nil
 special_attacks: Fascination, spore infestation
 special_defenses: Immune to nonfire attacks
 magic_resistance: Nil

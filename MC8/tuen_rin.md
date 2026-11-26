@@ -24,8 +24,8 @@ hit_dice: '16'
 health: 16-128
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 3
-damage_per_attack: 1-10/1-10/2-20
+attacks: 3
+damage_attack: 1-10/1-10/2-20
 special_attacks: Awe
 special_defenses: Never surprised
 magic_resistance: 90%

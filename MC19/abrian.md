@@ -24,8 +24,8 @@ hit_dice: 2+3
 health: 5-19
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1 beak and 1 kick
-damage_per_attack: 1d3/1d8
+attacks: 1 beak and 1 kick
+damage_attack: 1d3/1d8
 special_attacks: Shriek
 special_defenses: None
 magic_resistance: None

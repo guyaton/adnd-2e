@@ -24,8 +24,8 @@ hit_dice: Varies
 health: Varies
 thac0_original: Varies
 to_hit: Varies
-no_of_attacks: 1
-damage_per_attack: Varies
+attacks: 1
+damage_attack: Varies
 special_attacks: Firebolt & charm
 special_defenses: Hit only by magical weapons
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: See below
+attacks: 1
+damage_attack: See below
 special_attacks: Spore jet
 special_defenses: See below
 magic_resistance: Nil

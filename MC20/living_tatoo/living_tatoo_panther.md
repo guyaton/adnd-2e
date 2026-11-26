@@ -24,8 +24,8 @@ hit_dice: 3+2
 health: 5-26
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1-3/1-3/1-8
+attacks: 3
+damage_attack: 1-3/1-3/1-8
 special_attacks: Surprise, rear claw rake
 special_defenses: +1 or better; surprised on 1
 magic_resistance: Nil

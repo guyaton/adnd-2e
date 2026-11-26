@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 4
-damage_per_attack: 3-18/3-18/3-18/3-18
+attacks: 4
+damage_attack: 3-18/3-18/3-18/3-18
 special_attacks: Eye rays
 special_defenses: Nil
 magic_resistance: 20%

@@ -23,8 +23,8 @@ movement: 1
 hit_dice: 1/2
 health: 1-4
 thac0_original: Nil
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Blood drain
 special_defenses: Disguise
 magic_resistance: 30%

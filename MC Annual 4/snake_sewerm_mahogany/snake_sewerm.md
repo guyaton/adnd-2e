@@ -25,8 +25,8 @@ hit_dice: 2 to 4
 health: 2-32
 thac0_original: 19 (2 HD), 17 (3-4 HD)
 to_hit: 1 (2 HD), 3 (3-4 HD)
-no_of_attacks: 1
-damage_per_attack: 1d4
+attacks: 1
+damage_attack: 1d4
 special_attacks: Drain blood
 special_defenses: Anaesthetic slime
 magic_resistance: Nil

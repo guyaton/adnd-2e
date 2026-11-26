@@ -24,8 +24,8 @@ hit_dice: 24+24
 health: 48-216
 thac0_original: 3
 to_hit: 17
-no_of_attacks: 3
-damage_per_attack: 4d4+16 (claw)/4d4+16 (claw)/4d6+24 (bite)
+attacks: 3
+damage_attack: 4d4+16 (claw)/4d4+16 (claw)/4d6+24 (bite)
 special_attacks: Throws stones, swallows whole
 special_defenses: Regeneration
 magic_resistance: Nil

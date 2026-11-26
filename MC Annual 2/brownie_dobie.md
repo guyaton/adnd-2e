@@ -24,8 +24,8 @@ hit_dice: 1-4 hp
 health: 1-4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: By weapon (1d2 or 1d3)
+attacks: 1
+damage_attack: By weapon (1d2 or 1d3)
 special_attacks: Spells
 special_defenses: Save as 9th-level priest
 magic_resistance: Nil

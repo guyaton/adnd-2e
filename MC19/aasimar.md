@@ -24,8 +24,8 @@ hit_dice: 3+3
 health: 6-27
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1 or by weapon
-damage_per_attack: 1d3 or by weapon
+attacks: 1 or by weapon
+damage_attack: 1d3 or by weapon
 special_attacks: Spell use
 special_defenses: 1/2 damage from fire and cold; +2 to saves vs. charm, emotion, fear, or domination
 magic_resistance: 10%

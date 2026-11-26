@@ -24,8 +24,8 @@ hit_dice: 18 (80 hit points)
 health: 80
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 3d10 + special
+attacks: 1
+damage_attack: 3d10 + special
 special_attacks: Wounding, maze
 special_defenses: +3 or better magical weapon to hit, immune to most spells
 magic_resistance: Nil

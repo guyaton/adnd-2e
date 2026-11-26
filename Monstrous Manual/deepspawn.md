@@ -24,8 +24,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 6
-damage_per_attack: 3-12 x3 (bites)/2-5 (slap) x3 or by weapon type x3
+attacks: 6
+damage_attack: 3-12 x3 (bites)/2-5 (slap) x3 or by weapon type x3
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 77%

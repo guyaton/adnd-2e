@@ -24,8 +24,8 @@ hit_dice: 20+120
 health: 140-280
 thac0_original: 1
 to_hit: 19
-no_of_attacks: 2 and 1
-damage_per_attack: 6d4+6/6d4+6, 5d8
+attacks: 2 and 1
+damage_attack: 6d4+6/6d4+6, 5d8
 special_attacks: Spells, stamp, hurl boulders
 special_defenses: Immunities, regenerate, hit only by magical weapons (see below)
 magic_resistance: 60%

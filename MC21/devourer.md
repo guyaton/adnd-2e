@@ -24,8 +24,8 @@ hit_dice: 9+3
 health: 12-75
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 2d6
+attacks: 1
+damage_attack: 2d6
 special_attacks: Level drain, spirit theft, spells
 special_defenses: Hit point recovery, protection from spells
 magic_resistance: 45%

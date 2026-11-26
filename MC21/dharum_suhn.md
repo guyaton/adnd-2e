@@ -24,8 +24,8 @@ hit_dice: '24'
 health: 24-192
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2
-damage_per_attack: 3d8/3d8
+attacks: 2
+damage_attack: 3d8/3d8
 special_attacks: Spells
 special_defenses: Struck only by +1 or better weapons, immune to blunt weapons and impact attacks
 magic_resistance: 60%

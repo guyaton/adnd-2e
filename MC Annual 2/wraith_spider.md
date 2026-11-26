@@ -24,8 +24,8 @@ hit_dice: 3+2
 health: 5-26
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d4
+attacks: 1
+damage_attack: 1d4
 special_attacks: Energy drain, poison
 special_defenses: Silver or +1 or better weapons
 magic_resistance: 15%

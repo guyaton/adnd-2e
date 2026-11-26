@@ -24,8 +24,8 @@ hit_dice: 8
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 2d6 each
+attacks: 3
+damage_attack: 2d6 each
 special_attacks: Surprise, poison eye-blast
 special_defenses: Alertness, immune to heat and fire
 magic_resistance: Nil

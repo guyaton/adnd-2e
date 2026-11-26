@@ -25,8 +25,8 @@ hit_dice: 9-12
 health: 9-96
 thac0_original: '9-10 HD: 11; 11-12 HD: 9'
 to_hit: '9-10 HD: 9; 11-12 HD: 11'
-no_of_attacks: 3
-damage_per_attack: 2-12/2-12/1-3
+attacks: 3
+damage_attack: 2-12/2-12/1-3
 special_attacks: Grab, disease
 special_defenses: Never surprised
 magic_resistance: Nil

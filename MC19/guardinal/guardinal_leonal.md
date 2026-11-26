@@ -25,8 +25,8 @@ hit_dice: 12+6
 health: 18-102
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 2d4+9/2d4+9/1d8
+attacks: 3
+damage_attack: 2d4+9/2d4+9/1d8
 special_attacks: Roar
 special_defenses: See below
 magic_resistance: 50%

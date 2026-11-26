@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 6
-damage_per_attack: 1d6+4/1d6+4, Special
+attacks: 6
+damage_attack: 1d6+4/1d6+4, Special
 special_attacks: Mind blast
 special_defenses: Camouflage
 magic_resistance: 50%

@@ -25,8 +25,8 @@ hit_dice: 1/2
 health: 1-4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1-4
+attacks: 1
+damage_attack: 1-4
 special_attacks: Nil
 special_defenses: Quills
 magic_resistance: Nil

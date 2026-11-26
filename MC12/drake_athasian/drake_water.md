@@ -25,8 +25,8 @@ hit_dice: 20 (140 hit points)
 health: 140
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 4
-damage_per_attack: 1-8+10/1-8+10/4-24/3-30
+attacks: 4
+damage_attack: 1-8+10/1-8+10/4-24/3-30
 special_attacks: Bite/swallow, elemental, psionic, tail lash
 special_defenses: Psionic
 magic_resistance: Nil

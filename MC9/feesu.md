@@ -24,8 +24,8 @@ hit_dice: 2+2
 health: 4-18
 thac0_original: 18
 to_hit: 2
-no_of_attacks: 1
-damage_per_attack: 1 hp
+attacks: 1
+damage_attack: 1 hp
 special_attacks: Air deprivation
 special_defenses: Nil
 magic_resistance: Nil

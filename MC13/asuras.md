@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1-10/1-10/1-8
+attacks: 3
+damage_attack: 1-10/1-10/1-8
 special_attacks: Fiery eyes
 special_defenses: Spell immunities
 magic_resistance: 40%

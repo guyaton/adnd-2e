@@ -25,8 +25,8 @@ hit_dice: 8+16
 health: 24-80
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 5
-damage_per_attack: See below
+attacks: 5
+damage_attack: See below
 special_attacks: Grab, feeblemind
 special_defenses: Weapon parry, +1 or better weapons to hit
 magic_resistance: 40%

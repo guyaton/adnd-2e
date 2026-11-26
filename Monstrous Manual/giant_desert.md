@@ -24,8 +24,8 @@ hit_dice: '13'
 health: 13-104
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1
-damage_per_attack: 1-10 or by weapon (2-12 +7)
+attacks: 1
+damage_attack: 1-10 or by weapon (2-12 +7)
 special_attacks: Hurling spears
 special_defenses: Camouflage
 magic_resistance: Nil

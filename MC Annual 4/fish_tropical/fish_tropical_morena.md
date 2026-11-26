@@ -24,8 +24,8 @@ hit_dice: 3+2
 health: 5-26
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d4+2
+attacks: 1
+damage_attack: 1d4+2
 special_attacks: Surprise on 1-5
 special_defenses: Evades missiles
 magic_resistance: Nil

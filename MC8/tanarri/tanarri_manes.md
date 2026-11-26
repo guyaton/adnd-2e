@@ -25,8 +25,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 3
-damage_per_attack: 1-2/1-2/1-4 or by weapon
+attacks: 3
+damage_attack: 1-2/1-2/1-4 or by weapon
 special_attacks: Acidic vapor
 special_defenses: Immune to mind affecting spells
 magic_resistance: 10%

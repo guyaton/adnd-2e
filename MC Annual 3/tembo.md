@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 5
-damage_per_attack: 1d4/1d4/1d6/1d6/1d8
+attacks: 5
+damage_attack: 1d4/1d4/1d6/1d6/1d8
 special_attacks: Psionics, level drain
 special_defenses: Psionics, dodge missiles
 magic_resistance: 10%

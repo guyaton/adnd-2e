@@ -25,8 +25,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1-3
-damage_per_attack: 1d8
+attacks: 1-3
+damage_attack: 1d8
 special_attacks: Nil
 special_defenses: Turn as mummies
 magic_resistance: Special

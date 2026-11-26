@@ -25,8 +25,8 @@ hit_dice: 2-4
 health: 2-32
 thac0_original: Not printed (dash)
 to_hit: Not printed
-no_of_attacks: 0
-damage_per_attack: 1-4/thorn
+attacks: 0
+damage_attack: 1-4/thorn
 special_attacks: Nil
 special_defenses: Nil
 magic_resistance: Nil

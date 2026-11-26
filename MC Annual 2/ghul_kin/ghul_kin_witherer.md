@@ -25,7 +25,7 @@ hit_dice: 9
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3 or 1
+attacks: 3 or 1
 special_attacks: Withering touch
 special_defenses: +2 or better weapon to hit
 magic_resistance: Nil

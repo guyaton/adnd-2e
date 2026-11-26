@@ -24,8 +24,8 @@ hit_dice: 1+3
 health: 4-11
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1 (bite) or 1d4+5 (sting)
+attacks: 1
+damage_attack: 1 (bite) or 1d4+5 (sting)
 special_attacks: Paralyzing venom
 special_defenses: Partial etherealness
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 1-4 hp
 health: 1-4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: Special only
-damage_per_attack: Nil
+attacks: Special only
+damage_attack: Nil
 special_attacks: Hypnotism
 special_defenses: Nil
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 7+14
 health: 21-70
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3 or 5
-damage_per_attack: 1-8/1-8/1-4/1-4/1-10
+attacks: 3 or 5
+damage_attack: 1-8/1-8/1-4/1-4/1-10
 special_attacks: Sleep attack
 special_defenses: +1 or better weapons to hit
 magic_resistance: 40%

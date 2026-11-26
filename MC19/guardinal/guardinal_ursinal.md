@@ -25,8 +25,8 @@ hit_dice: 10+5
 health: 15-85
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 2d6+7/2d6+7/1d10
+attacks: 3
+damage_attack: 2d6+7/2d6+7/1d10
 special_attacks: Spell-like powers
 special_defenses: Struck only by silver weapons or those of +3 or better enchantment
 magic_resistance: 45%

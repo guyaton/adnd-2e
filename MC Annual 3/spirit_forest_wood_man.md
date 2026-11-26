@@ -24,8 +24,8 @@ hit_dice: '20'
 health: 20-160
 thac0_original: 3
 to_hit: 17
-no_of_attacks: 2
-damage_per_attack: 3d10/3d10
+attacks: 2
+damage_attack: 3d10/3d10
 special_attacks: Crush, throw
 special_defenses: Regeneration, immune to fire and electricity
 magic_resistance: 50%

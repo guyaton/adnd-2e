@@ -25,8 +25,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d4 (bite) or 1d4 (tail)
+attacks: 1
+damage_attack: 1d4 (bite) or 1d4 (tail)
 special_attacks: Dexterity drain, slow
 special_defenses: +1 or better weapon to hit, regeneration, invisibility, immune to cold and fire; also see below
 magic_resistance: Nil

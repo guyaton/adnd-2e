@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: Nil
+attacks: 1
+damage_attack: Nil
 special_attacks: Drains magic
 special_defenses: Can be hit only by magical weapons
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 6
-damage_per_attack: 1d4 (or by weapon) x4/3d4/2d4
+attacks: 6
+damage_attack: 1d4 (or by weapon) x4/3d4/2d4
 special_attacks: Tail sting, spell use
 special_defenses: Absorb/reflect magic
 magic_resistance: 44%

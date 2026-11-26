@@ -25,8 +25,8 @@ hit_dice: 1-4 hp
 health: 1-4
 thac0_original: See below
 to_hit: See below
-no_of_attacks: 1
-damage_per_attack: 1 hp or by animated weapon
+attacks: 1
+damage_attack: 1 hp or by animated weapon
 special_attacks: Nil
 special_defenses: See below
 magic_resistance: Nil

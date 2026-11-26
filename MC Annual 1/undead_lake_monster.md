@@ -24,8 +24,8 @@ hit_dice: 13
 health: 13-104
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1
-damage_per_attack: 3d8
+attacks: 1
+damage_attack: 3d8
 special_attacks: Breath weapon, entrapment, surprise strike
 special_defenses: +1 weapon to hit, fear
 magic_resistance: 20%

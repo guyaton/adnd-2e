@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1-3
+attacks: 1
+damage_attack: 1-3
 special_attacks: Adhesion
 special_defenses: Adhesion
 magic_resistance: Special

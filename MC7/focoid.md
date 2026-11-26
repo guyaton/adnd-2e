@@ -24,8 +24,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1-12/1-12/1-12
+attacks: 3
+damage_attack: 1-12/1-12/1-12
 special_attacks: None
 special_defenses: Partial invisibility
 magic_resistance: Nil

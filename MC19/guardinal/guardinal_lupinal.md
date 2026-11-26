@@ -25,8 +25,8 @@ hit_dice: 8+4
 health: 12-68
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1d4+4/1d4+4/2d6
+attacks: 3
+damage_attack: 1d4+4/1d4+4/2d6
 special_attacks: Howl, pull-down
 special_defenses: Struck only by silver or +2 or better weapons
 magic_resistance: 35%

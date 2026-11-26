@@ -24,8 +24,8 @@ hit_dice: 'Common: 1-1; Elite: 1+1; Huge: 3+1'
 health: 'Common: 1-7; Elite: 2-9; Huge: 4-25'
 thac0_original: 'Common: 20; Elite: 19; Huge: 17'
 to_hit: 'Common: 0; Elite: 1; Huge: 3'
-no_of_attacks: 1
-damage_per_attack: By weapon (+1 huge)
+attacks: 1
+damage_attack: By weapon (+1 huge)
 special_attacks: Nil
 special_defenses: Nil
 magic_resistance: Nil

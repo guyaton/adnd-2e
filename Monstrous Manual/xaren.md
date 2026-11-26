@@ -24,8 +24,8 @@ hit_dice: 5+5
 health: 10-45
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 4
-damage_per_attack: 1-3 (x3)/4-16
+attacks: 4
+damage_attack: 1-3 (x3)/4-16
 special_attacks: Surprise
 special_defenses: Spell immunities
 magic_resistance: Nil

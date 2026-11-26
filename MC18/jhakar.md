@@ -24,8 +24,8 @@ hit_dice: 2+3
 health: 5-19
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 2d4
+attacks: 1
+damage_attack: 2d4
 special_attacks: Seizing bite
 special_defenses: Nil
 magic_resistance: Nil

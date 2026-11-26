@@ -24,8 +24,8 @@ hit_dice: 1+5
 health: 6-13
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1
+attacks: 1
+damage_attack: 1
 special_attacks: Spinal tap, psionic drain
 special_defenses: Nil
 magic_resistance: Nil

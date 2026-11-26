@@ -24,8 +24,8 @@ hit_dice: As per former dragon type
 health: As per former dragon type
 thac0_original: As per former dragon type
 to_hit: As per former dragon type
-no_of_attacks: As per former dragon type
-damage_per_attack: See below
+attacks: As per former dragon type
+damage_attack: See below
 special_attacks: Breath weapon and spell use
 special_defenses: Spell immunities and spell use
 magic_resistance: See below

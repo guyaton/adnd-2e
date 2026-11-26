@@ -24,8 +24,8 @@ hit_dice: '5; Leader: 7; Nest mother: 13'
 health: '5-40; Leader: 7-56; Nest mother: 13-104'
 thac0_original: '15; Leader: 13; Nest mother: 7'
 to_hit: '5; Leader: 7; Nest mother: 13'
-no_of_attacks: 2 or 1
-damage_per_attack: 1-4/1-4 +grip or by weapon
+attacks: 2 or 1
+damage_attack: 1-4/1-4 +grip or by weapon
 special_attacks: Possible spell use
 special_defenses: Nil
 magic_resistance: Nil

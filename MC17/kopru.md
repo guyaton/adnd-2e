@@ -24,8 +24,8 @@ hit_dice: 8+4
 health: 12-68
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 4
-damage_per_attack: 1d4 (claw)/1d4 (claw)/1d4 (bite)/3d4 (tail lash)
+attacks: 4
+damage_attack: 1d4 (claw)/1d4 (claw)/1d4 (bite)/3d4 (tail lash)
 special_attacks: Tail crush (3d6), charm
 special_defenses: +2 saving throw vs. magic
 magic_resistance: Nil

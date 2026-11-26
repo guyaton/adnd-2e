@@ -22,8 +22,8 @@ ac: 13 (or by armor)
 movement: 12
 hit_dice: As level
 thac0_original: As level
-no_of_attacks: 1 or as level
-damage_per_attack: 1d4 or by weapon
+attacks: 1 or as level
+damage_attack: 1d4 or by weapon
 special_attacks: Rot grubs (15%)
 special_defenses: Spell immunities; immune to fire, cold, energy drain
 magic_resistance: 85%

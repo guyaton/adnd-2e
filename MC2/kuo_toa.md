@@ -24,8 +24,8 @@ hit_dice: 2 or more
 health: ''
 thac0_original: 16
 to_hit: 4
-no_of_attacks: 1 or 2
-damage_per_attack: 2-5 and/or by weapon type
+attacks: 1 or 2
+damage_attack: 2-5 and/or by weapon type
 special_attacks: See below
 special_defenses: See below
 magic_resistance: See below

@@ -24,8 +24,8 @@ hit_dice: 50 hp
 health: 50
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1-6
+attacks: 1
+damage_attack: 1-6
 special_attacks: Light beams
 special_defenses: See below
 magic_resistance: Nil

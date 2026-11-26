@@ -24,8 +24,8 @@ hit_dice: 2
 health: 2-16
 thac0_original: 16
 to_hit: 4
-no_of_attacks: 1
-damage_per_attack: 1-3
+attacks: 1
+damage_attack: 1-3
 special_attacks: Electric shock
 special_defenses: Immune to electrical attacks
 magic_resistance: Nil

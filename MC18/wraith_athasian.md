@@ -24,8 +24,8 @@ hit_dice: 7+3
 health: 10-59
 thac0_original: 14
 to_hit: 6
-no_of_attacks: 1 or 3/2 with weapon
-damage_per_attack: 1d4 or by weapon type
+attacks: 1 or 3/2 with weapon
+damage_attack: 1d4 or by weapon type
 special_attacks: Animate object, inhabit body, chill touch
 special_defenses: +2 weapon or better to hit
 magic_resistance: Nil

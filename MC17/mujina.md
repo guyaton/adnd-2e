@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: By weapon +6/by weapon +6
+attacks: 2
+damage_attack: By weapon +6/by weapon +6
 special_attacks: Fear
 special_defenses: Disguise
 magic_resistance: Nil

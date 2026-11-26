@@ -24,8 +24,8 @@ hit_dice: 1-1
 health: 1-7
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1d4 (bite) or by weapon
+attacks: 1
+damage_attack: 1d4 (bite) or by weapon
 special_attacks: Surprise
 special_defenses: +2 bonus on all saving throws
 magic_resistance: Nil

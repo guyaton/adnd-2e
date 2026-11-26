@@ -24,8 +24,8 @@ hit_dice: 1+1
 health: 2-9
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1d4 or by weapon
+attacks: 1
+damage_attack: 1d4 or by weapon
 special_attacks: Poison
 special_defenses: +1 to saves vs. charm
 magic_resistance: Nil

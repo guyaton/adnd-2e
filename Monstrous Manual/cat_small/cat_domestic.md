@@ -25,8 +25,8 @@ hit_dice: 1/2
 health: 1-4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 3
-damage_per_attack: 1-2/1 (claws/bite)
+attacks: 3
+damage_attack: 1-2/1 (claws/bite)
 special_attacks: Rear claw rake, 1-2
 special_defenses: See below
 magic_resistance: Nil

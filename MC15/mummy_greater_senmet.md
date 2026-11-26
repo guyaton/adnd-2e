@@ -24,8 +24,8 @@ hit_dice: 8+3 (45 hp)
 health: 45
 thac0_original: 11 (10)
 to_hit: 9 (10)
-no_of_attacks: 1
-damage_per_attack: 3-18 (3d6)
+attacks: 1
+damage_attack: 3-18 (3d6)
 special_attacks: Fear aura; disease
 special_defenses: Immune to normal weapons; half damage from magical weapons; immune to cold and non-magical fire
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 14 (60 hp)
 health: '60'
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 2
-damage_per_attack: 2d10/2d12
+attacks: 2
+damage_attack: 2d10/2d12
 special_attacks: Pounding force
 special_defenses: Spell immunities, +1 weapon to hit
 magic_resistance: See below

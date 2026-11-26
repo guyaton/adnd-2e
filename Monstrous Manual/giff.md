@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2 or 1
-damage_per_attack: 1-6 +7 or by weapon +7
+attacks: 2 or 1
+damage_attack: 1-6 +7 or by weapon +7
 special_attacks: Head butt
 special_defenses: Can call on other giff
 magic_resistance: 10%

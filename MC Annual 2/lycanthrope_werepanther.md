@@ -24,8 +24,8 @@ hit_dice: 5+1
 health: 6-41
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 weapons (2 claw/1 bite cat)
-damage_per_attack: By weapon (1d3/1d3/1d6 cat)
+attacks: 2 weapons (2 claw/1 bite cat)
+damage_attack: By weapon (1d3/1d3/1d6 cat)
 special_attacks: Scarring (rake 1d4/1d4 cat)
 special_defenses: Silver or +1 weapons to hit
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1 or 4
-damage_per_attack: '''Eye: Nil; Hand: 1d4 (strike); Skull: 1d6 (bite)'''
+attacks: 1 or 4
+damage_attack: '''Eye: Nil; Hand: 1d4 (strike); Skull: 1d6 (bite)'''
 special_attacks: Poison touch, spells (paralysis)
 special_defenses: Animate dead, immune to some spells
 magic_resistance: Nil

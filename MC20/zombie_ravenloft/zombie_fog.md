@@ -25,8 +25,8 @@ hit_dice: 6-10
 health: 6-80
 thac0_original: Varies
 to_hit: Varies
-no_of_attacks: 1
-damage_per_attack: Special
+attacks: 1
+damage_attack: Special
 special_attacks: Cause despair, control cadavers
 special_defenses: +1 or better to hit, spell immunity
 magic_resistance: Nil

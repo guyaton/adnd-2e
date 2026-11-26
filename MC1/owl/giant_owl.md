@@ -25,8 +25,8 @@ hit_dice: 4
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 2-8/2-8/2-5
+attacks: 3
+damage_attack: 2-8/2-8/2-5
 special_attacks: Surprise
 special_defenses: Nil
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 4+4
 health: 8-36
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 entangle or 1 ram
-damage_per_attack: 2-8 (ram only)
+attacks: 1 entangle or 1 ram
+damage_attack: 2-8 (ram only)
 special_attacks: Bite and barbed tentacles
 special_defenses: Blood spray
 magic_resistance: Nil

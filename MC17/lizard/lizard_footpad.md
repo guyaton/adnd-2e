@@ -25,8 +25,8 @@ hit_dice: 2+1
 health: 3-17
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1d6 (bite)
+attacks: 1
+damage_attack: 1d6 (bite)
 special_attacks: Nil
 special_defenses: Climb walls
 magic_resistance: Nil

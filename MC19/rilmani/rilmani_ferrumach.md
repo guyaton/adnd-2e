@@ -25,8 +25,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3 per 2 rounds
-damage_per_attack: 1d10+9 (weapon) or 1d3+7 (fists)
+attacks: 3 per 2 rounds
+damage_attack: 1d10+9 (weapon) or 1d3+7 (fists)
 special_attacks: Specialization
 special_defenses: Struck only by +1 or better weapons
 magic_resistance: 35%

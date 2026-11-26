@@ -24,8 +24,8 @@ hit_dice: '2'
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 2 or 1
-damage_per_attack: 1d4/1d4 or by weapon +2
+attacks: 2 or 1
+damage_attack: 1d4/1d4 or by weapon +2
 special_attacks: Psionics
 special_defenses: Fight past death
 magic_resistance: Nil

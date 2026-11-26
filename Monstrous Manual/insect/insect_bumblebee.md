@@ -17,8 +17,8 @@ hit_dice: 6+4
 health: 10-52
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1-6 + poison
+attacks: 1
+damage_attack: 1-6 + poison
 morale: Elite (13-14)
 xp_value: 650
 ```

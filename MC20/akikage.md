@@ -24,8 +24,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 4
-damage_per_attack: 1d6 (x4)
+attacks: 4
+damage_attack: 1d6 (x4)
 special_attacks: Death blow
 special_defenses: +2 or better weapon; spell immunity
 magic_resistance: Nil

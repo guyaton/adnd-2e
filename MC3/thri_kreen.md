@@ -24,8 +24,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 5 or 3
-damage_per_attack: 1-4(x4)/2-5 or by weapon
+attacks: 5 or 3
+damage_attack: 1-4(x4)/2-5 or by weapon
 special_attacks: See below
 special_defenses: Dodge missiles on 9 or better
 magic_resistance: Nil

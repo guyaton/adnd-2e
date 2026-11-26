@@ -25,8 +25,8 @@ hit_dice: 3+2
 health: 5-26
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: By weapon
+attacks: 1
+damage_attack: By weapon
 special_attacks: Nil
 special_defenses: Spell immunities
 magic_resistance: 30%

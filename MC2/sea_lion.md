@@ -25,8 +25,8 @@ activity_cycle: Day
 diet: Carnivore
 intelligence: Semi- (2-4)
 movement: Sw 18
-no_of_attacks: 3
-damage_per_attack: 1-6/1-6/2-12
+attacks: 3
+damage_attack: 1-6/1-6/2-12
 special_attacks: Mauling
 special_defenses: Nil
 magic_resistance: Nil

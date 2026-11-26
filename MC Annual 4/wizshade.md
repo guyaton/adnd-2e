@@ -23,8 +23,8 @@ movement: 12, Fl 24 (C)
 hit_dice: '10'
 health: 10-80
 thac0_original: Nil
-no_of_attacks: Special
-damage_per_attack: Nil
+attacks: Special
+damage_attack: Nil
 special_attacks: Random wizard spellcasting
 special_defenses: Immune to normal weapons; successful spells have a special effect
 magic_resistance: 25%; special if successful

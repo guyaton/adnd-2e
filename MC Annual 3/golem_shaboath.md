@@ -24,8 +24,8 @@ hit_dice: 11 (50 hp)
 health: 50
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1
-damage_per_attack: 2d10
+attacks: 1
+damage_attack: 2d10
 special_attacks: Engulfing, wall of ice
 special_defenses: Immune to paralysis, poison, acid, cold, gas, caused wounds; Strength or energy drain; sleep, charm, and hold spells; and water-based creatures, spells, and effects
 magic_resistance: Nil

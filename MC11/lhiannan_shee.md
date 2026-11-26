@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: Special
+attacks: 1
+damage_attack: Special
 special_attacks: Charm touch, draining kiss
 special_defenses: Selective invisibility, various spell immunities, struck only by +1 or better weapons
 magic_resistance: 90%

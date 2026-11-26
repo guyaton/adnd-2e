@@ -24,8 +24,8 @@ hit_dice: 1+1
 health: 2-9
 thac0_original: 19 (18)
 to_hit: 1 (2)
-no_of_attacks: 1
-damage_per_attack: 1-10 (weapon)
+attacks: 1
+damage_attack: 1-10 (weapon)
 special_attacks: +1 to hit with bow or sword
 special_defenses: See below
 magic_resistance: 90% resistance to sleep and all charm-related spells

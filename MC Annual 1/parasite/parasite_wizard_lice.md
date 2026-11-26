@@ -22,8 +22,8 @@ ac: 20
 movement: 1/10
 hit_dice: 1 per nest
 thac0_original: Special
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Spell draining
 special_defenses: Weapon immunity
 magic_resistance: 10%

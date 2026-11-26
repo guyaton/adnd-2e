@@ -24,8 +24,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2 or 1
-damage_per_attack: 1d3 (claw)/1d3 (claw) or by weapon
+attacks: 2 or 1
+damage_attack: 1d3 (claw)/1d3 (claw) or by weapon
 special_attacks: Paralyzation
 special_defenses: Regeneration
 magic_resistance: Nil

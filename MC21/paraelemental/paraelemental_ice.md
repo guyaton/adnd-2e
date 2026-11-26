@@ -25,8 +25,8 @@ hit_dice: 8, 12 or 16
 health: 8-128
 thac0_original: '8 HD: 13; 12 HD: 9; 16 HD: 5'
 to_hit: '8 HD: 7; 12 HD: 11; 16 HD: 15'
-no_of_attacks: 1
-damage_per_attack: 3d8
+attacks: 1
+damage_attack: 3d8
 special_attacks: Cold aura
 special_defenses: See below
 magic_resistance: Nil

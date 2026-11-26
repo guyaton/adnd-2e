@@ -24,8 +24,8 @@ hit_dice: 3 to 6
 health: 3-48
 thac0_original: '3-4 HD: 17; 5-6 HD: 15'
 to_hit: '3-4 HD: 3; 5-6 HD: 5'
-no_of_attacks: 1
-damage_per_attack: 1-4 or 4-16
+attacks: 1
+damage_attack: 1-4 or 4-16
 special_attacks: Nil
 special_defenses: Gas cloud
 magic_resistance: Resistant to charms

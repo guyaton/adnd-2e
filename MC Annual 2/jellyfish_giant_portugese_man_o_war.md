@@ -24,8 +24,8 @@ hit_dice: 1 to 4
 health: 1-32
 thac0_original: '1-2 HD: 19; 3-4 HD: 17'
 to_hit: '1-2 HD: 1; 3-4 HD: 3'
-no_of_attacks: 1
-damage_per_attack: 1d10
+attacks: 1
+damage_attack: 1d10
 special_attacks: Paralyzation
 special_defenses: Transparent
 magic_resistance: Nil

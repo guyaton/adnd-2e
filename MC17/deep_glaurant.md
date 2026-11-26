@@ -24,8 +24,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 2d4 (claw)/2d4 (claw)/1d4 bite or by weapon/1d4 (bite)
+attacks: 3
+damage_attack: 2d4 (claw)/2d4 (claw)/1d4 bite or by weapon/1d4 (bite)
 special_attacks: Two tear claws (2d4 damage each)
 special_defenses: Darkness
 magic_resistance: Nil

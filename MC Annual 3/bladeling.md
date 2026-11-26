@@ -24,8 +24,8 @@ hit_dice: 2 to 11
 health: 2-88
 thac0_original: 19 to 9
 to_hit: 1 to 11
-no_of_attacks: 2 or 1
-damage_per_attack: 1d6/1d6 or by weapon
+attacks: 2 or 1
+damage_attack: 1d6/1d6 or by weapon
 special_attacks: Razor storm
 special_defenses: See below
 magic_resistance: 10%

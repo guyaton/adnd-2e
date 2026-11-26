@@ -25,8 +25,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 5 or 2
-damage_per_attack: 1d3 (x4)/1d6+1 or 1d8+1 and by weapon
+attacks: 5 or 2
+damage_attack: 1d3 (x4)/1d6+1 or 1d8+1 and by weapon
 special_attacks: Paralyzation
 special_defenses: Missile dodge
 magic_resistance: Nil

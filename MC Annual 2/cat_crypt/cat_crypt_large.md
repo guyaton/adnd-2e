@@ -25,8 +25,8 @@ hit_dice: 4+1
 health: 5-36
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1d4/1d4/1d8
+attacks: 3
+damage_attack: 1d4/1d4/1d8
 special_attacks: Disease, rear claw rake (1d4/1d4)
 special_defenses: Nil
 magic_resistance: Nil

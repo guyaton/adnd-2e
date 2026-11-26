@@ -25,8 +25,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1 or special
-damage_per_attack: 2d6
+attacks: 1 or special
+damage_attack: 2d6
 special_attacks: Cold generation
 special_defenses: Continuous damage, luminous cloud, immune to cold
 magic_resistance: Nil

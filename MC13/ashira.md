@@ -24,8 +24,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2
-damage_per_attack: 1-6/1-6
+attacks: 2
+damage_attack: 1-6/1-6
 special_attacks: Charm
 special_defenses: Meld with tree
 magic_resistance: 10%

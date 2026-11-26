@@ -24,8 +24,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d6
+attacks: 1
+damage_attack: 1d6
 special_attacks: Bonespray, blood burn
 special_defenses: Half damage from edged weapons
 magic_resistance: Nil

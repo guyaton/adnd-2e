@@ -24,8 +24,8 @@ hit_dice: 1 hp
 health: 1
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1 at +2
-damage_per_attack: 1 point (weapon)
+attacks: 1 at +2
+damage_attack: 1 point (weapon)
 special_attacks: Poison
 special_defenses: Cantrips, lair trap
 magic_resistance: 5%

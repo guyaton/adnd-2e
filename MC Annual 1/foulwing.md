@@ -24,8 +24,8 @@ hit_dice: 6
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 5
-damage_per_attack: 1d4+1 (x3)/1d4 (x2)
+attacks: 5
+damage_attack: 1d4+1 (x3)/1d4 (x2)
 special_attacks: Ammonia breath, blood drain
 special_defenses: Nil
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1 per creature within 10'
-damage_per_attack: 3d6
+attacks: 1 per creature within 10'
+damage_attack: 3d6
 special_attacks: Attack in series
 special_defenses: Spell immunities
 magic_resistance: See below

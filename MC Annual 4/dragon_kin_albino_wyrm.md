@@ -24,8 +24,8 @@ hit_dice: 7 base
 health: 7-56 (base)
 thac0_original: 13 base
 to_hit: 7 base
-no_of_attacks: 3
-damage_per_attack: 1d4/1d4/6d6
+attacks: 3
+damage_attack: 1d4/1d4/6d6
 special_attacks: Breath weapon, swallow whole, tail
 special_defenses: Immune to cold
 magic_resistance: Varies

@@ -25,8 +25,8 @@ hit_dice: 1 per 10' square
 health: 1-8 per 10' square
 thac0_original: 20
 to_hit: 0
-no_of_attacks: See below
-damage_per_attack: 1 hit point/thorn
+attacks: See below
+damage_attack: 1 hit point/thorn
 special_attacks: Nil
 special_defenses: See below
 magic_resistance: Nil

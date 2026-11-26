@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: 3d4/3d4
+attacks: 2
+damage_attack: 3d4/3d4
 special_attacks: Magical powers, stolen powers
 special_defenses: Magical powers, stolen powers; immune to mental attacks and mind-affecting powers
 magic_resistance: 25%

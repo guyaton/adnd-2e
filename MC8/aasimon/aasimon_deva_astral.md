@@ -25,8 +25,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 2
-damage_per_attack: 3-18/3-18
+attacks: 2
+damage_attack: 3-18/3-18
 special_attacks: Disruption
 special_defenses: Spell immunity, protection, never surprised, +2 or better weapons to hit
 magic_resistance: 70%

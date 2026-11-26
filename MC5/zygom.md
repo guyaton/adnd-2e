@@ -24,8 +24,8 @@ hit_dice: 3 (or host's HD)
 health: 3-24 (or host's hp)
 thac0_original: 17 (or host's THAC0)
 to_hit: 3 (or host's THAC0)
-no_of_attacks: 1 (or host's attacks)
-damage_per_attack: Special (or host's weapon)
+attacks: 1 (or host's attacks)
+damage_attack: Special (or host's weapon)
 special_attacks: Milky glue
 special_defenses: Nil
 magic_resistance: Nil

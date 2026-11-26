@@ -24,8 +24,8 @@ hit_dice: '100'
 health: 100-800
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 3
-damage_per_attack: 10d6/10d6/60d4
+attacks: 3
+damage_attack: 10d6/10d6/60d4
 special_attacks: See below
 special_defenses: Hide limbs, flame sheath
 magic_resistance: Nil

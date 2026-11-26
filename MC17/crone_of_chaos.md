@@ -24,8 +24,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1d6 (claw)/1d6 (claw)
+attacks: 2
+damage_attack: 1d6 (claw)/1d6 (claw)
 special_attacks: Animal control, magical daggers; see below
 special_defenses: Nil
 magic_resistance: Nil

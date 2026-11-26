@@ -25,8 +25,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: One spell
-damage_per_attack: Nil
+attacks: One spell
+damage_attack: Nil
 special_attacks: Color spray, hypnotic pattern
 special_defenses: Spell immunity, invisibility
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3 or 2
-damage_per_attack: 1d4 (claw)/1d4 (claw)/1d6 (bite) or 1d6 (bite)/by weapon
+attacks: 3 or 2
+damage_attack: 1d4 (claw)/1d4 (claw)/1d6 (bite) or 1d6 (bite)/by weapon
 special_attacks: Nil
 special_defenses: Shell
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 8+3
 health: 11-67
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 5-10
+attacks: 1
+damage_attack: 5-10
 special_attacks: Energy drain
 special_defenses: +1 or better magical weapon to hit
 magic_resistance: See below

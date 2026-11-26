@@ -24,8 +24,8 @@ hit_dice: 4 to 9
 health: 4-72
 thac0_original: '4 HD: 17; 5-6 HD: 15; 7-8 HD: 13; 9 HD: 11'
 to_hit: '4 HD: 3; 5-6 HD: 5; 7-8 HD: 7; 9 HD: 9'
-no_of_attacks: 2 (bite/tail)
-damage_per_attack: '4-6 HD: 2d4/4-6 hp + poison; 7-8 HD: 2d6/7-8 hp + poison; 9 HD: 2d8/9 hp + poison'
+attacks: 2 (bite/tail)
+damage_attack: '4-6 HD: 2d4/4-6 hp + poison; 7-8 HD: 2d6/7-8 hp + poison; 9 HD: 2d8/9 hp + poison'
 special_attacks: Poison
 special_defenses: Stun cloud
 magic_resistance: 40%

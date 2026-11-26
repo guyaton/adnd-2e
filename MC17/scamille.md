@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 6
-damage_per_attack: 3d6 each (pseudopods)
+attacks: 6
+damage_attack: 3d6 each (pseudopods)
 special_attacks: See below
 special_defenses: Nil
 magic_resistance: Nil

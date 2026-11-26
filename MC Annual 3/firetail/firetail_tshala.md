@@ -25,8 +25,8 @@ hit_dice: 9+9
 health: 18-81
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 4
-damage_per_attack: 1d12 x4
+attacks: 4
+damage_attack: 1d12 x4
 special_attacks: Heat, magic use
 special_defenses: +1 or better magical weapon to hit
 magic_resistance: 90%

@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 2d4
+attacks: 1
+damage_attack: 2d4
 special_attacks: Paralysis (1d6+2 rounds)
 special_defenses: Never surprised, half damage from edged and piercing weapons, immune to paralysis, charm, sleep and hold
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 10+15
 health: 25-95
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1 or 2
-damage_per_attack: By weapon +7 or 2d12/2d12
+attacks: 1 or 2
+damage_attack: By weapon +7 or 2d12/2d12
 special_attacks: Positive energy, gaze
 special_defenses: Struck only by cold iron or weapon of +3 or better enchantment
 magic_resistance: 40%

@@ -24,8 +24,8 @@ hit_dice: 8-12
 health: 8-96
 thac0_original: '8 HD: 13; 9-10 HD: 11; 11-12 HD: 9'
 to_hit: '8 HD: 7; 9-10 HD: 9; 11-12 HD: 11'
-no_of_attacks: 3
-damage_per_attack: 2-5/2-5/1-4 (claw/claw/tail), or by weapon and 2-5/1-4
+attacks: 3
+damage_attack: 2-5/2-5/1-4 (claw/claw/tail), or by weapon and 2-5/1-4
 special_attacks: Poison, possible spell use
 special_defenses: Nil
 magic_resistance: 20%

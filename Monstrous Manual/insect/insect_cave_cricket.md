@@ -17,8 +17,8 @@ hit_dice: 1+3
 health: 4-11
 thac0_original: 20
 to_hit: 0
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 morale: Unreliable (2-4)
 xp_value: 15
 ```

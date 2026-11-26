@@ -24,8 +24,8 @@ hit_dice: 1+3
 health: 4-11
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 3
-damage_per_attack: 1d2/1d2/1d3
+attacks: 3
+damage_attack: 1d2/1d2/1d3
 special_attacks: Induce anger
 special_defenses: Cannot be surprised
 magic_resistance: Nil

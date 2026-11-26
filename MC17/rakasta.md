@@ -24,8 +24,8 @@ hit_dice: 2+1
 health: 3-17
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 3
-damage_per_attack: 1d2 (claw)/1d2 (claw)/1d4 (bite) or 1d4 (kasa)/1d4 (kasa)/1d4 (bite)
+attacks: 3
+damage_attack: 1d2 (claw)/1d2 (claw)/1d4 (bite) or 1d4 (kasa)/1d4 (kasa)/1d4 (bite)
 special_attacks: Rear claws for 1d3 damage each
 special_defenses: Nil
 magic_resistance: Nil

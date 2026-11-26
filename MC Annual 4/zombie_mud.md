@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1 or 2
-damage_per_attack: 1d6/1d6 (claw/claw)
+attacks: 1 or 2
+damage_attack: 1d6/1d6 (claw/claw)
 special_attacks: Disease, suffocation
 special_defenses: Immune to piercing and slashing weapons, poison, charm, hold, sleep, death magic and mind-controlling spells; water dissolves in 1d4 rounds
 magic_resistance: Nil

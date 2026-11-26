@@ -24,8 +24,8 @@ hit_dice: 10
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2 or 1
-damage_per_attack: 3d6 (x2) or 4d6
+attacks: 2 or 1
+damage_attack: 3d6 (x2) or 4d6
 special_attacks: Confusion
 special_defenses: See below
 magic_resistance: Nil

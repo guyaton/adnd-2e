@@ -25,8 +25,8 @@ hit_dice: '21'
 health: 21-168
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2
-damage_per_attack: 3d10 (fist)/3d10 (fist)
+attacks: 2
+damage_attack: 3d10 (fist)/3d10 (fist)
 special_attacks: Surprise; see below
 special_defenses: See below
 magic_resistance: Nil

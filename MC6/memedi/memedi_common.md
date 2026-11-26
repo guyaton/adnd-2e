@@ -25,8 +25,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 19
 to_hit: 1
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Fear
 special_defenses: +1 or better weapon to hit, etherealness
 magic_resistance: Nil

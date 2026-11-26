@@ -24,8 +24,8 @@ hit_dice: '18'
 health: 18-144
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 9
-damage_per_attack: 2d6 (x2)/1d6 (x6)/3d6
+attacks: 9
+damage_attack: 2d6 (x2)/1d6 (x6)/3d6
 special_attacks: Constriction (2 only, 2d6), psionics
 special_defenses: Ink, psionics (phasing)
 magic_resistance: Nil

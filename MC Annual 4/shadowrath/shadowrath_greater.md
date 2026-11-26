@@ -25,8 +25,8 @@ hit_dice: 5+5
 health: 10-45
 thac0_original: 15
 to_hit: 5
-no_of_attacks: As former self
-damage_per_attack: 2d4
+attacks: As former self
+damage_attack: 2d4
 special_attacks: Energy drain
 special_defenses: Hit only by +1 or better magical weapons
 magic_resistance: 25%

@@ -25,8 +25,8 @@ hit_dice: 1 hp/20 insects
 health: 1 per 20 insects
 thac0_original: See below
 to_hit: See below
-no_of_attacks: 1
-damage_per_attack: See below
+attacks: 1
+damage_attack: See below
 special_attacks: Nil
 special_defenses: Nil
 magic_resistance: Nil

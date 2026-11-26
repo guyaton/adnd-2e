@@ -24,8 +24,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1 weapon or 3 bow
-damage_per_attack: 1d3
+attacks: 1 weapon or 3 bow
+damage_attack: 1d3
 special_attacks: Surprise (-5), +4 with bows
 special_defenses: Surprised only on 1, save as 7 HD (Dex 19 bonus); dodge missiles
 magic_resistance: Nil

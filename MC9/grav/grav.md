@@ -25,8 +25,8 @@ hit_dice: 3+1
 health: 4-25
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d8 (weapon)
+attacks: 1
+damage_attack: 1d8 (weapon)
 special_attacks: Gravity reduction
 special_defenses: None
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 4+4
 health: 8-36
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1d4/1d4/1d6+poison
+attacks: 3
+damage_attack: 1d4/1d4/1d6+poison
 special_attacks: Hook, poison, psionics
 special_defenses: Camouflage
 magic_resistance: None

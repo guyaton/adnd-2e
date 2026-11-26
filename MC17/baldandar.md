@@ -24,8 +24,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d8 (claw)/1d8 (claw)/1d4 (bite)
+attacks: 3
+damage_attack: 1d8 (claw)/1d8 (claw)/1d4 (bite)
 special_attacks: Illusions, poison bite, spells
 special_defenses: Spells
 magic_resistance: Nil

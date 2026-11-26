@@ -25,8 +25,8 @@ hit_dice: 7+3
 health: 10-59
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 4 or 3
-damage_per_attack: 1d4+1/1d4+1/2d8/1d3 or 2d8/1d3 and weapon +6
+attacks: 4 or 3
+damage_attack: 1d4+1/1d4+1/2d8/1d3 or 2d8/1d3 and weapon +6
 special_attacks: Head-butt, rage
 special_defenses: Struck only by +1 or better weapons
 magic_resistance: 25%

@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 1d6 (tusks) or by weapon
+attacks: 1
+damage_attack: 1d6 (tusks) or by weapon
 special_attacks: Charm
 special_defenses: Hit only by silver or +1 or better weapons
 magic_resistance: Nil

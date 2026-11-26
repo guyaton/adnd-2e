@@ -24,8 +24,8 @@ hit_dice: 19+2-7 hit points
 health: 21-159
 thac0_original: 3
 to_hit: 17
-no_of_attacks: 1
-damage_per_attack: 1-10 or by weapon (3-30 +12)
+attacks: 1
+damage_attack: 1-10 or by weapon (3-30 +12)
 special_attacks: See below
 special_defenses: Impervious to electricity
 magic_resistance: Nil

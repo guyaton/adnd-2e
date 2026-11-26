@@ -24,8 +24,8 @@ hit_dice: 5+5
 health: 10-45
 thac0_original: 14
 to_hit: 6
-no_of_attacks: 1
-damage_per_attack: 1d12 (1d4)
+attacks: 1
+damage_attack: 1d12 (1d4)
 special_attacks: Poison
 special_defenses: Silver or magical weapons to hit
 magic_resistance: Nil

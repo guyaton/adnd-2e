@@ -24,8 +24,8 @@ hit_dice: As in life, or 4
 health: As in life, or 4-32
 thac0_original: As in life, or 17
 to_hit: As in life, or 3
-no_of_attacks: As in life, or 2
-damage_per_attack: By weapon type, or 1d6
+attacks: As in life, or 2
+damage_attack: By weapon type, or 1d6
 special_attacks: Energy drain
 special_defenses: See below
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2 hooves and 1 butt
-damage_per_attack: 1d6+2/1d6+2/1d12+3
+attacks: 2 hooves and 1 butt
+damage_attack: 1d6+2/1d6+2/1d12+3
 special_attacks: Charge
 special_defenses: Negate poison or illusion
 magic_resistance: 20%

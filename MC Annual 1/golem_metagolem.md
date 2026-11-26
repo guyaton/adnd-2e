@@ -24,8 +24,8 @@ hit_dice: 9 (40 hp)
 health: '40'
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: Nil
+attacks: 1
+damage_attack: Nil
 special_attacks: Spells
 special_defenses: Spell immunities, invulnerable to electricity
 magic_resistance: See below

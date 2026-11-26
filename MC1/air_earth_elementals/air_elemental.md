@@ -25,8 +25,8 @@ hit_dice: 8, 12, or 16
 health: 8-64 / 12-96 / 16-128
 thac0_original: '8 Hit Dice: 12; 12 Hit Dice: 9; 16 Hit Dice: 7'
 to_hit: '8 Hit Dice: 8; 12 Hit Dice: 11; 16 Hit Dice: 13'
-no_of_attacks: 1
-damage_per_attack: 2-20
+attacks: 1
+damage_attack: 2-20
 special_attacks: See below
 special_defenses: +2 weapon or better to hit
 magic_resistance: Nil

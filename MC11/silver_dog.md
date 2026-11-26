@@ -24,8 +24,8 @@ hit_dice: '20'
 health: 20-160
 thac0_original: NA (see below)
 to_hit: NA
-no_of_attacks: NA (see below)
-damage_per_attack: NA (see below)
+attacks: NA (see below)
+damage_attack: NA (see below)
 special_attacks: None
 special_defenses: See below
 magic_resistance: 90%

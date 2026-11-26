@@ -25,8 +25,8 @@ hit_dice: 8+1
 health: 9-65
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: Nil
+attacks: 1
+damage_attack: Nil
 special_attacks: Pheromones
 special_defenses: Pheromones
 magic_resistance: Nil

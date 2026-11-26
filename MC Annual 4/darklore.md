@@ -24,8 +24,8 @@ hit_dice: 6+2
 health: 8-50
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1d6
-damage_per_attack: 1d6 per attack
+attacks: 1d6
+damage_attack: 1d6 per attack
 special_attacks: Absorb or bestow knowledge
 special_defenses: +1 or better weapons to hit, half damage from edged weapons
 magic_resistance: 20%

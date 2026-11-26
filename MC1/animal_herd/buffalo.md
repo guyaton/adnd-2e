@@ -25,8 +25,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 16
 to_hit: 4
-no_of_attacks: 2
-damage_per_attack: 1-8/1-8
+attacks: 2
+damage_attack: 1-8/1-8
 special_attacks: Charge
 special_defenses: Head is AC 3
 magic_resistance: Nil

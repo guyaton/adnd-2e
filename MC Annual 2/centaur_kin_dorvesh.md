@@ -24,8 +24,8 @@ hit_dice: 4
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2 hoof or 1 weapon
-damage_per_attack: 1d6/1d6 or by weapon
+attacks: 2 hoof or 1 weapon
+damage_attack: 1d6/1d6 or by weapon
 special_attacks: Nil
 special_defenses: +4 save vs. spell and poison
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: '13'
 health: 13-104
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1
-damage_per_attack: 1d4 (touch)
+attacks: 1
+damage_attack: 1d4 (touch)
 special_attacks: Fear, pursuit
 special_defenses: +2 or better weapon to hit; immunities (see below)
 magic_resistance: Nil

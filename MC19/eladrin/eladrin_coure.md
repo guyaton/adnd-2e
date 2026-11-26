@@ -25,8 +25,8 @@ hit_dice: 2+1
 health: 3-17
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1 or 1
-damage_per_attack: By weapon or 1d4+1
+attacks: 1 or 1
+damage_attack: By weapon or 1d4+1
 special_attacks: Magic missile
 special_defenses: Magic use
 magic_resistance: 10%

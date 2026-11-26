@@ -25,8 +25,8 @@ hit_dice: 3 or more (see below)
 health: 3-80
 thac0_original: 15 or less
 to_hit: 5 or more
-no_of_attacks: 1
-damage_per_attack: 1d6
+attacks: 1
+damage_attack: 1d6
 special_attacks: Blood drain
 special_defenses: Nil
 magic_resistance: Nil

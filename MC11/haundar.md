@@ -24,8 +24,8 @@ hit_dice: '20'
 health: 20-160
 thac0_original: 1
 to_hit: 19
-no_of_attacks: 1 bite
-damage_per_attack: 2-16 (2d8)
+attacks: 1 bite
+damage_attack: 2-16 (2d8)
 special_attacks: Spit acid
 special_defenses: Nil
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 2 each tentacle, 4 body
 health: tentacles 2-16 each; body 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2
-damage_per_attack: 1-6
+attacks: 2
+damage_attack: 1-6
 special_attacks: See below
 special_defenses: Nil
 magic_resistance: Nil

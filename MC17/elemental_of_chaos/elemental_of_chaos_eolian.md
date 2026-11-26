@@ -25,8 +25,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2 or 1
-damage_per_attack: 2d4 (buffet)/2d4 (buffet)
+attacks: 2 or 1
+damage_attack: 2d4 (buffet)/2d4 (buffet)
 special_attacks: Suffocation, spells
 special_defenses: See below
 magic_resistance: Nil

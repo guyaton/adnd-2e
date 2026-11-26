@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 2d6 (bite)
+attacks: 1
+damage_attack: 2d6 (bite)
 special_attacks: Bite victims become astral
 special_defenses: Keen senses, hit only by silver or magical weapons
 magic_resistance: Nil

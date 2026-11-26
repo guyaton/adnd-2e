@@ -23,8 +23,8 @@ movement: Fl 18 (A)
 hit_dice: '3'
 health: 3-24
 thac0_original: Nil
-no_of_attacks: 1
-damage_per_attack: Special
+attacks: 1
+damage_attack: Special
 special_attacks: Coma
 special_defenses: +1 or better magical weapons to hit
 magic_resistance: Nil

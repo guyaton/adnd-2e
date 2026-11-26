@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: 2d6/2d6 or by weapon type +5 (Strength bonus)
+attacks: 2
+damage_attack: 2d6/2d6 or by weapon type +5 (Strength bonus)
 special_attacks: Missile weapons
 special_defenses: Stealth
 magic_resistance: Nil

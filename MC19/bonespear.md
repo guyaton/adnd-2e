@@ -24,8 +24,8 @@ hit_dice: 5+2
 health: 7-42
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 spears or 1 bite
-damage_per_attack: 1d4+2 or 2d6
+attacks: 2 spears or 1 bite
+damage_attack: 1d4+2 or 2d6
 special_attacks: Harpoon
 special_defenses: None
 magic_resistance: None

@@ -25,8 +25,8 @@ hit_dice: 8+14
 health: 22-78
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1 or 3
-damage_per_attack: By weapon or 2-5/2-5/2-8 +7 (strength bonus)
+attacks: 1 or 3
+damage_attack: By weapon or 2-5/2-5/2-8 +7 (strength bonus)
 special_attacks: Corrosion, gaze, backstab
 special_defenses: +1 or better weapons to hit, thief abilities
 magic_resistance: 50%

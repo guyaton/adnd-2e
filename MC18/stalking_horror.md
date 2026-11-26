@@ -24,8 +24,8 @@ hit_dice: '18'
 health: 18-144
 thac0_original: 3
 to_hit: 17
-no_of_attacks: 7
-damage_per_attack: 2-16 (x7)
+attacks: 7
+damage_attack: 2-16 (x7)
 special_attacks: Psionics, spells, constriction, bite
 special_defenses: +1 or better to hit, spell immunity, invisibility
 magic_resistance: 25%

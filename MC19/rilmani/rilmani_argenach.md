@@ -25,8 +25,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2 or 1
-damage_per_attack: 1d20/1d20 (rays) or 1d8+10 (weapon +3, +7 damage) or 1d10 (bare fists)
+attacks: 2 or 1
+damage_attack: 1d20/1d20 (rays) or 1d8+10 (weapon +3, +7 damage) or 1d10 (bare fists)
 special_attacks: Beams, spells
 special_defenses: +3 weapon to hit
 magic_resistance: 55%

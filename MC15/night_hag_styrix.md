@@ -24,8 +24,8 @@ hit_dice: 8 (40 hp)
 health: 40
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 2-12 (2d6)
+attacks: 1
+damage_attack: 2-12 (2d6)
 special_attacks: Disease; magical sleep
 special_defenses: Spell immunities; cold iron, silver, or +3 weapon to hit
 magic_resistance: 65%

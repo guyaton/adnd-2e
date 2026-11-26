@@ -23,8 +23,8 @@ hit_dice: 8+3
 health: 11-67
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 10
-damage_per_attack: 1-4 each tentacle
+attacks: 10
+damage_attack: 1-4 each tentacle
 special_attacks: Blinding, draining
 special_defenses: Immune to psionic attack, telepathy, ESP and enchantment/charm; half damage from blunt weapons and cold; regenerates; cannot be surprised in its environment
 magic_resistance: 90%

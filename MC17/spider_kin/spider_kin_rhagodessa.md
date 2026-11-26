@@ -25,8 +25,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 2d4 (bite)
+attacks: 1
+damage_attack: 2d4 (bite)
 special_attacks: Grapple
 special_defenses: Nil
 magic_resistance: Nil

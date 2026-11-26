@@ -24,8 +24,8 @@ hit_dice: Variable
 health: Variable
 thac0_original: Variable
 to_hit: Variable
-no_of_attacks: 2
-damage_per_attack: 1-10/1-20 (tail/bite)
+attacks: 2
+damage_attack: 1-10/1-20 (tail/bite)
 special_attacks: Nil
 special_defenses: Special
 magic_resistance: 5%

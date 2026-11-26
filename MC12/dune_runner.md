@@ -24,8 +24,8 @@ hit_dice: As in life
 health: As in life
 thac0_original: As in life
 to_hit: As in life
-no_of_attacks: As in life
-damage_per_attack: As in life
+attacks: As in life
+damage_attack: As in life
 special_attacks: Psionic
 special_defenses: Nil
 magic_resistance: Nil

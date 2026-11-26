@@ -24,8 +24,8 @@ hit_dice: '2'
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 6
-damage_per_attack: 1-2 (x4)/1-4/1 or by weapon type
+attacks: 6
+damage_attack: 1-2 (x4)/1-4/1 or by weapon type
 special_attacks: Illusion
 special_defenses: Camouflage
 magic_resistance: Nil

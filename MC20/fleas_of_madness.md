@@ -24,8 +24,8 @@ hit_dice: N/A
 health: N/A
 thac0_original: See below
 to_hit: See below
-no_of_attacks: See below
-damage_per_attack: Special
+attacks: See below
+damage_attack: Special
 special_attacks: Madness
 special_defenses: Nil
 magic_resistance: Nil

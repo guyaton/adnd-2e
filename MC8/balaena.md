@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1/2
-damage_per_attack: 1-10
+attacks: 1/2
+damage_attack: 1-10
 special_attacks: Tail slap, shriek
 special_defenses: See below
 magic_resistance: Nil

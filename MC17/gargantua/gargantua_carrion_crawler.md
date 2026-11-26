@@ -24,8 +24,8 @@ hit_dice: 12+4
 health: 16-100
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 8 or 1
-damage_per_attack: 4d2 each (tentacles) or 4d2 (bite)
+attacks: 8 or 1
+damage_attack: 4d2 each (tentacles) or 4d2 (bite)
 special_attacks: Paralysis, swallows whole
 special_defenses: Nil
 magic_resistance: Nil

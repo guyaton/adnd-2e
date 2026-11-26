@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 + special
-damage_per_attack: 2d6/3d6 + special
+attacks: 2 + special
+damage_attack: 2d6/3d6 + special
 special_attacks: Launch stones
 special_defenses: Camouflage
 magic_resistance: Nil

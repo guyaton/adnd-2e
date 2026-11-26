@@ -24,8 +24,8 @@ hit_dice: 15 to 25
 health: 15-200
 thac0_original: See below
 to_hit: See below
-no_of_attacks: See below
-damage_per_attack: See below
+attacks: See below
+damage_attack: See below
 special_attacks: Swallowing
 special_defenses: Convulsion
 magic_resistance: Nil

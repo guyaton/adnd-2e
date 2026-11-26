@@ -25,8 +25,8 @@ hit_dice: 12-19
 health: 12-152
 thac0_original: '12 HD: 9; 13-14 HD: 7; 15-19 HD: 5'
 to_hit: '12 HD: 11; 13-14 HD: 13; 15-19 HD: 15'
-no_of_attacks: 7-12
-damage_per_attack: 1-4
+attacks: 7-12
+damage_attack: 1-4
 special_attacks: Drowsiness aura
 special_defenses: Regeneration
 magic_resistance: Nil

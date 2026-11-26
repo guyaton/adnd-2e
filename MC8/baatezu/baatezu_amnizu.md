@@ -25,8 +25,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11 (See below)
 to_hit: 9 (See below)
-no_of_attacks: 1
-damage_per_attack: 2-8
+attacks: 1
+damage_attack: 2-8
 special_attacks: Energy channel, forget
 special_defenses: +2 or better weapons to hit
 magic_resistance: 50%

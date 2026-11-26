@@ -25,8 +25,8 @@ hit_dice: 3 to 8
 health: 3-64
 thac0_original: 17 (3-4 HD), 15 (5-6 HD), 13 (7-8 HD)
 to_hit: 3 (3-4 HD), 5 (5-6 HD), 7 (7-8 HD)
-no_of_attacks: 1
-damage_per_attack: 1d4 per HD
+attacks: 1
+damage_attack: 1d4 per HD
 special_attacks: Nil
 special_defenses: Razor edges, retreat
 magic_resistance: Nil

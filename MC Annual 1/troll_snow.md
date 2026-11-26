@@ -24,8 +24,8 @@ hit_dice: 7
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 1d8+2 (x2)
+attacks: 2
+damage_attack: 1d8+2 (x2)
 special_attacks: See below
 special_defenses: Regeneration, resist cold
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1d4+1 + special
+attacks: 1
+damage_attack: 1d4+1 + special
 special_attacks: Hypnotic display, dominate, energy drain
 special_defenses: Struck only by weapons of +2 or better enchantment
 magic_resistance: 35%

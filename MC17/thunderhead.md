@@ -24,8 +24,8 @@ hit_dice: 8 (16 in thunderstorms)
 health: 8-64 (16-128 in thunderstorms)
 thac0_original: 13 (5 in thunderstorms)
 to_hit: 7 (15 in thunderstorms)
-no_of_attacks: 2
-damage_per_attack: 2d6 (claw)/2d6 (claw)
+attacks: 2
+damage_attack: 2d6 (claw)/2d6 (claw)
 special_attacks: Lightning bolt
 special_defenses: Nil
 magic_resistance: Nil

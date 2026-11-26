@@ -25,8 +25,8 @@ hit_dice: 1 hp per 20 ants
 health: 1
 thac0_original: See below
 to_hit: See below
-no_of_attacks: 1
-damage_per_attack: See below
+attacks: 1
+damage_attack: See below
 special_attacks: Poison
 special_defenses: Nil
 magic_resistance: Nil

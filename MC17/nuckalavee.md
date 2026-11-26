@@ -24,8 +24,8 @@ hit_dice: '11'
 health: 11-88
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 2
-damage_per_attack: 3d8 (claw)/3d8 (claw)
+attacks: 2
+damage_attack: 3d8 (claw)/3d8 (claw)
 special_attacks: Death aura, fear, breath weapon
 special_defenses: Regeneration, immunities, possible spellcasting
 magic_resistance: 20%

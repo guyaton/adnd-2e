@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 2d4+4
+attacks: 1
+damage_attack: 2d4+4
 special_attacks: Disintegration
 special_defenses: Struck only by +1 or better weapons, immune to elemental attacks
 magic_resistance: 45%

@@ -24,8 +24,8 @@ hit_dice: 3-7
 health: 3-56
 thac0_original: '''3-4 HD: 17; 5-6 HD: 15; 7 HD: 13'''
 to_hit: '''3-4 HD: 3; 5-6 HD: 5; 7 HD: 7'''
-no_of_attacks: 0
-damage_per_attack: Nil
+attacks: 0
+damage_attack: Nil
 special_attacks: Spells
 special_defenses: See below
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 1d6
+attacks: 1
+damage_attack: 1d6
 special_attacks: Level drain; special
 special_defenses: Hit only by +1 or better magical weapon
 magic_resistance: 20%

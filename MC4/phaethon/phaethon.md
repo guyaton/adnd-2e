@@ -25,8 +25,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 3d6 or by weapon
+attacks: 1
+damage_attack: 3d6 or by weapon
 special_attacks: Flame hug
 special_defenses: +3 to saving throws
 magic_resistance: Nil

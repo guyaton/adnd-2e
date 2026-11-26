@@ -25,8 +25,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 3
-damage_per_attack: 1d2/1d2; rake 1d2/1d2
+attacks: 3
+damage_attack: 1d2/1d2; rake 1d2/1d2
 special_attacks: Cling
 special_defenses: Spell immunity
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 8+16
 health: 24-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 1-6/1-6/2-10
+attacks: 3
+damage_attack: 1-6/1-6/2-10
 special_attacks: Illusion
 special_defenses: +2 or better magical weapon to hit
 magic_resistance: Special

@@ -24,8 +24,8 @@ hit_dice: 4+1
 health: 5-33
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d8+1 Strength or 1d3 bite
+attacks: 1
+damage_attack: 1d8+1 Strength or 1d3 bite
 special_attacks: Formation attack
 special_defenses: Nil
 magic_resistance: Nil

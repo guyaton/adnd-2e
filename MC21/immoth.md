@@ -24,8 +24,8 @@ hit_dice: 10+3
 health: 13-83
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 1d8+1/1d8+1/2d4+2
+attacks: 3
+damage_attack: 1d8+1/1d8+1/2d4+2
 special_attacks: Poison, words of power
 special_defenses: Immune to cold, bladed weapons inflict half damage
 magic_resistance: 25%

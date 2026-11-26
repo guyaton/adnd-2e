@@ -24,8 +24,8 @@ hit_dice: 14 (60 hit points)
 health: '60'
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 2
-damage_per_attack: 2d8/2d8
+attacks: 2
+damage_attack: 2d8/2d8
 special_attacks: Keening, cinder shower
 special_defenses: +2 or better weapons to hit; immune to fire, lightning, and illusions; regeneration
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: '2'
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1d3 (fist) or by weapon
+attacks: 1
+damage_attack: 1d3 (fist) or by weapon
 special_attacks: Jolt (1d6)
 special_defenses: Immune to some spells
 magic_resistance: Nil

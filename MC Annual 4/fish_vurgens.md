@@ -24,8 +24,8 @@ hit_dice: 7+7 to 9+9
 health: 14-81
 thac0_original: '7+7: 13; 8+8, 9+9: 11'
 to_hit: '7+7: 7; 8+8, 9+9: 9'
-no_of_attacks: 1 bite or tail slap
-damage_per_attack: 2d6 or 3d4
+attacks: 1 bite or tail slap
+damage_attack: 2d6 or 3d4
 special_attacks: Swallow whole, paralyze, acid
 special_defenses: Nil
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 5 hp per vine
 health: 5 per vine
 thac0_original: 20
 to_hit: 0
-no_of_attacks: Special
-damage_per_attack: 1d3, 1d4, or 1d6 + special
+attacks: Special
+damage_attack: 1d3, 1d4, or 1d6 + special
 special_attacks: None
 special_defenses: None
 magic_resistance: None

@@ -24,8 +24,8 @@ hit_dice: 4
 health: 4-32
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d6/1d6/2d6
+attacks: 3
+damage_attack: 1d6/1d6/2d6
 special_attacks: Magic use, shapeshifting
 special_defenses: Spell immunities, +1 or better weapon to hit
 magic_resistance: Nil

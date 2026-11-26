@@ -24,8 +24,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 2-12
+attacks: 1
+damage_attack: 2-12
 special_attacks: Kiss of death (see below)
 special_defenses: Can only be hit by magical weapons
 magic_resistance: 30%

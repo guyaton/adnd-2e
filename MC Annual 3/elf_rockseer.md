@@ -24,8 +24,8 @@ hit_dice: 1+1 and up
 health: 2-9 and up
 thac0_original: 19 or better
 to_hit: 1 or better
-no_of_attacks: 1
-damage_per_attack: By weapon
+attacks: 1
+damage_attack: By weapon
 special_attacks: +1 with long sword
 special_defenses: Meld into stone, immune to petrification, 90% resistance to sleep, charm, hold, and web, communal powers
 magic_resistance: 50% vs. Earth magic

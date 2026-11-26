@@ -24,8 +24,8 @@ hit_dice: 2+2
 health: 4-18
 thac0_original: 16
 to_hit: 4
-no_of_attacks: 1
-damage_per_attack: 2-8
+attacks: 1
+damage_attack: 2-8
 special_attacks: Nil
 special_defenses: Save as 4th-lv. fighter
 magic_resistance: Nil

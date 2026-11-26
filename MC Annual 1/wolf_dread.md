@@ -24,8 +24,8 @@ hit_dice: 4+4
 health: 8-36
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 1d10
+attacks: 1
+damage_attack: 1d10
 special_attacks: Disease
 special_defenses: Regeneration, immunity and resistance to spells
 magic_resistance: Nil

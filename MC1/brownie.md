@@ -24,8 +24,8 @@ hit_dice: ½
 health: 1-4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1-2 (weapon)
+attacks: 1
+damage_attack: 1-2 (weapon)
 special_attacks: Spells
 special_defenses: Save as 9th level cleric
 magic_resistance: As above

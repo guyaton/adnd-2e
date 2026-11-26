@@ -24,8 +24,8 @@ hit_dice: 3+6
 health: 9-30
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1d4/1d4/1d8
+attacks: 3
+damage_attack: 1d4/1d4/1d8
 special_attacks: Tracking
 special_defenses: +4 save vs. poison, wand, spell
 magic_resistance: Nil

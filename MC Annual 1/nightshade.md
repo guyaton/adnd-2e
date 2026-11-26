@@ -24,8 +24,8 @@ hit_dice: 1+4
 health: 5-12
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1d4+1 or by weapon
+attacks: 1
+damage_attack: 1d4+1 or by weapon
 special_attacks: Spells, poisonous sap
 special_defenses: Spells, immune to wooden weapons
 magic_resistance: Nil

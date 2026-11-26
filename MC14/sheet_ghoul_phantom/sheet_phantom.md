@@ -25,8 +25,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 18
 to_hit: 2
-no_of_attacks: 1
-damage_per_attack: 1-4
+attacks: 1
+damage_attack: 1-4
 special_attacks: Suffocation
 special_defenses: See below
 magic_resistance: Nil

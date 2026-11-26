@@ -24,8 +24,8 @@ hit_dice: 15
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1 plus special
-damage_per_attack: 1d4+1
+attacks: 1 plus special
+damage_attack: 1d4+1
 special_attacks: Spells, drain magic
 special_defenses: See below
 magic_resistance: Special

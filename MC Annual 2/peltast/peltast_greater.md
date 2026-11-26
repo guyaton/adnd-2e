@@ -25,8 +25,8 @@ hit_dice: 2+6
 health: 8-22
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: See below
+attacks: 1
+damage_attack: See below
 special_attacks: See below
 special_defenses: Immune to poison and crushing attacks
 magic_resistance: 33%

@@ -24,8 +24,8 @@ hit_dice: '3'
 health: 21-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: Varies
-damage_per_attack: Varies
+attacks: Varies
+damage_attack: Varies
 special_attacks: See below
 special_defenses: Regeneration, psionics
 magic_resistance: Nil

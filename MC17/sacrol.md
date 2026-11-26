@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 2d8 (tentacle)/2d8 (tentacle)
+attacks: 2
+damage_attack: 2d8 (tentacle)/2d8 (tentacle)
 special_attacks: Level drain
 special_defenses: Hit only by +1 or better weapon
 magic_resistance: Nil

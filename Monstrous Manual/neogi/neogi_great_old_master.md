@@ -24,8 +24,8 @@ movement: 3
 hit_dice: '20'
 health: 20-160
 thac0_original: Nil
-no_of_attacks: 0
-damage_per_attack: 0
+attacks: 0
+damage_attack: 0
 special_attacks: Digestion, young
 special_defenses: Young
 magic_resistance: 10%

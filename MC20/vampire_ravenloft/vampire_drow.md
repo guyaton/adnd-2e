@@ -25,8 +25,8 @@ hit_dice: 8+3
 health: 11-67
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1 or 2
-damage_per_attack: 1d4+4/1d4+4
+attacks: 1 or 2
+damage_attack: 1d4+4/1d4+4
 special_attacks: Spells, cause awe, drain fluids, poison, and see below
 special_defenses: Spells, +1 or better to hit, immune to poison, regeneration, and see below
 magic_resistance: 25%

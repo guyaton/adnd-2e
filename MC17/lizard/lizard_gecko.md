@@ -25,8 +25,8 @@ hit_dice: 3+1
 health: 4-25
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d8 (bite)
+attacks: 1
+damage_attack: 1d8 (bite)
 special_attacks: Surprise
 special_defenses: Climb walls
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: As chosen form
-damage_per_attack: As chosen form
+attacks: As chosen form
+damage_attack: As chosen form
 special_attacks: Spell use
 special_defenses: Hit only by +1 or better weapon
 magic_resistance: Nil

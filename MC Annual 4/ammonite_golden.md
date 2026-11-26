@@ -24,8 +24,8 @@ hit_dice: 8+3
 health: 11-67
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 10
-damage_per_attack: 1d4 (x10)
+attacks: 10
+damage_attack: 1d4 (x10)
 special_attacks: Blinding, constriction
 special_defenses: Immune to psionics
 magic_resistance: 90%

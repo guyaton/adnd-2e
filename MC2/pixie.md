@@ -24,8 +24,8 @@ hit_dice: 1/2
 health: 1-4
 thac0_original: 20 (16)
 to_hit: 0 (4)
-no_of_attacks: 1
-damage_per_attack: By weapon type
+attacks: 1
+damage_attack: By weapon type
 special_attacks: See below
 special_defenses: Invisibility, spells
 magic_resistance: 25%

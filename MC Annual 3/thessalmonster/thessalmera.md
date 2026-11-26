@@ -25,8 +25,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 9 to 11
-damage_per_attack: 1d6 (6-8)/3d4/1d12/2d4
+attacks: 9 to 11
+damage_attack: 1d6 (6-8)/3d4/1d12/2d4
 special_attacks: Acid, fire, immobilization
 special_defenses: Regenerate, resist fire, immune to acid and petrif.
 magic_resistance: Nil

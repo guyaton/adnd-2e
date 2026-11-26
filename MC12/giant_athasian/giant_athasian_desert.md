@@ -25,8 +25,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1
-damage_per_attack: 2-16 +14
+attacks: 1
+damage_attack: 2-16 +14
 special_attacks: Hurl rocks or spears
 special_defenses: Resistant to psionics
 magic_resistance: Nil

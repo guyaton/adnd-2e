@@ -25,8 +25,8 @@ hit_dice: 7+3
 health: 10-59
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1-4/1-4/2-16
+attacks: 3
+damage_attack: 1-4/1-4/2-16
 special_attacks: Stun, egg-pellet
 special_defenses: See below
 magic_resistance: 30%

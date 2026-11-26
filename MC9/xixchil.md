@@ -24,8 +24,8 @@ hit_dice: 1+1
 health: 2-9
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1 (3)
-damage_per_attack: By weapon type, or 2d6/2d6 or 1d4 + poison
+attacks: 1 (3)
+damage_attack: By weapon type, or 2d6/2d6 or 1d4 + poison
 special_attacks: Poison bite
 special_defenses: Nil
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: ½ (1-4 hit points)
 health: 1-4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1-4 or 1-6 (by weapon)
+attacks: 1
+damage_attack: 1-4 or 1-6 (by weapon)
 special_attacks: Nil
 special_defenses: Nil
 magic_resistance: Nil

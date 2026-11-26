@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2-7
-damage_per_attack: By weapon
+attacks: 2-7
+damage_attack: By weapon
 special_attacks: Dust storm
 special_defenses: Struck only by +1 or better weapons
 magic_resistance: 30%

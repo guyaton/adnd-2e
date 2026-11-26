@@ -25,8 +25,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: 3-12/3-12 +8 (strength bonus)
+attacks: 2
+damage_attack: 3-12/3-12 +8 (strength bonus)
 special_attacks: Smiting
 special_defenses: Spell immunity, protection, +1 or better weapons to hit
 magic_resistance: 60%

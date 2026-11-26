@@ -23,8 +23,8 @@ movement: 12
 hit_dice: 2+1 to 5+4
 thac0_original: 19 to 15
 to_hit: 1 to 5
-no_of_attacks: 1
-damage_per_attack: By weapon type
+attacks: 1
+damage_attack: By weapon type
 special_attacks: Heat
 special_defenses: Immune to fire
 magic_resistance: 5-20%

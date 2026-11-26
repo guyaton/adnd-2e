@@ -25,8 +25,8 @@ hit_dice: '16'
 health: 16-128
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 2d6+8
+attacks: 1
+damage_attack: 2d6+8
 special_attacks: Hurl rocks
 special_defenses: Nil
 magic_resistance: Nil

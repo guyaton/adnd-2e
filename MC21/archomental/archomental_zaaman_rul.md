@@ -25,8 +25,8 @@ hit_dice: 80 hp
 health: 80
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 3d10
+attacks: 1
+damage_attack: 3d10
 special_attacks: Spells, burning touch
 special_defenses: See below
 magic_resistance: 60%

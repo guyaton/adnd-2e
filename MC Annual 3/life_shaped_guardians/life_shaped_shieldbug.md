@@ -24,8 +24,8 @@ movement: 24
 hit_dice: 1 hp
 health: 1
 thac0_original: Nil
-no_of_attacks: Special
-damage_per_attack: Special
+attacks: Special
+damage_attack: Special
 special_attacks: Special
 special_defenses: Special
 magic_resistance: Nil

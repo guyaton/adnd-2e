@@ -24,8 +24,8 @@ hit_dice: 1-1
 health: 1-7
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1 hp
+attacks: 1
+damage_attack: 1 hp
 special_attacks: Choking cloud
 special_defenses: Nil
 magic_resistance: Nil

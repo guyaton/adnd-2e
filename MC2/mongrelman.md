@@ -24,8 +24,8 @@ hit_dice: 1-4
 health: 1-32
 thac0_original: '1-2 HD: 19; 3-4 HD: 17'
 to_hit: '1-2 HD: 1; 3-4 HD: 3'
-no_of_attacks: 1
-damage_per_attack: 1-4 (1 HD), 1-6 (2 HD), 1-8 (3 HD), 1-10 (4 HD) or by weapon type
+attacks: 1
+damage_attack: 1-4 (1 HD), 1-6 (2 HD), 1-8 (3 HD), 1-10 (4 HD) or by weapon type
 special_attacks: Nil
 special_defenses: Camouflage, Mimicry
 magic_resistance: Nil

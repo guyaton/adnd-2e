@@ -24,8 +24,8 @@ hit_dice: 8+3 (46 hp)
 health: 46
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 1-4 (1d4)/1-4 (1d4)/1-6 (1d6)
+attacks: 3
+damage_attack: 1-4 (1d4)/1-4 (1d4)/1-6 (1d6)
 special_attacks: Charm
 special_defenses: Nil
 magic_resistance: Nil

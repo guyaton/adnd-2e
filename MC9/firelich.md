@@ -24,8 +24,8 @@ hit_dice: 16+
 health: 16-128+
 thac0_original: 4
 to_hit: 16
-no_of_attacks: 1
-damage_per_attack: 16d6
+attacks: 1
+damage_attack: 16d6
 special_attacks: Fear
 special_defenses: Nil
 magic_resistance: 40%

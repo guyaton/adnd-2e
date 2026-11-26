@@ -24,8 +24,8 @@ hit_dice: 12
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 2 or 7
-damage_per_attack: 2-8 (2d4)/2-5 (1d4 + 1) or 2-8 (2d4)/6 x 1-6
+attacks: 2 or 7
+damage_attack: 2-8 (2d4)/2-5 (1d4 + 1) or 2-8 (2d4)/6 x 1-6
 special_attacks: Lightning bolt
 special_defenses: Immune to electricity, poison
 magic_resistance: Nil

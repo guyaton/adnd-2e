@@ -24,8 +24,8 @@ hit_dice: '16'
 health: 16-128
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 4-24
+attacks: 1
+damage_attack: 4-24
 special_attacks: Constriction, spells
 special_defenses: Spells
 magic_resistance: 70%

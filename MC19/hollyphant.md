@@ -24,8 +24,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1d3/1d3
+attacks: 2
+damage_attack: 1d3/1d3
 special_attacks: Trumpet, psionics
 special_defenses: See below
 magic_resistance: 60%

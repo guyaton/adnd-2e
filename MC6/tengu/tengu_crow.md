@@ -25,8 +25,8 @@ hit_dice: 2-5 (4 ave.)
 health: 2-40
 thac0_original: '2 HD: 19; 3-4 HD: 17; 5 HD: 15'
 to_hit: '2 HD: 1; 3-4 HD: 3; 5 HD: 5'
-no_of_attacks: 1
-damage_per_attack: 1-8 or by weapon
+attacks: 1
+damage_attack: 1-8 or by weapon
 special_attacks: Spells
 special_defenses: Nil
 magic_resistance: Nil

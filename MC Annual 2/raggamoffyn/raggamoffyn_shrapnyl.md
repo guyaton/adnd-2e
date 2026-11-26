@@ -25,8 +25,8 @@ hit_dice: 7
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1 or 5
-damage_per_attack: 2d12 or 1d6 (5)
+attacks: 1 or 5
+damage_attack: 2d12 or 1d6 (5)
 special_attacks: Control host, explode
 special_defenses: Immune to mind-affecting spells
 magic_resistance: Nil

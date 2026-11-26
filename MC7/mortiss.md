@@ -24,8 +24,8 @@ hit_dice: 1-100
 health: 1-800
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1-6 per foe
-damage_per_attack: 1
+attacks: 1-6 per foe
+damage_attack: 1
 special_attacks: Sting
 special_defenses: Withdraw into tubes, webs
 magic_resistance: Nil

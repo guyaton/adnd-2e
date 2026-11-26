@@ -25,8 +25,8 @@ hit_dice: 7 (8+2-8)
 health: 7-56
 thac0_original: 13 (11)
 to_hit: 7 (9)
-no_of_attacks: 1
-damage_per_attack: 3-12 (4-16)
+attacks: 1
+damage_attack: 3-12 (4-16)
 special_attacks: Initiative bonus
 special_defenses: Darting
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: '35'
 health: 35-280
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 6
-damage_per_attack: 3-60 (x4)/1-100 (x2)
+attacks: 6
+damage_attack: 3-60 (x4)/1-100 (x2)
 special_attacks: Spells
 special_defenses: Immortal, spells
 magic_resistance: 95%

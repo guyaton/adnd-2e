@@ -24,8 +24,8 @@ hit_dice: 10-13
 health: 10-104
 thac0_original: '10 HD: 11; 11-12 HD: 9; 13 HD: 7'
 to_hit: '10 HD: 9; 11-12 HD: 11; 13 HD: 13'
-no_of_attacks: Up to 6
-damage_per_attack: 2-12
+attacks: Up to 6
+damage_attack: 2-12
 special_attacks: Crushing
 special_defenses: Immune to fire
 magic_resistance: Nil

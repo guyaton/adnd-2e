@@ -25,8 +25,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: Nil
 to_hit: Nil
-no_of_attacks: 1
-damage_per_attack: Nil
+attacks: 1
+damage_attack: Nil
 special_attacks: Psionics, poison
 special_defenses: Psionics
 magic_resistance: Nil

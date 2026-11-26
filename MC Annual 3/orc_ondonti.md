@@ -24,8 +24,8 @@ hit_dice: 1 (clerics to 7th level)
 health: 1-8
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1 (see below)
-damage_per_attack: By weapon
+attacks: 1 (see below)
+damage_attack: By weapon
 special_attacks: Nil
 special_defenses: Sanctuary, barkskin, tree, immune to charm, +1 save vs. poison
 magic_resistance: Nil

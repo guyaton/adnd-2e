@@ -25,8 +25,8 @@ hit_dice: 177 hp
 health: 177
 thac0_original: 5 (+5 weapon bonus)
 to_hit: 15 (+5 weapon bonus)
-no_of_attacks: 4
-damage_per_attack: 2-20 +16
+attacks: 4
+damage_attack: 2-20 +16
 special_attacks: Vorpal severing, arrows of slaying
 special_defenses: See below
 magic_resistance: 85%

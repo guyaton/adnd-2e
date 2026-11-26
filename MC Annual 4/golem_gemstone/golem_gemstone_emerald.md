@@ -25,8 +25,8 @@ hit_dice: 12 (55 hp)
 health: 55
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1
-damage_per_attack: 4d10
+attacks: 1
+damage_attack: 4d10
 special_attacks: Lightning bolt, cloudkill
 special_defenses: +2 or better to hit, immune to acid and heat-based spells, 50% damage from electrical attacks
 magic_resistance: Nil or 50%

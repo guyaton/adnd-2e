@@ -25,8 +25,8 @@ hit_dice: 1-6 hp
 health: 1-6
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1 or 2
-damage_per_attack: 1d3 (bite) or 1d4 (arrow)/1d4 (arrow)
+attacks: 1 or 2
+damage_attack: 1d3 (bite) or 1d4 (arrow)/1d4 (arrow)
 special_attacks: Poison, surprise, snares
 special_defenses: Nil
 magic_resistance: Nil

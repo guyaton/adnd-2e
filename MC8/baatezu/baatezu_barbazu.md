@@ -25,8 +25,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3 or 1 (weapon)
-damage_per_attack: 1-2/1-2/1-8 or 2-12 (weapon)
+attacks: 3 or 1 (weapon)
+damage_attack: 1-2/1-2/1-8 or 2-12 (weapon)
 special_attacks: Glaive, disease, battle frenzy
 special_defenses: +1 or better weapons to hit
 magic_resistance: 30%

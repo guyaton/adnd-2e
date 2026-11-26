@@ -25,8 +25,8 @@ hit_dice: 4-6
 health: 4-48
 thac0_original: '4 HD: 17; 5-6 HD: 15'
 to_hit: '4 HD: 3; 5-6 HD: 5'
-no_of_attacks: 1 per tentacle
-damage_per_attack: 1-8
+attacks: 1 per tentacle
+damage_attack: 1-8
 special_attacks: Nil
 special_defenses: See below
 magic_resistance: See below

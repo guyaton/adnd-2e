@@ -24,8 +24,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 0
-damage_per_attack: 0
+attacks: 0
+damage_attack: 0
 special_attacks: Berries
 special_defenses: Berries
 magic_resistance: Nil

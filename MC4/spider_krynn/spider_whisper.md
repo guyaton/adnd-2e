@@ -25,8 +25,8 @@ hit_dice: 8+8
 health: 16-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 2-12
+attacks: 1
+damage_attack: 2-12
 special_attacks: Webs, poison
 special_defenses: Jumps
 magic_resistance: Nil

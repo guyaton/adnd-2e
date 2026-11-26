@@ -25,8 +25,8 @@ hit_dice: 5-8
 health: 5-64
 thac0_original: '5-6 HD: 15; 7-8 HD: 13'
 to_hit: '5-6 HD: 5; 7-8 HD: 7'
-no_of_attacks: 1
-damage_per_attack: 1d6+6
+attacks: 1
+damage_attack: 1d6+6
 special_attacks: Energy blast or drain
 special_defenses: See below
 magic_resistance: 15%

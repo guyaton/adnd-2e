@@ -25,8 +25,8 @@ hit_dice: 2, 4, or 6
 health: 2-48
 thac0_original: '2 HD: 19; 4 HD: 17; 6 HD: 15'
 to_hit: '2 HD: 1; 4 HD: 3; 6 HD: 5'
-no_of_attacks: 1
-damage_per_attack: '2 HD: 2-12; 4 HD: 3-18; 6 HD: 4-24'
+attacks: 1
+damage_attack: '2 HD: 2-12; 4 HD: 3-18; 6 HD: 4-24'
 special_attacks: Ram
 special_defenses: +1 or better weapon to hit
 magic_resistance: Nil

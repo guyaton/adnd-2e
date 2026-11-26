@@ -24,8 +24,8 @@ hit_dice: 15-20
 health: 15-160
 thac0_original: '15 HD: 7; 16-20 HD: 5'
 to_hit: '15 HD: 13; 16-20 HD: 15'
-no_of_attacks: 2
-damage_per_attack: '15 HD: 3-30/4-40; 16-17 HD: 4-40/5-50; 18-19 HD: 5-50/6-60; 20 HD: 6-60/7-70'
+attacks: 2
+damage_attack: '15 HD: 3-30/4-40; 16-17 HD: 4-40/5-50; 18-19 HD: 5-50/6-60; 20 HD: 6-60/7-70'
 special_attacks: Fiery rain, wind
 special_defenses: +3 or better weapon to hit, totally resistant to fire magic
 magic_resistance: 30%

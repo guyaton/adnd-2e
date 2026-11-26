@@ -25,8 +25,8 @@ hit_dice: 7+10
 health: 17-66
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1 or 2
-damage_per_attack: By weapon +6 or 3d6/3d6
+attacks: 1 or 2
+damage_attack: By weapon +6 or 3d6/3d6
 special_attacks: Spellsong
 special_defenses: Magic use, shapechange; struck only by cold iron or weapon of +2 or better enchantment
 magic_resistance: 40%

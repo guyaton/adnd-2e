@@ -25,8 +25,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 7
-damage_per_attack: 1-2 (x7)/3-6 or by weapon
+attacks: 7
+damage_attack: 1-2 (x7)/3-6 or by weapon
 special_attacks: Constriction
 special_defenses: Camouflage
 magic_resistance: Nil

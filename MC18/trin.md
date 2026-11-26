@@ -24,8 +24,8 @@ hit_dice: 5+3
 health: 8-43
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 3d6/3d6
+attacks: 2
+damage_attack: 3d6/3d6
 special_attacks: Hold opponents and bite for 1d6+1 damage plus paralysis, leap, surprise bonus
 special_defenses: Missile dodge, -4 to opponent's power score rolls
 magic_resistance: Nil

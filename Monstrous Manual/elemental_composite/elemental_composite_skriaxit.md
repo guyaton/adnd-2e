@@ -25,8 +25,8 @@ hit_dice: 16+16 or 24+24
 health: 32-144 or 48-216
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2
-damage_per_attack: 2-20/2-20
+attacks: 2
+damage_attack: 2-20/2-20
 special_attacks: Sandstorm, dispel magic
 special_defenses: +2 or better weapon to hit; see below
 magic_resistance: 50%

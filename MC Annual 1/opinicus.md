@@ -24,8 +24,8 @@ hit_dice: 7+7
 health: 14-63
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 1d3 (x2)
+attacks: 2
+damage_attack: 1d3 (x2)
 special_attacks: Spells, rear-claw rake
 special_defenses: Spells, gaze
 magic_resistance: 35%

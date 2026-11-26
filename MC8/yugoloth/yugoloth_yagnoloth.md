@@ -25,8 +25,8 @@ hit_dice: 10+20
 health: 30-100
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: 1-12 or by weapon +10
+attacks: 2
+damage_attack: 1-12 or by weapon +10
 special_attacks: Magical weapon, acid breath, devour
 special_defenses: +1 or better weapons to hit
 magic_resistance: 40%

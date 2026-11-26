@@ -24,8 +24,8 @@ hit_dice: Varies (5d6)
 health: Varies (5-30)
 thac0_original: Varies (18)
 to_hit: Varies (2)
-no_of_attacks: 1
-damage_per_attack: By weapon (1d6+1)
+attacks: 1
+damage_attack: By weapon (1d6+1)
 special_attacks: None (backstab)
 special_defenses: None
 magic_resistance: None

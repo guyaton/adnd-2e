@@ -24,8 +24,8 @@ hit_dice: 8 (base)
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3 and 1
-damage_per_attack: 1-4/1-4/2-12 and 2-8 (+combat modifier)
+attacks: 3 and 1
+damage_attack: 1-4/1-4/2-12 and 2-8 (+combat modifier)
 special_attacks: Special
 special_defenses: Variable
 magic_resistance: Variable

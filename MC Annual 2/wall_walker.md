@@ -24,8 +24,8 @@ hit_dice: 6
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3 or 1
-damage_per_attack: 2d12/2d12/2d8 or special
+attacks: 3 or 1
+damage_attack: 2d12/2d12/2d8 or special
 special_attacks: Paralyzation
 special_defenses: Psionics, immune to fire
 magic_resistance: Nil

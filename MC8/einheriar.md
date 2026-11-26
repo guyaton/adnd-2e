@@ -24,8 +24,8 @@ hit_dice: Varies by level
 health: Varies (maximum per die)
 thac0_original: Varies by class and level
 to_hit: Varies
-no_of_attacks: 1
-damage_per_attack: By weapon type
+attacks: 1
+damage_attack: By weapon type
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 5%

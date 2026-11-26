@@ -24,8 +24,8 @@ hit_dice: 2+2
 health: 4-18
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1d3
+attacks: 1
+damage_attack: 1d3
 special_attacks: Age
 special_defenses: Ethereal
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: Master's +10
 health: Varies
 thac0_original: Varies
 to_hit: Varies
-no_of_attacks: Varies
-damage_per_attack: 3d6/3d6 or by weapon type
+attacks: Varies
+damage_attack: 3d6/3d6 or by weapon type
 special_attacks: See below
 special_defenses: Nil
 magic_resistance: Nil

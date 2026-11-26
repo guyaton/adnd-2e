@@ -25,8 +25,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3 or 1
-damage_per_attack: 1d4/1d4/2d4 or 2d4
+attacks: 3 or 1
+damage_attack: 1d4/1d4/2d4 or 2d4
 special_attacks: Surprise
 special_defenses: Hit only by +1 or gold, regeneration
 magic_resistance: 40%

@@ -24,8 +24,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 14
 to_hit: 6
-no_of_attacks: 3
-damage_per_attack: 1d8/1d8/3d4
+attacks: 3
+damage_attack: 1d8/1d8/3d4
 special_attacks: Grab prey
 special_defenses: Slippery
 magic_resistance: Nil

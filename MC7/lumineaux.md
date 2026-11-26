@@ -24,8 +24,8 @@ hit_dice: '20'
 health: 20-160
 thac0_original: Not printed (dash)
 to_hit: Not printed
-no_of_attacks: Not printed (dash)
-damage_per_attack: See below
+attacks: Not printed (dash)
+damage_attack: See below
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 50%

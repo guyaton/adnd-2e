@@ -24,8 +24,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 2-8/2-8 or 1-4/by weapon type
+attacks: 2
+damage_attack: 2-8/2-8 or 1-4/by weapon type
 special_attacks: Grapple, charge
 special_defenses: +2 bonus on surprise roll
 magic_resistance: Nil

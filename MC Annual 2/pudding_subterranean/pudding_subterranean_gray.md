@@ -24,8 +24,8 @@ hit_dice: 10
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 4d8
+attacks: 1
+damage_attack: 4d8
 special_attacks: Surprise, acid
 special_defenses: See below
 magic_resistance: 20%

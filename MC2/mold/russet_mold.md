@@ -24,8 +24,8 @@ hit_dice: —
 health: ''
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 0
-damage_per_attack: '0'
+attacks: 0
+damage_attack: '0'
 special_attacks: Spores
 special_defenses: Immune to weapons, cold, fire
 magic_resistance: Nil

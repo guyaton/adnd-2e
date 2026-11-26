@@ -25,8 +25,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 1d10+11 (weapon +3, Strength bonus) or 2d8 (bare fists)
+attacks: 3
+damage_attack: 1d10+11 (weapon +3, Strength bonus) or 2d8 (bare fists)
 special_attacks: Aura, spells
 special_defenses: Aura, struck only by +4 or better weapons
 magic_resistance: 65%

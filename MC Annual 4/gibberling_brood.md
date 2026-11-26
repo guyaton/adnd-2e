@@ -24,8 +24,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 16
 to_hit: 4
-no_of_attacks: 1 + special
-damage_per_attack: 1d4+4 (bite)
+attacks: 1 + special
+damage_attack: 1d4+4 (bite)
 special_attacks: Gibberslug
 special_defenses: Nil
 magic_resistance: Nil

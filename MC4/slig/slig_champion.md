@@ -17,8 +17,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: By weapon +4
+attacks: 2
+damage_attack: By weapon +4
 special_attacks: Yes (details not in this PDF)
 special_defenses: Yes (details not in this PDF)
 ```

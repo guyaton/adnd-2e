@@ -17,8 +17,8 @@ hit_dice: 1 hp
 health: 1
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1
+attacks: 1
+damage_attack: 1
 morale: Fanatic (17-18)
 xp_value: 1
 ```

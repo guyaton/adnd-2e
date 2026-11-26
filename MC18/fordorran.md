@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d6/1d6/2d4
+attacks: 3
+damage_attack: 1d6/1d6/2d4
 special_attacks: Stench
 special_defenses: See below
 magic_resistance: 20%

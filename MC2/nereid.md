@@ -23,8 +23,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 15
 to_hit: 5
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Spit; control water in lair
 special_defenses: Kiss; Mesmerize men
 magic_resistance: 50%

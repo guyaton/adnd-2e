@@ -24,8 +24,8 @@ hit_dice: 12+4
 health: 16-100
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1d100
-damage_per_attack: '1'
+attacks: 1d100
+damage_attack: '1'
 special_attacks: Singing
 special_defenses: Singing
 magic_resistance: 25%

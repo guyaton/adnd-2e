@@ -24,8 +24,8 @@ hit_dice: 3-6
 health: 3-48
 thac0_original: '3-4 HD: 17; 5-6 HD: 15'
 to_hit: '3-4 HD: 3; 5-6 HD: 5'
-no_of_attacks: Variable
-damage_per_attack: Nil
+attacks: Variable
+damage_attack: Nil
 special_attacks: Dexterity drain
 special_defenses: Smoke
 magic_resistance: Nil

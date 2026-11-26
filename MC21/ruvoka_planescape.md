@@ -24,8 +24,8 @@ hit_dice: 3+
 health: 3-24+
 thac0_original: 17 or better
 to_hit: 3 or better
-no_of_attacks: 1
-damage_per_attack: By weapon (+2 to +6 for Str)
+attacks: 1
+damage_attack: By weapon (+2 to +6 for Str)
 special_attacks: Spells
 special_defenses: Spells
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 15 or 16
 health: 15-128
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 6d4
+attacks: 1
+damage_attack: 6d4
 special_attacks: Surprise, glue
 special_defenses: Camouflage
 magic_resistance: 10%

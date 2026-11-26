@@ -25,8 +25,8 @@ hit_dice: '15'
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 3
-damage_per_attack: 2-9/2-9/5-20 or weapon +9 (strength bonus)
+attacks: 3
+damage_attack: 2-9/2-9/5-20 or weapon +9 (strength bonus)
 special_attacks: Magical weapons
 special_defenses: Immune to nonmagical attacks, +3 or better weapons to hit, +2 bonus on surprise rolls
 magic_resistance: 50%

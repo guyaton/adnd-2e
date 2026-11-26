@@ -24,8 +24,8 @@ hit_dice: 2+2
 health: 4-18
 thac0_original: 17 (19)
 to_hit: 3 (1)
-no_of_attacks: 1
-damage_per_attack: By weapon type +5
+attacks: 1
+damage_attack: By weapon type +5
 special_attacks: Fear
 special_defenses: Iron or magic weapons to hit
 magic_resistance: Nil

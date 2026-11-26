@@ -17,8 +17,8 @@ hit_dice: 3+1
 health: 4-25
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1-3 + poison
+attacks: 1
+damage_attack: 1-3 + poison
 morale: Steady (11-12)
 xp_value: 175
 ```

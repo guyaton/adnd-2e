@@ -25,8 +25,8 @@ hit_dice: '2'
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 3 per 2 rounds
-damage_per_attack: 1d6
+attacks: 3 per 2 rounds
+damage_attack: 1d6
 special_attacks: Nil
 special_defenses: Turn as wights
 magic_resistance: 20%

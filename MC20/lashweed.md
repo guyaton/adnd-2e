@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 4
-damage_per_attack: 1d4 (x4)
+attacks: 4
+damage_attack: 1d4 (x4)
 special_attacks: Spit poison & entangle
 special_defenses: Spell immunity
 magic_resistance: 20%

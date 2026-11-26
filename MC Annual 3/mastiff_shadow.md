@@ -23,8 +23,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 2d4
+attacks: 1
+damage_attack: 2d4
 special_attacks: Baying
 special_defenses: Hide in shadows
 magic_resistance: Nil

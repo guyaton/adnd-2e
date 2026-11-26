@@ -25,8 +25,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 2-8/2-8/3-12
+attacks: 3
+damage_attack: 2-8/2-8/3-12
 special_attacks: Fear, hug
 special_defenses: +1 or better weapons to hit
 magic_resistance: 30%

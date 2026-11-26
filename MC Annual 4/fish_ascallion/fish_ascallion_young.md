@@ -25,8 +25,8 @@ hit_dice: 1+1
 health: 2-9
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1 bite
-damage_per_attack: 2d4
+attacks: 1 bite
+damage_attack: 2d4
 special_attacks: Nil
 special_defenses: Immune to mental attack and paralysis
 magic_resistance: Nil

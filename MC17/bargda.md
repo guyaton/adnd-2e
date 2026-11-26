@@ -24,8 +24,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 2
-damage_per_attack: 4d4 (club)/1d10 (bite)
+attacks: 2
+damage_attack: 4d4 (club)/1d10 (bite)
 special_attacks: Diseased bite
 special_defenses: Hideousness
 magic_resistance: Nil

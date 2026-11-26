@@ -24,8 +24,8 @@ hit_dice: 8+3 (55 hp)
 health: 55
 thac0_original: 11 (9)
 to_hit: 9 (11)
-no_of_attacks: 4
-damage_per_attack: 5-10 (1d6+4)
+attacks: 4
+damage_attack: 5-10 (1d6+4)
 special_attacks: Mind blast; energy drain
 special_defenses: +1 or better weapon to hit; regeneration
 magic_resistance: 90%

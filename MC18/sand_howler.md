@@ -24,8 +24,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1d3/1d3/1d6
+attacks: 3
+damage_attack: 1d3/1d3/1d6
 special_attacks: Paralyzing gaze
 special_defenses: Nil
 magic_resistance: Nil

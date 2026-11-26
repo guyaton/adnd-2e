@@ -25,8 +25,8 @@ hit_dice: 5+5
 health: 10-45
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 2-5 (1d4 + 1)/2-5 (1d4 + 1)/1-10
+attacks: 3
+damage_attack: 2-5 (1d4 + 1)/2-5 (1d4 + 1)/1-10
 special_attacks: Rear claws 8 (2d8) each
 special_defenses: Surprised only on a 1
 magic_resistance: Nil

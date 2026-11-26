@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 1-12/1-6
+attacks: 3
+damage_attack: 1-12/1-6
 special_attacks: Poison stinger
 special_defenses: Nil
 magic_resistance: Standard

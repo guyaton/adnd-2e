@@ -25,8 +25,8 @@ hit_dice: '11'
 health: 11-88
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 2-7/2-7/3-12 +7 (strength bonus)
+attacks: 3
+damage_attack: 2-7/2-7/3-12 +7 (strength bonus)
 special_attacks: Battle frenzy, adhesive
 special_defenses: Adhesive, +1 or better weapons to hit
 magic_resistance: 50%

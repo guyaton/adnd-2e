@@ -25,8 +25,8 @@ hit_dice: 9+2
 health: 11-74
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1 or 2
-damage_per_attack: 3-12 or 1-2 and by weapon type
+attacks: 1 or 2
+damage_attack: 3-12 or 1-2 and by weapon type
 special_attacks: Nil
 special_defenses: Hit only by silver, cold iron, or +1 or better magical weapons
 magic_resistance: Nil

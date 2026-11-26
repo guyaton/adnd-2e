@@ -25,8 +25,8 @@ hit_dice: 6+1 hp/year
 health: 7-49
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 3
-damage_per_attack: 1-3
+attacks: 3
+damage_attack: 1-3
 special_attacks: See below
 special_defenses: See below.
 magic_resistance: 5% per decade

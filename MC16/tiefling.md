@@ -24,8 +24,8 @@ hit_dice: 4+3
 health: 7-35
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 or by weapon
-damage_per_attack: 1-3 or by weapon
+attacks: 1 or by weapon
+damage_attack: 1-3 or by weapon
 special_attacks: Spells, poison
 special_defenses: Immunities
 magic_resistance: See below

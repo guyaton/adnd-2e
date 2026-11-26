@@ -24,8 +24,8 @@ hit_dice: 13+7
 health: 20-111
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1
-damage_per_attack: 1-10 (weapon) +7 (Str bonus)
+attacks: 1
+damage_attack: 1-10 (weapon) +7 (Str bonus)
 special_attacks: Spells
 special_defenses: Swat away missiles
 magic_resistance: 15%

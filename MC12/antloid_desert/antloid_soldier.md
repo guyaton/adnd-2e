@@ -25,8 +25,8 @@ hit_dice: 6+1
 health: 7-49
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 3-18
+attacks: 1
+damage_attack: 3-18
 special_attacks: Poison
 special_defenses: Nil
 magic_resistance: Nil

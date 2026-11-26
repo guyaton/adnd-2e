@@ -24,8 +24,8 @@ hit_dice: 8+1
 health: 9-65
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 0
-damage_per_attack: Nil
+attacks: 0
+damage_attack: Nil
 special_attacks: Gravity slam
 special_defenses: None
 magic_resistance: None

@@ -16,7 +16,7 @@ alignment: Neutral (good)
 no_appearing: 6-60
 armor_class_descending: 5
 ac: 15
-no_of_attacks: 1
+attacks: 1
 morale: Elite (13)
 xp_value: 'Normal: 270; Exceptional (4-6 HD): 650; Exceptional (7-8 HD): 2,000; Mage: 2,000 + 1,000 per level over 7th; Priest: 2,000 + 1,000 per level over 7th; Triton leader: 4,000'
 hit_dice: '3'
@@ -27,7 +27,7 @@ activity_cycle: Day
 diet: Omnivore
 intelligence: High and up (13+)
 movement: Sw 15
-damage_per_attack: By weapon
+damage_attack: By weapon
 special_attacks: See below
 special_defenses: See below
 size: M

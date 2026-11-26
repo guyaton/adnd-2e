@@ -24,8 +24,8 @@ hit_dice: —
 health: ''
 thac0_original: 16
 to_hit: 4
-no_of_attacks: 1
-damage_per_attack: 1-8
+attacks: 1
+damage_attack: 1-8
 special_attacks: Poison spores
 special_defenses: Affected only by fire
 magic_resistance: 20%

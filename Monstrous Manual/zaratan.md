@@ -24,8 +24,8 @@ hit_dice: 51-70
 health: 51-560
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 10-100
+attacks: 1
+damage_attack: 10-100
 special_attacks: Swallow
 special_defenses: Immune to poison, magic weapon needed to pierce shell
 magic_resistance: Nil

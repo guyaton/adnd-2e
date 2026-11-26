@@ -25,8 +25,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 9
-damage_per_attack: 1d6 (x8)/2d6
+attacks: 9
+damage_attack: 1d6 (x8)/2d6
 special_attacks: Poison, petrification
 special_defenses: Immune to acid and petrification
 magic_resistance: Nil

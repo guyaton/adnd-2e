@@ -24,8 +24,8 @@ hit_dice: 9
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: 1-3/2-8 (2d4)
+attacks: 2
+damage_attack: 1-3/2-8 (2d4)
 special_attacks: Poison, magic use
 special_defenses: Etherealness
 magic_resistance: Nil

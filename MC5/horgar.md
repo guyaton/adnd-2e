@@ -24,8 +24,8 @@ hit_dice: 30 to 100
 health: 30-240 to 100-800
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 20-80
+attacks: 1
+damage_attack: 20-80
 special_attacks: Squirt acid
 special_defenses: Intense heat
 magic_resistance: Nil

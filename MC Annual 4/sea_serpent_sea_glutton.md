@@ -24,8 +24,8 @@ hit_dice: 9+2
 health: 11-74
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2 (bite, tail)
-damage_per_attack: 2d6/2d10
+attacks: 2 (bite, tail)
+damage_attack: 2d6/2d10
 special_attacks: Constriction, swallow whole
 special_defenses: Nil
 magic_resistance: Nil

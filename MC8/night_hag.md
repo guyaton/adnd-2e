@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 2-12
+attacks: 1
+damage_attack: 2-12
 special_attacks: Cause disease
 special_defenses: Spell immunity, +3 or better weapons to hit
 magic_resistance: 65%

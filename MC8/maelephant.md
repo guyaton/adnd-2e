@@ -24,8 +24,8 @@ hit_dice: 8+2
 health: 10-66
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1-6/1-6/2-12
+attacks: 3
+damage_attack: 1-6/1-6/2-12
 special_attacks: Crush, charge, cause memory loss
 special_defenses: Regeneration, +1 or better weapons to hit
 magic_resistance: 30%

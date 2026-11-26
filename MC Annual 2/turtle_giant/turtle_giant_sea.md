@@ -25,8 +25,8 @@ hit_dice: 15
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 4d4
+attacks: 1
+damage_attack: 4d4
 special_attacks: Upset craft
 special_defenses: Hide limbs
 magic_resistance: Nil

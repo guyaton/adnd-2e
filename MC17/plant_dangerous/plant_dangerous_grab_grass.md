@@ -25,8 +25,8 @@ hit_dice: 1 per 5' square
 health: 1-8 per 5' square
 thac0_original: Nil
 to_hit: Nil
-no_of_attacks: 0
-damage_per_attack: Special
+attacks: 0
+damage_attack: Special
 special_attacks: Grab
 special_defenses: Nil
 magic_resistance: Nil

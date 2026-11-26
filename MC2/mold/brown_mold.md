@@ -24,8 +24,8 @@ hit_dice: —
 health: ''
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 0
-damage_per_attack: '0'
+attacks: 0
+damage_attack: '0'
 special_attacks: Freezing
 special_defenses: Absorb heat
 magic_resistance: Nil

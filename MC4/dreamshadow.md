@@ -24,8 +24,8 @@ hit_dice: As creature or person mimicked
 health: As creature or person mimicked
 thac0_original: As creature or person mimicked
 to_hit: As creature or person mimicked
-no_of_attacks: As person or creature mimicked
-damage_per_attack: As person or creature mimicked (but illusionary)
+attacks: As person or creature mimicked
+damage_attack: As person or creature mimicked (but illusionary)
 special_attacks: As person or creature mimicked (but illusionary)
 special_defenses: As person or creature mimicked
 magic_resistance: See below

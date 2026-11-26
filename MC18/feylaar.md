@@ -24,8 +24,8 @@ hit_dice: 7+1
 health: 8-57
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 5
-damage_per_attack: 1d6+1 (x4)/2d4+1
+attacks: 5
+damage_attack: 1d6+1 (x4)/2d4+1
 special_attacks: Grab and pummel
 special_defenses: Nil
 magic_resistance: Nil

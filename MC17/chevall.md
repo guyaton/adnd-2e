@@ -24,8 +24,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1d6 (hoof)/1d6 (hoof)/1d8 (bite) or 1d6 (hoof)/1d6 (hoof)/by weapon
+attacks: 3
+damage_attack: 1d6 (hoof)/1d6 (hoof)/1d8 (bite) or 1d6 (hoof)/1d6 (hoof)/by weapon
 special_attacks: Summon and command horses
 special_defenses: Silver or +1 or better magical weapons to hit
 magic_resistance: Nil

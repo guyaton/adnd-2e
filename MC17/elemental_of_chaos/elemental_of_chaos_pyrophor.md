@@ -25,8 +25,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 2d6 (lash)/2d6 (lash)
+attacks: 2
+damage_attack: 2d6 (lash)/2d6 (lash)
 special_attacks: Fire, spells
 special_defenses: See below
 magic_resistance: Nil

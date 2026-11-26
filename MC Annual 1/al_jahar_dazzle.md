@@ -24,8 +24,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1d6 (x2)
+attacks: 2
+damage_attack: 1d6 (x2)
 special_attacks: Spells
 special_defenses: Disguise
 magic_resistance: 20%

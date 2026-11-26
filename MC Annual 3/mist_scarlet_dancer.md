@@ -24,8 +24,8 @@ hit_dice: 1 per 10 present
 health: 1-8 per 10 present
 thac0_original: '1 HD: 19 (varies by HD)'
 to_hit: '1 HD: 1 (varies by HD)'
-no_of_attacks: 1
-damage_per_attack: 1d3 per HD
+attacks: 1
+damage_attack: 1d3 per HD
 special_attacks: Blood drain
 special_defenses: Nil
 magic_resistance: Nil

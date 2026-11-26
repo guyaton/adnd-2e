@@ -25,8 +25,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 5
-damage_per_attack: 1d6 (claw)/1d6 (claw)/1d6 (claw)/1d6 (claw)/2d6 (bite)
+attacks: 5
+damage_attack: 1d6 (claw)/1d6 (claw)/1d6 (claw)/1d6 (claw)/2d6 (bite)
 special_attacks: Radiates cold
 special_defenses: Immune to cold, +1 or better to hit
 magic_resistance: Nil

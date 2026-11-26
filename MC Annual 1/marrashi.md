@@ -24,8 +24,8 @@ hit_dice: 7
 health: 7-56
 thac0_original: 13 (12 with missile weapons)
 to_hit: 7 (8 with missile weapons)
-no_of_attacks: 3
-damage_per_attack: 1d2 (x2)/1d6 or by arrow type
+attacks: 3
+damage_attack: 1d2 (x2)/1d6 or by arrow type
 special_attacks: Missile weapons, disease
 special_defenses: Immune to missile attacks
 magic_resistance: Nil

@@ -16,8 +16,8 @@ hit_dice: 8
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 2d4
+attacks: 1
+damage_attack: 2d4
 special_attacks: Charge
 morale: Unsteady* (5-7)
 xp_value: 975

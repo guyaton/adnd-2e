@@ -25,8 +25,8 @@ hit_dice: 2+1
 health: 3-17
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 3 or 1
-damage_per_attack: 1-2/1-2/1-6 or 1-4 or by weapon
+attacks: 3 or 1
+damage_attack: 1-2/1-2/1-6 or 1-4 or by weapon
 special_attacks: Squirt blood
 special_defenses: See below
 magic_resistance: Nil

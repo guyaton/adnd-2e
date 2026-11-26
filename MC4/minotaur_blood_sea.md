@@ -24,8 +24,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 2-8/1-4 (horns and bite) or by weapon
+attacks: 2
+damage_attack: 2-8/1-4 (horns and bite) or by weapon
 special_attacks: See below
 special_defenses: See below
 magic_resistance: See below

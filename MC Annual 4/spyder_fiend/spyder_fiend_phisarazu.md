@@ -25,8 +25,8 @@ hit_dice: 9+1
 health: 10-73
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 2d6/1d3/1d3 or 2d8/by weapon +6/by weapon +6
+attacks: 3
+damage_attack: 2d6/1d3/1d3 or 2d8/by weapon +6/by weapon +6
 special_attacks: Poison, see below
 special_defenses: Webs, immunities, +2 or better magical weapons to hit
 magic_resistance: 50%

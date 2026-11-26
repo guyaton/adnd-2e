@@ -25,8 +25,8 @@ hit_dice: 7
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 4
-damage_per_attack: 1d4+1 (or by weapon) x2/1d6+1/2d4 (tail)
+attacks: 4
+damage_attack: 1d4+1 (or by weapon) x2/1d6+1/2d4 (tail)
 special_attacks: Poison (tail)
 special_defenses: Spell immunities
 magic_resistance: Nil

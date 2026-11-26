@@ -24,8 +24,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 6
-damage_per_attack: 1d8 (x2), 1d10 (x2), 2d8 (x2)
+attacks: 6
+damage_attack: 1d8 (x2), 1d10 (x2), 2d8 (x2)
 special_attacks: Vorpal attacks, energy blast, crush
 special_defenses: See below
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 5-10
 health: 5-80
 thac0_original: '5-6 HD: 15; 7-8 HD: 13; 9-10 HD: 11'
 to_hit: '5-6 HD: 5; 7-8 HD: 7; 9-10 HD: 9'
-no_of_attacks: 1d6+5
-damage_per_attack: 2d6 + 1d4 per absorbed face
+attacks: 1d6+5
+damage_attack: 2d6 + 1d4 per absorbed face
 special_attacks: Mental absorption, spells, magical items
 special_defenses: Immune to psionics
 magic_resistance: 25%

@@ -25,8 +25,8 @@ hit_dice: 8+4 (10+5)
 health: 12-68 (8+4 HD); 15-85 (10+5 HD)
 thac0_original: '8+4 Hit Dice: 12; 10+5 Hit Dice: 10'
 to_hit: '8+4 Hit Dice: 8; 10+5 Hit Dice: 10'
-no_of_attacks: 4
-damage_per_attack: 3-12/3-12/3-12/3-12
+attacks: 4
+damage_attack: 3-12/3-12/3-12/3-12
 special_attacks: Nil
 special_defenses: Nil
 magic_resistance: Nil

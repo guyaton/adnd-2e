@@ -24,8 +24,8 @@ hit_dice: 6 to 10
 health: 6-80
 thac0_original: 15 (6 HD), 13 (7/8 HD), 11 (9/10 HD)
 to_hit: 5 (6 HD), 7 (7/8 HD), 9 (9/10 HD)
-no_of_attacks: 1
-damage_per_attack: 5d4
+attacks: 1
+damage_attack: 5d4
 special_attacks: Nil
 special_defenses: Half damage from nonmagical weapons
 magic_resistance: 20%

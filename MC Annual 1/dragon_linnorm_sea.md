@@ -24,8 +24,8 @@ hit_dice: 13 (base)
 health: 13-104
 thac0_original: 7 (base)
 to_hit: 13 (base)
-no_of_attacks: 2 plus special
-damage_per_attack: 3d10/2d10 plus special
+attacks: 2 plus special
+damage_attack: 3d10/2d10 plus special
 special_attacks: Spells, breath weapon, capsize ships, surprise
 special_defenses: Spells
 magic_resistance: See below

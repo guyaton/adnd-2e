@@ -25,8 +25,8 @@ hit_dice: 10+6
 health: 16-86
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3 or 2
-damage_per_attack: 4-10/4-10/2-16 or sword
+attacks: 3 or 2
+damage_attack: 4-10/4-10/2-16 or sword
 special_attacks: Magical weapons
 special_defenses: See below
 magic_resistance: 60%

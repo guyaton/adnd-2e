@@ -24,8 +24,8 @@ hit_dice: 5+1
 health: 6-41
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1-6/1-6
+attacks: 2
+damage_attack: 1-6/1-6
 special_attacks: Shocking hug
 special_defenses: Missile deflection
 magic_resistance: Nil

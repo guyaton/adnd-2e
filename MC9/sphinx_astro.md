@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 12
 to_hit: 8
-no_of_attacks: 5
-damage_per_attack: 2d6/2d6/4d6/1d6/1d6
+attacks: 5
+damage_attack: 2d6/2d6/4d6/1d6/1d6
 special_attacks: Chain lightning
 special_defenses: Nil
 magic_resistance: 25%

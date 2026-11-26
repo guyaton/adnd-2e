@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 1d8 or by weapon
+attacks: 1
+damage_attack: 1d8 or by weapon
 special_attacks: Minor magical effects
 special_defenses: Invisibility, dimension door
 magic_resistance: 40%

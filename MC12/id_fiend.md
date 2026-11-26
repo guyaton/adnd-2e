@@ -24,8 +24,8 @@ hit_dice: 5+5
 health: 10-45
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3 or 2
-damage_per_attack: 1-6/1-6/1-8 or 1-8/1-8
+attacks: 3 or 2
+damage_attack: 1-6/1-6/1-8 or 1-8/1-8
 special_attacks: Fear attack (see below)
 special_defenses: Nil
 magic_resistance: Nil

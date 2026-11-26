@@ -24,8 +24,8 @@ hit_dice: 13 (75 hp)
 health: 75
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1
-damage_per_attack: 4-40 (4d10)
+attacks: 1
+damage_attack: 4-40 (4d10)
 special_attacks: Electric shock
 special_defenses: +2 or better weapons to hit; spell immunities; lightning aura
 magic_resistance: Nil

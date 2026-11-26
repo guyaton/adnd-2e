@@ -24,8 +24,8 @@ hit_dice: 14+2
 health: 16-114
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 2 or 1
-damage_per_attack: 2-12/2-12+ special or 3-18
+attacks: 2 or 1
+damage_attack: 2-12/2-12+ special or 3-18
 special_attacks: Fear, acidic poison, armor bite
 special_defenses: 1/2 damage from nonmetal weapons, immune to psionics
 magic_resistance: 25%

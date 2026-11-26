@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2 or 1
-damage_per_attack: 1-8/1-8 (tusks) or by weapon (+2 bonus to damage)
+attacks: 2 or 1
+damage_attack: 1-8/1-8 (tusks) or by weapon (+2 bonus to damage)
 special_attacks: Nil
 special_defenses: Immune to cold
 magic_resistance: Nil

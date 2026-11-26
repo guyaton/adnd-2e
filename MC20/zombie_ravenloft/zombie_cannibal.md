@@ -25,8 +25,8 @@ hit_dice: 2+2
 health: 4-18
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1-8 or 1-2
+attacks: 1
+damage_attack: 1-8 or 1-2
 special_attacks: Poison
 special_defenses: Immune to sleep, charm, hold, and poison
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 6+1
 health: 7-49
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 3-18
+attacks: 1
+damage_attack: 3-18
 special_attacks: See below
 special_defenses: Kick in retreat
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 5 to 5+8
 health: 5-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d6/1d6/2d4
+attacks: 3
+damage_attack: 1d6/1d6/2d4
 special_attacks: Leap, assume shape
 special_defenses: Struck only by +1 or better weapons
 magic_resistance: 40%

@@ -24,8 +24,8 @@ hit_dice: 5 (20 hp)
 health: 20
 thac0_original: 15 (12) or better
 to_hit: 5 (8) or better
-no_of_attacks: 1
-damage_per_attack: 4-11 (1d8+3)
+attacks: 1
+damage_attack: 4-11 (1d8+3)
 special_attacks: Decapitation
 special_defenses: Regeneration
 magic_resistance: 50%

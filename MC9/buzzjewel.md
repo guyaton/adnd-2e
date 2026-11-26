@@ -24,8 +24,8 @@ hit_dice: 1+1
 health: 2-9
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1d8 + poison
+attacks: 1
+damage_attack: 1d8 + poison
 special_attacks: Poison
 special_defenses: See below
 magic_resistance: 45%

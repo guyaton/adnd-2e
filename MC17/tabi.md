@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1d4 (claw)/1d4 (claw)
+attacks: 2
+damage_attack: 1d4 (claw)/1d4 (claw)
 special_attacks: Poison
 special_defenses: Nil
 magic_resistance: Nil

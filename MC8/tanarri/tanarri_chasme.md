@@ -25,8 +25,8 @@ hit_dice: 8+2
 health: 10-66
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 2-8/2-8/1-4
+attacks: 3
+damage_attack: 2-8/2-8/1-4
 special_attacks: Wounding, sleep drone, terror
 special_defenses: See below
 magic_resistance: 50%

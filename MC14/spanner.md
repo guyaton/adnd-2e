@@ -24,8 +24,8 @@ hit_dice: 10-15
 health: 10-120
 thac0_original: 11 (at 10 HD)
 to_hit: 9 (at 10 HD)
-no_of_attacks: 1
-damage_per_attack: 0
+attacks: 1
+damage_attack: 0
 special_attacks: See below
 special_defenses: See below
 magic_resistance: Nil

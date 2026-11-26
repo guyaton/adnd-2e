@@ -25,8 +25,8 @@ hit_dice: 5+7
 health: 12-47
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 weapon or 1 ram
-damage_per_attack: By weapon +3 or 2d8
+attacks: 1 weapon or 1 ram
+damage_attack: By weapon +3 or 2d8
 special_attacks: Drowning
 special_defenses: Dolphin form
 magic_resistance: 20%

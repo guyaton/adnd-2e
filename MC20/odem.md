@@ -24,8 +24,8 @@ hit_dice: N/A
 health: N/A
 thac0_original: N/A
 to_hit: N/A
-no_of_attacks: 1
-damage_per_attack: Nil
+attacks: 1
+damage_attack: Nil
 special_attacks: Domination
 special_defenses: Immune to physical damage
 magic_resistance: See below

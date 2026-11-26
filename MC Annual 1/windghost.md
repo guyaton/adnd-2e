@@ -24,8 +24,8 @@ hit_dice: 9+9
 health: 18-81
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1 plus special
-damage_per_attack: 3d4
+attacks: 1 plus special
+damage_attack: 3d4
 special_attacks: Windsong, swoop, swallow whole
 special_defenses: Warp dweomer
 magic_resistance: 45%

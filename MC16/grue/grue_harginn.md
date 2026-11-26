@@ -25,8 +25,8 @@ hit_dice: 4+4
 health: 8-36
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 1d4+4 or by weapon
+attacks: 1
+damage_attack: 1d4+4 or by weapon
 special_attacks: Spells, fire gout
 special_defenses: Blink, spell immunity
 magic_resistance: Nil

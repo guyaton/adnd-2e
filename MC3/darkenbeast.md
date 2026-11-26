@@ -24,8 +24,8 @@ hit_dice: 5+5
 health: 10-45
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1 or 3
-damage_per_attack: 1-4/1-4/3-12
+attacks: 1 or 3
+damage_attack: 1-4/1-4/3-12
 special_attacks: Rear claws 1-4/1-4
 special_defenses: Immune to mind control
 magic_resistance: 25%

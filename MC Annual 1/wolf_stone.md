@@ -24,8 +24,8 @@ hit_dice: 5+4
 health: 9-44
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 2d4
+attacks: 1
+damage_attack: 2d4
 special_attacks: Initiative bonus, pounce
 special_defenses: Resistance and immunity to certain spells and weapons
 magic_resistance: Nil

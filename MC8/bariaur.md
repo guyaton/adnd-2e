@@ -24,8 +24,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 1-8 or by weapon
+attacks: 1
+damage_attack: 1-8 or by weapon
 special_attacks: Charge
 special_defenses: +2 on surprise rolls
 magic_resistance: 10%

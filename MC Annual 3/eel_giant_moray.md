@@ -24,8 +24,8 @@ hit_dice: 5+
 health: 5-52 (5 to 5+12 HD)
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 (2)
-damage_per_attack: 2d4 or 1d4+2/1d4
+attacks: 1 (2)
+damage_attack: 2d4 or 1d4+2/1d4
 special_attacks: Jaw lock, disease, tail lash
 special_defenses: Immune to fear and disease, +4 saving throw bonus vs. enfeeblement effects
 magic_resistance: Nil

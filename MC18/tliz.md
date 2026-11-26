@@ -24,8 +24,8 @@ hit_dice: As in life +4 hp per HD, minimum 13 HD
 health: As in life (minimum 65-156)
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1 or 2
-damage_per_attack: 1d6+6 or by weapon plus bonus
+attacks: 1 or 2
+damage_attack: 1d6+6 or by weapon plus bonus
 special_attacks: Energy drain (see below)
 special_defenses: +1 or better magical weapon
 magic_resistance: Nil

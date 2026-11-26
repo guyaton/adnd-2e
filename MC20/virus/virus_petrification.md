@@ -25,8 +25,8 @@ hit_dice: N/A
 health: N/A
 thac0_original: Nil
 to_hit: Nil
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Petrification
 special_defenses: See below
 magic_resistance: Nil

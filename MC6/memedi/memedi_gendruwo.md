@@ -25,8 +25,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: By weapon type
+attacks: 1
+damage_attack: By weapon type
 special_attacks: Fear
 special_defenses: +1 or better weapon to hit, invisibility, etherealness
 magic_resistance: 35% (see below)

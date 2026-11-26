@@ -24,8 +24,8 @@ hit_dice: 15 (base)
 health: 15-120
 thac0_original: 6 (base)
 to_hit: 14 (base)
-no_of_attacks: 3 + special
-damage_per_attack: 1d10/1d10/2d12
+attacks: 3 + special
+damage_attack: 1d10/1d10/2d12
 special_attacks: Breath weapon, spells
 special_defenses: See below
 magic_resistance: Variable

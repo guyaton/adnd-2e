@@ -24,8 +24,8 @@ hit_dice: 5+5
 health: 10-45
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 1d8
+attacks: 1
+damage_attack: 1d8
 special_attacks: Magic missile
 special_defenses: Spell crystals
 magic_resistance: 90%

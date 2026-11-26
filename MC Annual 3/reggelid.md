@@ -24,8 +24,8 @@ hit_dice: 3 (varies)
 health: 3-24 (varies)
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1 or as level and class
-damage_per_attack: 1d6 (weapon)
+attacks: 1 or as level and class
+damage_attack: 1d6 (weapon)
 special_attacks: Spells
 special_defenses: Nil
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 14+14
 health: 28-126
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2
-damage_per_attack: 3d6/3d6
+attacks: 2
+damage_attack: 3d6/3d6
 special_attacks: Psionics
 special_defenses: Psionics, invisibility
 magic_resistance: 50%

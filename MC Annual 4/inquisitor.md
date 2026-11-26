@@ -24,8 +24,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1d6/1d4
+attacks: 2
+damage_attack: 1d6/1d4
 special_attacks: Fear, paralysis gaze, disease, torture
 special_defenses: Spell immunity
 magic_resistance: Nil

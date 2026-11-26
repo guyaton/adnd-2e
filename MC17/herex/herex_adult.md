@@ -25,8 +25,8 @@ hit_dice: '13'
 health: 13-104
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 2
-damage_per_attack: 1d10 (bite)/1d6 (sting)
+attacks: 2
+damage_attack: 1d10 (bite)/1d6 (sting)
 special_attacks: Acid, paralysis
 special_defenses: Nil
 magic_resistance: Nil

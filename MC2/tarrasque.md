@@ -24,8 +24,8 @@ hit_dice: 300 hp (approx. 70 HD)
 health: 300
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 6
-damage_per_attack: 1-12/1-12/2-24/5-50/1-10/1-10
+attacks: 6
+damage_attack: 1-12/1-12/2-24/5-50/1-10/1-10
 special_attacks: Sharpness bite, terror
 special_defenses: See below
 magic_resistance: Nil

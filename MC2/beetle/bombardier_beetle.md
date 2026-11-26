@@ -24,8 +24,8 @@ hit_dice: 2+2
 health: 4-18
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 2-12
+attacks: 1
+damage_attack: 2-12
 special_attacks: Acid cloud
 special_defenses: Fire cloud
 magic_resistance: Nil

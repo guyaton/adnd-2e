@@ -24,8 +24,8 @@ hit_dice: 1-4 hp
 health: 1-4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1d3 (beak)
+attacks: 1
+damage_attack: 1d3 (beak)
 special_attacks: Electricity, armor penetration
 special_defenses: Electricity
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: By weapon (as human or biped; see below for animal form)
+attacks: 1
+damage_attack: By weapon (as human or biped; see below for animal form)
 special_attacks: See below
 special_defenses: See below
 magic_resistance: Nil

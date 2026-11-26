@@ -24,8 +24,8 @@ hit_dice: 2+4
 health: 6-20
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 2
-damage_per_attack: By weapon +2
+attacks: 2
+damage_attack: By weapon +2
 special_attacks: None
 special_defenses: Fading
 magic_resistance: None

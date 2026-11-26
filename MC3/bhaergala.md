@@ -24,8 +24,8 @@ hit_dice: 4+4
 health: 8-36
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 claws and 1 bite
-damage_per_attack: 1-6/1-6/1-8
+attacks: 2 claws and 1 bite
+damage_attack: 1-6/1-6/1-8
 special_attacks: Pounce
 special_defenses: Poison resistance, spell turning
 magic_resistance: Nil

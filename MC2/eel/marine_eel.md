@@ -24,8 +24,8 @@ hit_dice: 6 to 8
 health: 6-64
 thac0_original: '6 to 7 HD: 13; 8 HD: 12'
 to_hit: '6 to 7 HD: 7; 8 HD: 8'
-no_of_attacks: 1
-damage_per_attack: 2-8, 3-12, or 4-16
+attacks: 1
+damage_attack: 2-8, 3-12, or 4-16
 special_attacks: Electric shock
 special_defenses: Nil
 magic_resistance: Nil

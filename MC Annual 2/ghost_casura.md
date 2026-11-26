@@ -24,8 +24,8 @@ hit_dice: 22
 health: 22-176
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 4
-damage_per_attack: 3d6
+attacks: 4
+damage_attack: 3d6
 special_attacks: Poltergeist powers
 special_defenses: Invisibility
 magic_resistance: 75%

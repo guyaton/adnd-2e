@@ -25,8 +25,8 @@ hit_dice: 90 hp
 health: 90
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 2d12
+attacks: 1
+damage_attack: 2d12
 special_attacks: Engulf, spells
 special_defenses: See below
 magic_resistance: 70%

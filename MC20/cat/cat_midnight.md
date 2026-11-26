@@ -25,8 +25,8 @@ hit_dice: 3+6
 health: 9-30
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1d2/1d2; rake 1d2/1d2
+attacks: 3
+damage_attack: 1d2/1d2; rake 1d2/1d2
 special_attacks: Spirit drain, curse
 special_defenses: Nil
 magic_resistance: 25%

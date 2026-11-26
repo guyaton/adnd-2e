@@ -24,8 +24,8 @@ hit_dice: 3+3
 health: 6-27
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 2d4 (bite)
+attacks: 1
+damage_attack: 2d4 (bite)
 special_attacks: Baying
 special_defenses: Hit only by silver or magical weapons for minimal damage
 magic_resistance: Nil

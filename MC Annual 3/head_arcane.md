@@ -24,8 +24,8 @@ hit_dice: '2'
 health: 2-16
 thac0_original: 18
 to_hit: 2
-no_of_attacks: 1
-damage_per_attack: 1d6 (bite)
+attacks: 1
+damage_attack: 1d6 (bite)
 special_attacks: Bash
 special_defenses: Nil
 magic_resistance: 20%

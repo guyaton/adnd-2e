@@ -24,8 +24,8 @@ hit_dice: 6+2
 health: 8-50
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3 (1)
-damage_per_attack: 1d8/1d8/4d6
+attacks: 3 (1)
+damage_attack: 1d8/1d8/4d6
 special_attacks: Electric bolt (5d6 x2)
 special_defenses: Stone hide
 magic_resistance: Nil

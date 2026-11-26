@@ -25,8 +25,8 @@ hit_dice: 6
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 1-4
+attacks: 1
+damage_attack: 1-4
 special_attacks: Petrification, poison
 special_defenses: Nil
 magic_resistance: Nil

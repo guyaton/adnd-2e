@@ -24,8 +24,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1-3/1-3/1-8
+attacks: 3
+damage_attack: 1-3/1-3/1-8
 special_attacks: Tail spikes
 special_defenses: Nil
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1
-damage_per_attack: 1-12
+attacks: 1
+damage_attack: 1-12
 special_attacks: Spits acid
 special_defenses: Immune to blunt weapons
 magic_resistance: Nil

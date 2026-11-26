@@ -24,8 +24,8 @@ hit_dice: 9, 10, or 11 (10-sided dice)
 health: 9-90, 10-100, or 11-110
 thac0_original: 11, 10, or 9
 to_hit: 9, 10, or 11
-no_of_attacks: 3/2
-damage_per_attack: By weapon
+attacks: 3/2
+damage_attack: By weapon
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 60%

@@ -25,8 +25,8 @@ hit_dice: 12
 health: 12-96
 thac0_original: 10
 to_hit: 10
-no_of_attacks: 11
-damage_per_attack: 1d20/1d20/1d12
+attacks: 11
+damage_attack: 1d20/1d20/1d12
 special_attacks: Gas
 special_defenses: Special
 magic_resistance: 25%

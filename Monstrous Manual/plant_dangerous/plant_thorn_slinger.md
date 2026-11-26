@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: Nil
 to_hit: Nil
-no_of_attacks: 1 volley
-damage_per_attack: 2-8
+attacks: 1 volley
+damage_attack: 2-8
 special_attacks: Dew
 special_defenses: Nil
 magic_resistance: Nil

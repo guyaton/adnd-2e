@@ -24,8 +24,8 @@ hit_dice: 4+3
 health: 7-35
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d6/1d6/1d8
+attacks: 3
+damage_attack: 1d6/1d6/1d8
 special_attacks: Surprise, rear claw rake, frenzy
 special_defenses: Teleport
 magic_resistance: 10%

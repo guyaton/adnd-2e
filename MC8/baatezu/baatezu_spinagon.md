@@ -25,8 +25,8 @@ hit_dice: 3+3
 health: 6-27
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3
-damage_per_attack: 1-4/1-4/by weapon
+attacks: 3
+damage_attack: 1-4/1-4/by weapon
 special_attacks: Flame spikes
 special_defenses: See below
 magic_resistance: 15%

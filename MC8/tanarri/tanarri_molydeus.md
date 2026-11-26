@@ -25,8 +25,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 2-12/1-6/battle-axe (2-20 +5)
+attacks: 3
+damage_attack: 2-12/1-6/battle-axe (2-20 +5)
 special_attacks: Vorpal and dancing battle-axe, poison
 special_defenses: Affected only by cold iron weapons, never surprised
 magic_resistance: 90%

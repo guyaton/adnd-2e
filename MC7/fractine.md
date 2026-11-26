@@ -24,8 +24,8 @@ hit_dice: 6-13
 health: 6-104
 thac0_original: '6 HD: 15; 7-8 HD: 13; 9-10 HD: 11; 11-12 HD: 9; 13 HD: 7'
 to_hit: '6 HD: 5; 7-8 HD: 7; 9-10 HD: 9; 11-12 HD: 11; 13 HD: 13'
-no_of_attacks: Area of effect (1 sq. ft. per HD)
-damage_per_attack: 2-8
+attacks: Area of effect (1 sq. ft. per HD)
+damage_attack: 2-8
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 25%

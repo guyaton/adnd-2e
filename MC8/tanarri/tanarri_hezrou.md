@@ -25,8 +25,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 1-6/1-6/4-16
+attacks: 3
+damage_attack: 1-6/1-6/4-16
 special_attacks: Bear hug, stench
 special_defenses: +2 or better weapons to hit, half damage from other nonmagical, never surprised
 magic_resistance: 70%

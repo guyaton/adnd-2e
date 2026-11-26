@@ -24,8 +24,8 @@ hit_dice: 13 (base)
 health: 13-104
 thac0_original: 7 (base)
 to_hit: 13 (base)
-no_of_attacks: 4 plus special
-damage_per_attack: 4d6 (x2)/4d10/2d6
+attacks: 4 plus special
+damage_attack: 4d6 (x2)/4d10/2d6
 special_attacks: Spells, poisonous tail, breath weapon
 special_defenses: Spells
 magic_resistance: See below

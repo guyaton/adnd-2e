@@ -24,8 +24,8 @@ hit_dice: 10
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 4
-damage_per_attack: 1d6+6/1d4+1/1d4+1/1d4+1
+attacks: 4
+damage_attack: 1d6+6/1d4+1/1d4+1/1d4+1
 special_attacks: Drop, hug, rear claws for 1d4+1 each
 special_defenses: Camouflage
 magic_resistance: Nil

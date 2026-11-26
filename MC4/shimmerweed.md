@@ -24,8 +24,8 @@ hit_dice: 1 hit point
 health: 1
 thac0_original: Not applicable
 to_hit: Not applicable
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Confusion
 special_defenses: Nil
 magic_resistance: Nil

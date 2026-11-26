@@ -24,8 +24,8 @@ hit_dice: 4
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1/creature in contact
-damage_per_attack: 5d4
+attacks: 1/creature in contact
+damage_attack: 5d4
 special_attacks: Boring, poison
 special_defenses: Must be dug up or burned
 magic_resistance: Nil

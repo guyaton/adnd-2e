@@ -24,8 +24,8 @@ hit_dice: 3+3
 health: 6-27
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 4 (three claw, bite)
-damage_per_attack: 1d4+1/1d4+1/1d4+1/1d8+1
+attacks: 4 (three claw, bite)
+damage_attack: 1d4+1/1d4+1/1d4+1/1d8+1
 special_attacks: Severed limbs attack
 special_defenses: Regeneration
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: Young (7-8 HD); Adolescent (9-10 HD); Adult (11-12 HD); Ancient (13-14
 health: 7-112
 thac0_original: '7-8 HD: 13; 9-10 HD: 11; 11-12 HD: 9; 13-14 HD: 7'
 to_hit: '7-8 HD: 7; 9-10 HD: 9; 11-12 HD: 11; 13-14 HD: 13'
-no_of_attacks: 1
-damage_per_attack: 2d6 (bite) or 3d8 (constriction)
+attacks: 1
+damage_attack: 2d6 (bite) or 3d8 (constriction)
 special_attacks: Breath weapon (sleep 3d8 rds), swallow (if adult or ancient)
 special_defenses: Nil
 magic_resistance: Nil

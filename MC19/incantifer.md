@@ -24,8 +24,8 @@ hit_dice: 9d4+18 to 9d4+26
 health: 27-62
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: By weapon
+attacks: 1
+damage_attack: By weapon
 special_attacks: Spells
 special_defenses: Absorption
 magic_resistance: 20% + 5% per level over 9th

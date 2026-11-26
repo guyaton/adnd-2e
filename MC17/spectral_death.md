@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: 1d10 (claw)/1d10 (claw)
+attacks: 2
+damage_attack: 1d10 (claw)/1d10 (claw)
 special_attacks: Wisdom drain
 special_defenses: Hit only by magical weapons, immune to some spell effects
 magic_resistance: Nil

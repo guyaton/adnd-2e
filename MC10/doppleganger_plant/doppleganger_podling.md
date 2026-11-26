@@ -25,8 +25,8 @@ hit_dice: Varies
 health: Varies
 thac0_original: Varies
 to_hit: Varies
-no_of_attacks: Varies
-damage_per_attack: Varies
+attacks: Varies
+damage_attack: Varies
 special_attacks: Varies
 special_defenses: Varies
 magic_resistance: Varies

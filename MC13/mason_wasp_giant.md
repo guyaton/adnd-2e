@@ -24,8 +24,8 @@ hit_dice: 6+1
 health: 7-49
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 4-16/1-4
+attacks: 2
+damage_attack: 4-16/1-4
 special_attacks: Poison and fire breath
 special_defenses: Immune to fire
 magic_resistance: Nil

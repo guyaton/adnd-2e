@@ -24,8 +24,8 @@ hit_dice: 17+
 health: 17-136 (at 17 HD)
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 1d10
+attacks: 1
+damage_attack: 1d10
 special_attacks: Priest spells, hopelessness touch, coldfire missiles, see below
 special_defenses: +2 or better magical weapon to hit, fear aura, spell immunities, immune to poison, see below
 magic_resistance: 25%

@@ -24,8 +24,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 3d4 (2d4)
+attacks: 1
+damage_attack: 3d4 (2d4)
 special_attacks: Crystal missile
 special_defenses: See below
 magic_resistance: Nil

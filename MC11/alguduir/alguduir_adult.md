@@ -25,8 +25,8 @@ hit_dice: 4+4
 health: 8-36
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 5
-damage_per_attack: Bill 1-6; front claws 2-5/2-5; rear claws 2-4/2-4
+attacks: 5
+damage_attack: Bill 1-6; front claws 2-5/2-5; rear claws 2-4/2-4
 special_attacks: Nil
 special_defenses: Spell reflection
 magic_resistance: 40%

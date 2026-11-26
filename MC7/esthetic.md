@@ -24,8 +24,8 @@ hit_dice: 20-100 hull points
 health: 20-100 hull points
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2
-damage_per_attack: See below
+attacks: 2
+damage_attack: See below
 special_attacks: Jammerscream, grappling
 special_defenses: None
 magic_resistance: Nil

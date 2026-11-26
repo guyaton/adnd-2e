@@ -17,8 +17,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 1-4 + poison
+attacks: 1
+damage_attack: 1-4 + poison
 morale: Champion (15-16)
 xp_value: 270
 ```

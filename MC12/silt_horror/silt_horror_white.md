@@ -25,8 +25,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 10
-damage_per_attack: 1-8 (x10)
+attacks: 10
+damage_attack: 1-8 (x10)
 special_attacks: Constriction
 special_defenses: Air jet
 magic_resistance: Nil

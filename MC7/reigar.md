@@ -24,8 +24,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 2
-damage_per_attack: See below
+attacks: 2
+damage_attack: See below
 special_attacks: Magic use, shakti
 special_defenses: Magic use, shakti
 magic_resistance: 45%

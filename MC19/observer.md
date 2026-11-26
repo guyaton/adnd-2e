@@ -24,8 +24,8 @@ hit_dice: 8+8
 health: 16-72
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 1d8/1d8/1d8
+attacks: 3
+damage_attack: 1d8/1d8/1d8
 special_attacks: Blood drain, gaze, psionics
 special_defenses: None
 magic_resistance: 25%

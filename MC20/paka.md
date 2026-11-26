@@ -24,8 +24,8 @@ hit_dice: Varies
 health: Varies
 thac0_original: By class
 to_hit: By class
-no_of_attacks: 2
-damage_per_attack: 1d6/1d6 or by weapon
+attacks: 2
+damage_attack: 1d6/1d6 or by weapon
 special_attacks: Springing
 special_defenses: Healing
 magic_resistance: 20%

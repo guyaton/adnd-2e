@@ -24,8 +24,8 @@ hit_dice: 12-14
 health: 12-112
 thac0_original: '12 Hit Dice: 9; 13-14 Hit Dice: 7'
 to_hit: '12 Hit Dice: 11; 13-14 Hit Dice: 13'
-no_of_attacks: 3
-damage_per_attack: 2-12/2-12/4-32
+attacks: 3
+damage_attack: 2-12/2-12/4-32
 special_attacks: Breath weapon, capsize ships
 special_defenses: Nil
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 13+26
 health: 39-130
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 2
-damage_per_attack: 1-12/1-12 or weapon +9 (strength bonus)
+attacks: 2
+damage_attack: 1-12/1-12 or weapon +9 (strength bonus)
 special_attacks: Magical weapon, gaze of fascination
 special_defenses: +3 or better weapons to hit, never surprised
 magic_resistance: 60%

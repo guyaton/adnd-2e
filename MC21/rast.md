@@ -24,8 +24,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 4 or 1
-damage_per_attack: 1d4/1d4/1d4/1d4 or 1d8+3
+attacks: 4 or 1
+damage_attack: 1d4/1d4/1d4/1d4 or 1d8+3
 special_attacks: Paralyzation, blood drain
 special_defenses: Immune to fire and heat
 magic_resistance: Nil

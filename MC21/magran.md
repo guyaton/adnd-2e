@@ -24,8 +24,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1
-damage_per_attack: 3d8
+attacks: 1
+damage_attack: 3d8
 special_attacks: Hypnosis, swallow whole
 special_defenses: Invisibility
 magic_resistance: Nil

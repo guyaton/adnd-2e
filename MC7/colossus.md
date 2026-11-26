@@ -24,8 +24,8 @@ hit_dice: '35'
 health: 35-280
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1 every 2 rounds
-damage_per_attack: 50-100 (or 5-10 hull points)
+attacks: 1 every 2 rounds
+damage_attack: 50-100 (or 5-10 hull points)
 special_attacks: Stunning clap, throw boulders
 special_defenses: Nil
 magic_resistance: Nil

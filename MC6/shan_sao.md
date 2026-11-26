@@ -24,8 +24,8 @@ hit_dice: 2 to 4
 health: 2-32
 thac0_original: '2 HD: 19; 3-4 HD: 17'
 to_hit: '2 HD: 1; 3-4 HD: 3'
-no_of_attacks: 1
-damage_per_attack: By weapon type
+attacks: 1
+damage_attack: By weapon type
 special_attacks: Disease
 special_defenses: Summon tigers, immune to fear
 magic_resistance: Nil

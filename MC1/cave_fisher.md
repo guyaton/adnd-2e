@@ -24,8 +24,8 @@ hit_dice: 3
 health: 3-24
 thac0_original: 17 or 15 (see below)
 to_hit: 3 or 5 (see below)
-no_of_attacks: 2
-damage_per_attack: 2-8 (2d4)/2-8 (2d4)
+attacks: 2
+damage_attack: 2-8 (2d4)/2-8 (2d4)
 special_attacks: Adhesive trapline
 special_defenses: See below
 magic_resistance: Nil

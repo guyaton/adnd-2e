@@ -24,8 +24,8 @@ hit_dice: 10
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: See below
-damage_per_attack: As per wizard spell
+attacks: See below
+damage_attack: As per wizard spell
 special_attacks: Surprise bonus when invisible
 special_defenses: Immune to effects of pain and to psionics and fear-based attacks; planar impenetrability; innate spell powers; invisibility at will
 magic_resistance: 50%

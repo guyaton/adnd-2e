@@ -23,8 +23,8 @@ movement: 0
 hit_dice: 1/2 (4 hp)
 health: '4'
 thac0_original: Special
-no_of_attacks: 1 (special)
-damage_per_attack: 1 hp per round
+attacks: 1 (special)
+damage_attack: 1 hp per round
 special_attacks: Nil
 special_defenses: Nil
 magic_resistance: Nil

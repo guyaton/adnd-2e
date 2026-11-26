@@ -25,8 +25,8 @@ hit_dice: 5+1
 health: 6-41
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 5-30 (fire seeds)
+attacks: 1
+damage_attack: 5-30 (fire seeds)
 special_attacks: Spells
 special_defenses: See below
 magic_resistance: Nil

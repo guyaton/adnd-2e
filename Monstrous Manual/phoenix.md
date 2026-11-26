@@ -24,8 +24,8 @@ hit_dice: '20'
 health: 20-160
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1 or 2
-damage_per_attack: 2-12 or 1-8/1-8
+attacks: 1 or 2
+damage_attack: 2-12 or 1-8/1-8
 special_attacks: Shriek
 special_defenses: +3 or better weapons to hit, never surprised
 magic_resistance: 50%

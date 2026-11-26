@@ -24,8 +24,8 @@ hit_dice: As in life, minimum 6+3
 health: As in life (minimum 9-51)
 thac0_original: As in life, or 15
 to_hit: As in life, or 5
-no_of_attacks: As in life, or 3
-damage_per_attack: 1d3/1d3/2d6
+attacks: As in life, or 3
+damage_attack: 1d3/1d3/2d6
 special_attacks: See below
 special_defenses: +1 or better weapon to hit
 magic_resistance: Nil

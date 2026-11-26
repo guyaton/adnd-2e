@@ -24,8 +24,8 @@ hit_dice: 7+3 (47 hp)
 health: 47
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 2-16 (2d8)
+attacks: 1
+damage_attack: 2-16 (2d8)
 special_attacks: Heat drain
 special_defenses: +1 or better weapon to hit
 magic_resistance: Nil

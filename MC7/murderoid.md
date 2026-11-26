@@ -24,8 +24,8 @@ hit_dice: '50'
 health: 50-400
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1-3
-damage_per_attack: 5-50 each
+attacks: 1-3
+damage_attack: 5-50 each
 special_attacks: Spells
 special_defenses: Spells
 magic_resistance: Nil

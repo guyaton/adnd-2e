@@ -24,8 +24,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1 or 2 (bite and weapon)
-damage_per_attack: 1-4 bite, or by weapon type
+attacks: 1 or 2 (bite and weapon)
+damage_attack: 1-4 bite, or by weapon type
 special_attacks: Head butt, paralytic bite
 special_defenses: Surprised on a 1
 magic_resistance: Nil

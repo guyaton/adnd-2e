@@ -24,8 +24,8 @@ hit_dice: '15'
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 8-80
+attacks: 1
+damage_attack: 8-80
 special_attacks: Cause disease
 special_defenses: +3 or better weapons to hit, regeneration
 magic_resistance: 10%

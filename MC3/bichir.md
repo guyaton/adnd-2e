@@ -24,8 +24,8 @@ hit_dice: 5 to 7
 health: 5-56
 thac0_original: 15 (if 5-6 HD), 13 (if 7 HD)
 to_hit: 5 (if 5-6 HD), 7 (if 7 HD)
-no_of_attacks: 1
-damage_per_attack: 3-12
+attacks: 1
+damage_attack: 3-12
 special_attacks: Entangle
 special_defenses: Nil
 magic_resistance: 30%

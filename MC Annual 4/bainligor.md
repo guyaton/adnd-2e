@@ -24,8 +24,8 @@ hit_dice: 2+1 to 10+9
 health: 3-89
 thac0_original: See below
 to_hit: See below
-no_of_attacks: 2
-damage_per_attack: See below
+attacks: 2
+damage_attack: See below
 special_attacks: Echolocation, stun
 special_defenses: Dodge missiles
 magic_resistance: Nil

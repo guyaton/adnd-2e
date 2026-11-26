@@ -24,8 +24,8 @@ hit_dice: 2+2
 health: 4-18
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 2
-damage_per_attack: 1d3 (x2) or by weapon
+attacks: 2
+damage_attack: 1d3 (x2) or by weapon
 special_attacks: Poison, backstab
 special_defenses: Thieving skills
 magic_resistance: Nil

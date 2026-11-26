@@ -24,8 +24,8 @@ hit_dice: 8+3
 health: 11-67
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 1-4/1-4/1-12
+attacks: 3
+damage_attack: 1-4/1-4/1-12
 special_attacks: Tethered darts
 special_defenses: Camouflage, withdrawal
 magic_resistance: Nil

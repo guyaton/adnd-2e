@@ -25,8 +25,8 @@ hit_dice: See below
 health: ''
 thac0_original: 10
 to_hit: 10
-no_of_attacks: See below
-damage_per_attack: See below
+attacks: See below
+damage_attack: See below
 special_attacks: See below
 special_defenses: See below
 magic_resistance: See below

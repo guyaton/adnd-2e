@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 7-16 (halberd)
+attacks: 1
+damage_attack: 7-16 (halberd)
 special_attacks: Spiked armor
 special_defenses: Dimension door
 magic_resistance: 20%

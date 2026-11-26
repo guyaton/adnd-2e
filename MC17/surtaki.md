@@ -24,8 +24,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1d10 (hoof)/1d10 (hoof)/1d6 (bite)
+attacks: 3
+damage_attack: 1d10 (hoof)/1d10 (hoof)/1d6 (bite)
 special_attacks: Charge
 special_defenses: Quills, disease
 magic_resistance: Nil

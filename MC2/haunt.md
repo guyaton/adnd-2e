@@ -24,8 +24,8 @@ hit_dice: 5/victim's hp
 health: ''
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1/1, as S-HD monster
-damage_per_attack: See below/by weapon
+attacks: 1/1, as S-HD monster
+damage_attack: See below/by weapon
 special_attacks: See below
 special_defenses: See below
 magic_resistance: Nil

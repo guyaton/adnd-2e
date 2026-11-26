@@ -25,8 +25,8 @@ hit_dice: 2
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 2
-damage_per_attack: 1d3 or wpn
+attacks: 2
+damage_attack: 1d3 or wpn
 special_attacks: Fear aura, burrowing
 special_defenses: See below
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 5+4
 health: 9-44
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3 or 1
-damage_per_attack: 1d4/1d4/2d4 or 2d4
+attacks: 3 or 1
+damage_attack: 1d4/1d4/2d4 or 2d4
 special_attacks: Surprise
 special_defenses: Hit only by +1 or silver
 magic_resistance: 20%

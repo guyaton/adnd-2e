@@ -16,8 +16,8 @@ hit_dice: 6
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 2d4
+attacks: 1
+damage_attack: 2d4
 special_attacks: Shoot quills
 morale: Unsteady (5-7)
 xp_value: 650

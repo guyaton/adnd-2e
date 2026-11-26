@@ -25,8 +25,8 @@ hit_dice: 4+4
 health: 8-36
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 ram
-damage_per_attack: 1d10
+attacks: 1 ram
+damage_attack: 1d10
 special_attacks: Surprise, poison cloud, entrapment
 special_defenses: Nil
 magic_resistance: Nil

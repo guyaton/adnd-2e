@@ -25,8 +25,8 @@ hit_dice: 6 per swarm
 health: 6-48 per swarm
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: Special
+attacks: 1
+damage_attack: Special
 special_attacks: Disease
 special_defenses: Nil
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 14 (60 hp)
 health: 60
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1
-damage_per_attack: 5d10
+attacks: 1
+damage_attack: 5d10
 special_attacks: Diamond chips, sunray
 special_defenses: +3 or better to hit, immune to heat, electricity, and acid-based attacks
 magic_resistance: Nil or 75%

@@ -24,8 +24,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1 bite or weapon
-damage_per_attack: 1-4 or by weapon
+attacks: 1 bite or weapon
+damage_attack: 1-4 or by weapon
 special_attacks: Poison frost
 special_defenses: Empathy
 magic_resistance: Nil

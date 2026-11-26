@@ -24,8 +24,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1-8+4 or by weapon type
+attacks: 1
+damage_attack: 1-8+4 or by weapon type
 special_attacks: Bite (see below)
 special_defenses: Half damage from fire-based attacks
 magic_resistance: Nil

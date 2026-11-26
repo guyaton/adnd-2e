@@ -24,8 +24,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 11
-damage_per_attack: 1-4(x10)/1-6
+attacks: 11
+damage_attack: 1-4(x10)/1-6
 special_attacks: Paralyzation
 special_defenses: Immune to electricity
 magic_resistance: Nil

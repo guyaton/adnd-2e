@@ -24,8 +24,8 @@ hit_dice: 5 to 8
 health: 5-64
 thac0_original: '5-6 HD: 15; 7-8 HD: 13'
 to_hit: '5-6 HD: 5; 7-8 HD: 7'
-no_of_attacks: 3
-damage_per_attack: 1d6/1d6 (hooves)/by weapon
+attacks: 3
+damage_attack: 1d6/1d6 (hooves)/by weapon
 special_attacks: Dive
 special_defenses: 30% immunity to sleep and charm
 magic_resistance: Nil

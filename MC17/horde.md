@@ -24,8 +24,8 @@ hit_dice: 3-21
 health: 3-168
 thac0_original: Varies by Hit Dice (see below)
 to_hit: Varies by Hit Dice (see below)
-no_of_attacks: 1
-damage_per_attack: Varies by Hit Dice (see below)
+attacks: 1
+damage_attack: Varies by Hit Dice (see below)
 special_attacks: Telekinesis
 special_defenses: See below
 magic_resistance: Nil

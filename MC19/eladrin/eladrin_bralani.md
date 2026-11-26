@@ -25,8 +25,8 @@ hit_dice: 6+9
 health: 15-57
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 or 2
-damage_per_attack: By weapon +4 or 1d10/1d10
+attacks: 1 or 2
+damage_attack: By weapon +4 or 1d10/1d10
 special_attacks: Whirlwind
 special_defenses: See below
 magic_resistance: 35%

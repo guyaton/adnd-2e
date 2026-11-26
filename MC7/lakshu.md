@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: (See below)
 to_hit: (See below)
-no_of_attacks: One by weapon and by shakti
-damage_per_attack: By weapon and by shakti
+attacks: One by weapon and by shakti
+damage_attack: By weapon and by shakti
 special_attacks: Shakti
 special_defenses: Shakti
 magic_resistance: 20%

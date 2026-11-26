@@ -24,8 +24,8 @@ hit_dice: 3 (king 10)
 health: 3-24 (king 10-80)
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d6
+attacks: 1
+damage_attack: 1d6
 special_attacks: Mind control
 special_defenses: Malleable form, hide in ooze
 magic_resistance: Nil

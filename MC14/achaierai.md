@@ -24,8 +24,8 @@ hit_dice: Body 40 hp; legs 15 hp each
 health: Body 40; legs 15 each
 thac0_original: 17 (claws)/11 (beak)
 to_hit: 3 (claws)/9 (beak)
-no_of_attacks: 3
-damage_per_attack: 1-8/1-8/1-10
+attacks: 3
+damage_attack: 1-8/1-8/1-10
 special_attacks: Nil
 special_defenses: Toxic smoke
 magic_resistance: 35%

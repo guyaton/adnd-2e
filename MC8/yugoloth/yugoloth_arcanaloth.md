@@ -25,8 +25,8 @@ hit_dice: 12+24
 health: 36-120
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 1-4/1-4/2-12
+attacks: 3
+damage_attack: 1-4/1-4/2-12
 special_attacks: Claw sting
 special_defenses: +3 or better weapons to hit, spell immunity
 magic_resistance: 60%

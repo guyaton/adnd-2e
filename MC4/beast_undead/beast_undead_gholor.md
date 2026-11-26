@@ -25,8 +25,8 @@ hit_dice: 12+12
 health: 24-108
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 3 or 1
-damage_per_attack: 3-9/3-9/3-24 or 3-18
+attacks: 3 or 1
+damage_attack: 3-9/3-9/3-24 or 3-18
 special_attacks: Acidic bite
 special_defenses: See below
 magic_resistance: 20%

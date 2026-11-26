@@ -23,8 +23,8 @@ movement: 1
 hit_dice: 9+9
 health: 18-81
 thac0_original: Nil
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Nil
 special_defenses: 20 myrmarches
 magic_resistance: 20%

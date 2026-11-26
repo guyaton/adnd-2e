@@ -24,8 +24,8 @@ hit_dice: 3-8
 health: 3-64
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 per Hit Die
-damage_per_attack: 1d6 + special
+attacks: 1 per Hit Die
+damage_attack: 1d6 + special
 special_attacks: Blood drain
 special_defenses: Thorns
 magic_resistance: None

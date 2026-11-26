@@ -24,8 +24,8 @@ hit_dice: 3d10 to 8d10
 health: 3-80
 thac0_original: Varies
 to_hit: Varies
-no_of_attacks: Varies
-damage_per_attack: By weapon
+attacks: Varies
+damage_attack: By weapon
 special_attacks: Berserk
 special_defenses: None
 magic_resistance: None

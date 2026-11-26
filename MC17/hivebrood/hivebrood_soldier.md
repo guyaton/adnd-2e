@@ -25,8 +25,8 @@ hit_dice: 3+1
 health: 4-25
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3 or 2
-damage_per_attack: 1d4 (claw)/1d4 (claw)/1d8 (bite) or 1d8 (bite)/by weapon
+attacks: 3 or 2
+damage_attack: 1d4 (claw)/1d4 (claw)/1d8 (bite) or 1d8 (bite)/by weapon
 special_attacks: Paralysis, hivemind powers
 special_defenses: Immune to vision-affecting spells
 magic_resistance: Nil

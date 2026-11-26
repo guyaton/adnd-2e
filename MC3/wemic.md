@@ -24,8 +24,8 @@ hit_dice: 5+8
 health: 13-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 or 3
-damage_per_attack: 1-4/1-4 and weapon
+attacks: 2 or 3
+damage_attack: 1-4/1-4 and weapon
 special_attacks: Nil
 special_defenses: '-2 initiative modifier'
 magic_resistance: Nil

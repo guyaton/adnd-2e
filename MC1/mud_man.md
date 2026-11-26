@@ -24,8 +24,8 @@ hit_dice: 2
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: Special
+attacks: 1
+damage_attack: Special
 special_attacks: Mud-throwing, suffocation
 special_defenses: See below
 magic_resistance: Nil

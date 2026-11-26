@@ -24,8 +24,8 @@ hit_dice: 8+1
 health: 9-65
 thac0_original: 12
 to_hit: 8
-no_of_attacks: 1
-damage_per_attack: 1-2, 2-12, or by weapon
+attacks: 1
+damage_attack: 1-2, 2-12, or by weapon
 special_attacks: Charms, spells
 special_defenses: Silver or +1 weapons to hit
 magic_resistance: Special (see below)

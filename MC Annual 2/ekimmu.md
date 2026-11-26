@@ -23,8 +23,8 @@ movement: 12 or as host
 hit_dice: 8
 health: 8-64
 thac0_original: Nil or as host
-no_of_attacks: 1 or as host
-damage_per_attack: Nil or as host
+attacks: 1 or as host
+damage_attack: Nil or as host
 special_attacks: Possession
 special_defenses: Invisibility; immune to sleep, charm, hold, paralysis, cold-based spells and poison
 magic_resistance: Nil

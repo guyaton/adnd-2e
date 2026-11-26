@@ -24,8 +24,8 @@ hit_dice: 1+1 to 6+6
 health: 2-54
 thac0_original: '1+1, 2+2 HD: 19; 3+3 HD: 17; 4+4, 5+5 HD: 15; 6+6 HD: 13'
 to_hit: '1+1, 2+2 HD: 1; 3+3 HD: 3; 4+4, 5+5 HD: 5; 6+6 HD: 7'
-no_of_attacks: 1 (2)
-damage_per_attack: '1+1 to 3+3 HD: 2d4 (+1d8); 4+4 to 6+6 HD: 3d4 (+1d10)'
+attacks: 1 (2)
+damage_attack: '1+1 to 3+3 HD: 2d4 (+1d8); 4+4 to 6+6 HD: 3d4 (+1d10)'
 special_attacks: Nil (see below)
 special_defenses: Half damage from blunt weapons (unless +3 or above), +4 saving throw bonus against illusions and Elemental Water
 magic_resistance: Nil

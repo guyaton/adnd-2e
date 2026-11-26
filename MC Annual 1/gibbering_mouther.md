@@ -24,8 +24,8 @@ hit_dice: 4+3
 health: 7-35
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 6+
-damage_per_attack: 1 (x6) plus special
+attacks: 6+
+damage_attack: 1 (x6) plus special
 special_attacks: Gibbering, spit, bite
 special_defenses: Ground control
 magic_resistance: Nil

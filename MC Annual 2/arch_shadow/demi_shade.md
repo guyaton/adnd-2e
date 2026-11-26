@@ -24,8 +24,8 @@ movement: 9
 hit_dice: 11+
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1
-damage_per_attack: 2d4
+attacks: 1
+damage_attack: 2d4
 special_attacks: Spell use, energy drain
 special_defenses: +2 or better weapons to hit
 magic_resistance: Nil

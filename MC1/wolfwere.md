@@ -24,8 +24,8 @@ hit_dice: 5+1
 health: 6-41
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 or 2
-damage_per_attack: 2-12 and weapon
+attacks: 1 or 2
+damage_attack: 2-12 and weapon
 special_attacks: Singing brings on lethargy
 special_defenses: Iron or +1 or better weapon to hit
 magic_resistance: 10%

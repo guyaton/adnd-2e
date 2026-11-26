@@ -25,8 +25,8 @@ hit_dice: 9 or 12 (Matriarch)
 health: 9-72 or 12-96
 thac0_original: 8 (11) or 6 (9) (Matriarch)
 to_hit: 12 (9) or 14 (11) (Matriarch)
-no_of_attacks: 3
-damage_per_attack: 8-11/8-11/9-15
+attacks: 3
+damage_attack: 8-11/8-11/9-15
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 55%

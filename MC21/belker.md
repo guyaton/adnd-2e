@@ -24,8 +24,8 @@ hit_dice: 7+3
 health: 10-59
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3 or 2
-damage_per_attack: 1d3/1d3/1d4 or 1d6/1d6
+attacks: 3 or 2
+damage_attack: 1d3/1d3/1d4 or 1d6/1d6
 special_attacks: Noxious fumes
 special_defenses: Smoke form, immunities
 magic_resistance: 20% (40% in smoke form)

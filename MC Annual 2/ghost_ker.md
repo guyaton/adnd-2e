@@ -24,8 +24,8 @@ hit_dice: 9+9
 health: 18-81
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3
-damage_per_attack: 1d8
+attacks: 3
+damage_attack: 1d8
 special_attacks: Bad luck, aging, disease
 special_defenses: +1 or better weapon to hit
 magic_resistance: Nil

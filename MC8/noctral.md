@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 2-8/2-8/2-5
+attacks: 3
+damage_attack: 2-8/2-8/2-5
 special_attacks: Swoop
 special_defenses: Surprise
 magic_resistance: 30%

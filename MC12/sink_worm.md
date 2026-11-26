@@ -24,8 +24,8 @@ hit_dice: '14'
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1
-damage_per_attack: 2-24
+attacks: 1
+damage_attack: 2-24
 special_attacks: Swallow whole
 special_defenses: Phasing
 magic_resistance: Nil

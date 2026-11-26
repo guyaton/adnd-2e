@@ -24,8 +24,8 @@ hit_dice: 7+2
 health: 9-58
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1d4 (claw)/1d4 (claw)/1d6 (bite)
+attacks: 3
+damage_attack: 1d4 (claw)/1d4 (claw)/1d6 (bite)
 special_attacks: Numbing bite
 special_defenses: See below
 magic_resistance: Nil

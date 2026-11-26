@@ -24,8 +24,8 @@ hit_dice: 15+1
 health: 16-121
 thac0_original: 2 (5)
 to_hit: 18 (15)
-no_of_attacks: 1
-damage_per_attack: 1-10 +8
+attacks: 1
+damage_attack: 1-10 +8
 special_attacks: Throwing rocks, strength drain, fear
 special_defenses: See below
 magic_resistance: Nil

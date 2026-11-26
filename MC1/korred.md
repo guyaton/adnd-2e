@@ -24,8 +24,8 @@ hit_dice: 6+1
 health: 7-49
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 3-6 (1d2 + 4) or by weapon +4
+attacks: 1
+damage_attack: 3-6 (1d2 + 4) or by weapon +4
 special_attacks: Hurl rocks (2d8)
 special_defenses: Laugh
 magic_resistance: 25%

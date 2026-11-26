@@ -25,8 +25,8 @@ hit_dice: '11'
 health: 11-88
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 4
-damage_per_attack: 1-4/1-4/2-8/3-12 +4 (strength bonus)
+attacks: 4
+damage_attack: 1-4/1-4/2-8/3-12 +4 (strength bonus)
 special_attacks: Tail freeze, fear
 special_defenses: Regeneration, +2 or better weapons to hit
 magic_resistance: 50%

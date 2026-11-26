@@ -24,8 +24,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3 or 1
-damage_per_attack: 1-8/1-8/1-12 or 3-36 (3d12)
+attacks: 3 or 1
+damage_attack: 1-8/1-8/1-12 or 3-36 (3d12)
 special_attacks: Charge, flaming horn, cause fear, surprise
 special_defenses: Immune to poison, charm, hold and death spells, +1 or better weapons needed to hit, blink
 magic_resistance: Nil

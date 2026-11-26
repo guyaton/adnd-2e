@@ -24,8 +24,8 @@ hit_dice: 4 or 8+4
 health: 4-32 or 12-68
 thac0_original: 17 or 11
 to_hit: 3 or 9
-no_of_attacks: 2
-damage_per_attack: 2-8/2-8 (weapon) +7 (Strength bonus)
+attacks: 2
+damage_attack: 2-8/2-8 (weapon) +7 (Strength bonus)
 special_attacks: Spells, thief abilities
 special_defenses: See below
 magic_resistance: Nil

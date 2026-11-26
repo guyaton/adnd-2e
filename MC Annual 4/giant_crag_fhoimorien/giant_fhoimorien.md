@@ -25,8 +25,8 @@ hit_dice: 13+3
 health: 16-107
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1
-damage_per_attack: Weapon x2 or 2d4 (fist)
+attacks: 1
+damage_attack: Weapon x2 or 2d4 (fist)
 special_attacks: Hurl rocks; +8 melee damage; spells (warlocks)
 special_defenses: Surprised only on a 1; gaseous form
 magic_resistance: Nil

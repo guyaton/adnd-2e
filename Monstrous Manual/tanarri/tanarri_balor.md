@@ -25,8 +25,8 @@ hit_dice: '13'
 health: 13-104
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1 or 2
-damage_per_attack: By weapon or 2-12
+attacks: 1 or 2
+damage_attack: By weapon or 2-12
 special_attacks: Terror, body flames, death throes, explosion
 special_defenses: +3 or better weapons to hit
 magic_resistance: 70%

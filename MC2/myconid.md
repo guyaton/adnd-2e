@@ -24,8 +24,8 @@ hit_dice: 1-6
 health: 1-48
 thac0_original: '1-2 HD: 19; 3-4 HD: 17; 5-6 HD: 15'
 to_hit: '1-2 HD: 1; 3-4 HD: 3; 5-6 HD: 5'
-no_of_attacks: 1
-damage_per_attack: 1d4 x HD
+attacks: 1
+damage_attack: 1d4 x HD
 special_attacks: Spore Clouds
 special_defenses: Poisonous Skin
 magic_resistance: Nil

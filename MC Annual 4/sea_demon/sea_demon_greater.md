@@ -25,8 +25,8 @@ hit_dice: 16+16
 health: 32-144
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 11 (6 on land)
-damage_per_attack: 1d10x10/5d6
+attacks: 11 (6 on land)
+damage_attack: 1d10x10/5d6
 special_attacks: Constriction, whirlpool
 special_defenses: Ink
 magic_resistance: 30%

@@ -24,8 +24,8 @@ hit_dice: 4+2
 health: 6-34
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3 + (see below)
-damage_per_attack: 1-4/1-4/1-6
+attacks: 3 + (see below)
+damage_attack: 1-4/1-4/1-6
 special_attacks: Screech, rake
 special_defenses: Haste
 magic_resistance: Nil

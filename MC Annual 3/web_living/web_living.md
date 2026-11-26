@@ -25,8 +25,8 @@ hit_dice: 1/2 to 6
 health: 1-48
 thac0_original: 'to 2 HD: 19; 3-4 HD: 17; 5-6 HD: 15'
 to_hit: 'to 2 HD: 1; 3-4 HD: 3; 5-6 HD: 5'
-no_of_attacks: 1
-damage_per_attack: See below
+attacks: 1
+damage_attack: See below
 special_attacks: Lightning
 special_defenses: See below
 magic_resistance: Nil

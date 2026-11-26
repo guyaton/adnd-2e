@@ -24,8 +24,8 @@ hit_dice: 1 to 4
 health: 1-32
 thac0_original: '1-2 HD: 19; 3-4 HD: 17'
 to_hit: '1-2 HD: 1; 3-4 HD: 3'
-no_of_attacks: 1
-damage_per_attack: By weapon type
+attacks: 1
+damage_attack: By weapon type
 special_attacks: Nil
 special_defenses: Immune to water attacks
 magic_resistance: Nil

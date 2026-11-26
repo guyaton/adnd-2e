@@ -24,8 +24,8 @@ hit_dice: 14+1d4
 health: 15-116
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 1
-damage_per_attack: 1-10 or by weapon (10-20)
+attacks: 1
+damage_attack: 1-10 or by weapon (10-20)
 special_attacks: Hurling rocks for 3-30, or 1-3 hull points
 special_defenses: See below
 magic_resistance: Nil

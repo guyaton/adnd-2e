@@ -24,8 +24,8 @@ hit_dice: 12+12
 health: 24-108
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 4
-damage_per_attack: 1d6 + special (x4)
+attacks: 4
+damage_attack: 1d6 + special (x4)
 special_attacks: Spells, aboleth glyphs, frenzy, domination, tentacle toxin
 special_defenses: Spells, aboleth glyphs, slime, mucus cloud, detect invisible (75% chance within 60')
 magic_resistance: Nil

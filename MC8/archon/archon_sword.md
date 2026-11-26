@@ -25,8 +25,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 4
-damage_per_attack: 2-8/2-8/2-8/2-8
+attacks: 4
+damage_attack: 2-8/2-8/2-8/2-8
 special_attacks: Dive, spell use
 special_defenses: +2 or better weapons to hit, never surprised
 magic_resistance: 30%

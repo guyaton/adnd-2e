@@ -25,8 +25,8 @@ hit_dice: '15'
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2
-damage_per_attack: 2-16 +14/2-20 +14
+attacks: 2
+damage_attack: 2-16 +14/2-20 +14
 special_attacks: Psionics, hurl rocks or spears, bite
 special_defenses: Nil
 magic_resistance: Nil

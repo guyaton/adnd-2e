@@ -25,8 +25,8 @@ hit_dice: '6'
 health: 6-48
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 24 (1d6/target)
-damage_per_attack: 1d12 each (tentacle sting)
+attacks: 24 (1d6/target)
+damage_attack: 1d12 each (tentacle sting)
 special_attacks: Poison
 special_defenses: Nil
 magic_resistance: 10%

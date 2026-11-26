@@ -17,8 +17,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 4
-damage_per_attack: 1-10 (x4)
+attacks: 4
+damage_attack: 1-10 (x4)
 morale: Elite (16)
 xp_value: 6,000
 ```

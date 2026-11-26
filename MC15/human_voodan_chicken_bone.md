@@ -24,8 +24,8 @@ hit_dice: 1 (3 hp)
 health: 3
 thac0_original: See below
 to_hit: See below
-no_of_attacks: 1
-damage_per_attack: 1-2 (1d2)
+attacks: 1
+damage_attack: 1-2 (1d2)
 special_attacks: Voodan rituals
 special_defenses: Voodan rituals
 magic_resistance: Nil

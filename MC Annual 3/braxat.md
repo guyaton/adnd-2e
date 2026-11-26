@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: By weapon +6
+attacks: 1
+damage_attack: By weapon +6
 special_attacks: Psionics, breath weapon
 special_defenses: Psionics, hit only by magical or metal weapons
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 2d8/2d8
+attacks: 2
+damage_attack: 2d8/2d8
 special_attacks: Nil
 special_defenses: Immune to cold
 magic_resistance: Nil

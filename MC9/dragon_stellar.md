@@ -24,8 +24,8 @@ hit_dice: '50'
 health: 50-400
 thac0_original: 5
 to_hit: 15
-no_of_attacks: Special
-damage_per_attack: Variable
+attacks: Special
+damage_attack: Variable
 special_attacks: Special
 special_defenses: Variable
 magic_resistance: Variable

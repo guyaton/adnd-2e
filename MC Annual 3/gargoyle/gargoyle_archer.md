@@ -25,8 +25,8 @@ hit_dice: 4+5
 health: 9-37
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1d10
+attacks: 1
+damage_attack: 1d10
 special_attacks: Nil
 special_defenses: +1 or better magical weapon to hit, camouflage
 magic_resistance: Nil

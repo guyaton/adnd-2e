@@ -25,8 +25,8 @@ hit_dice: 6-8
 health: 6-64
 thac0_original: '6 HD: 15; 7-8 HD: 13'
 to_hit: '6 HD: 5; 7-8 HD: 7'
-no_of_attacks: 3
-damage_per_attack: 1-8/1-8/2-5
+attacks: 3
+damage_attack: 1-8/1-8/2-5
 special_attacks: Grab, disease
 special_defenses: Never surprised
 magic_resistance: Nil

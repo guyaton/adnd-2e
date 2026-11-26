@@ -24,8 +24,8 @@ hit_dice: N/A
 health: N/A
 thac0_original: N/A
 to_hit: N/A
-no_of_attacks: N/A
-damage_per_attack: N/A
+attacks: N/A
+damage_attack: N/A
 special_attacks: Induce violence, aid attacks
 special_defenses: Invisibility, immunities
 magic_resistance: Nil

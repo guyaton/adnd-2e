@@ -25,8 +25,8 @@ hit_dice: 3-6
 health: 3-48
 thac0_original: '3-4 HD: 17; 5-6 HD: 15'
 to_hit: '3-4 HD: 3; 5-6 HD: 5'
-no_of_attacks: 1
-damage_per_attack: '1'
+attacks: 1
+damage_attack: '1'
 special_attacks: Fear aura
 special_defenses: See below
 magic_resistance: Nil 25%

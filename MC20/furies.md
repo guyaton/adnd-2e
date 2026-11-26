@@ -24,8 +24,8 @@ hit_dice: '7'
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1-4/1-4/1-6; rake 1-4/1-4
+attacks: 3
+damage_attack: 1-4/1-4/1-6; rake 1-4/1-4
 special_attacks: Attribute drain
 special_defenses: See below
 magic_resistance: Nil

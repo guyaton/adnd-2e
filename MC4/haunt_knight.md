@@ -24,8 +24,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 1-8/1-8
+attacks: 2
+damage_attack: 1-8/1-8
 special_attacks: Horror
 special_defenses: Cannot be turned by LG clerics
 magic_resistance: 10%

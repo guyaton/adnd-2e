@@ -25,8 +25,8 @@ hit_dice: As host+1d4 hp or 2+1, whichever is greater
 health: See below
 thac0_original: As host or 19
 to_hit: As host or 1
-no_of_attacks: 3 or 2
-damage_per_attack: 1d4 (claw)/1d4 (claw)/1d6 (bite) or 1d6 (bite)/by weapon
+attacks: 3 or 2
+damage_attack: 1d4 (claw)/1d4 (claw)/1d6 (bite) or 1d6 (bite)/by weapon
 special_attacks: Hivemind powers
 special_defenses: Immune to vision-affecting spells
 magic_resistance: Nil

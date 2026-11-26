@@ -25,8 +25,8 @@ hit_dice: 9-12
 health: 9-96
 thac0_original: '9-10 HD: 11; 11-12 HD: 9'
 to_hit: '9-10 HD: 9; 11-12 HD: 11'
-no_of_attacks: 1
-damage_per_attack: 2-16
+attacks: 1
+damage_attack: 2-16
 special_attacks: Whirlwind lightning
 special_defenses: +2 or better weapon to hit; see below
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 12
-damage_per_attack: 1d4+1 (x3 heads)/1d2 or by weapon type (x9, three trihands)
+attacks: 12
+damage_attack: 1d4+1 (x3 heads)/1d2 or by weapon type (x9, three trihands)
 special_attacks: Ethereal portal attacks
 special_defenses: Regeneration
 magic_resistance: 30%

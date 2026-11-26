@@ -24,8 +24,8 @@ hit_dice: 6 or animal type's HD +3 HD (whichever higher)
 health: 6-48 or more
 thac0_original: 15 (or better)
 to_hit: 5 (or better)
-no_of_attacks: Per animal
-damage_per_attack: Per animal +2 (see below)
+attacks: Per animal
+damage_attack: Per animal +2 (see below)
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 25%

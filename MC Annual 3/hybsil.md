@@ -24,8 +24,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: By weapon
+attacks: 1
+damage_attack: By weapon
 special_attacks: Sleep arrows
 special_defenses: +4 to all saving throws, immune to poison, limited thief abilities in forest terrain, continual light, ventriloquism, pass without trace
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 8 (64 hit points)
 health: 64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 3d10
+attacks: 1
+damage_attack: 3d10
 special_attacks: Absorbs magic, magical flare
 special_defenses: Immune to most magic
 magic_resistance: 100%

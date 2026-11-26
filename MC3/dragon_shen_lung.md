@@ -24,8 +24,8 @@ hit_dice: 14 (base)
 health: 14-112
 thac0_original: 7
 to_hit: 13
-no_of_attacks: 4+special
-damage_per_attack: 1-8/1-8/2-24/1-10
+attacks: 4+special
+damage_attack: 1-8/1-8/2-24/1-10
 special_attacks: Snatch, tail slap, kick, and magical abilities
 special_defenses: Variable
 magic_resistance: Variable

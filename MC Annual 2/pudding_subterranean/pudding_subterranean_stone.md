@@ -24,8 +24,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1
-damage_per_attack: 3d6
+attacks: 1
+damage_attack: 3d6
 special_attacks: Moves on ceilings
 special_defenses: See below
 magic_resistance: 30%

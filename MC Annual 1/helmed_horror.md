@@ -23,8 +23,8 @@ movement: 12, Fl 12 (E)
 hit_dice: 4+1 per level of the creator
 thac0_original: 12
 to_hit: 8
-no_of_attacks: 1
-damage_per_attack: 1d4 or by weapon
+attacks: 1
+damage_attack: 1d4 or by weapon
 special_attacks: Nil
 special_defenses: See below
 magic_resistance: Special

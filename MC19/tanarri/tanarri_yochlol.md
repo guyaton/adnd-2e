@@ -25,8 +25,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 8 (1 as spider or humanoid)
-damage_per_attack: 1d4+4 (x8); 1d8 as spider; by weapon +4 as humanoid
+attacks: 8 (1 as spider or humanoid)
+damage_attack: 1d4+4 (x8); 1d8 as spider; by weapon +4 as humanoid
 special_attacks: Poison (spider), psionics
 special_defenses: Struck only by +2 or better weapons
 magic_resistance: 50%

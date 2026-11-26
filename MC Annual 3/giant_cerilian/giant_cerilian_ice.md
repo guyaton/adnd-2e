@@ -25,8 +25,8 @@ hit_dice: 15+7 hp
 health: 22-127
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 1d12 or 2d10+9
+attacks: 1
+damage_attack: 1d12 or 2d10+9
 special_attacks: Cold magic
 special_defenses: Immune to cold
 magic_resistance: Nil

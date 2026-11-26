@@ -24,8 +24,8 @@ hit_dice: 1+4
 health: 5-12
 thac0_original: 19 (15 if springing)
 to_hit: 1 (5 if springing)
-no_of_attacks: 3
-damage_per_attack: 1-2/1 (x2)
+attacks: 3
+damage_attack: 1-2/1 (x2)
 special_attacks: Venom
 special_defenses: Nil
 magic_resistance: Nil

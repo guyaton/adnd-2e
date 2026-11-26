@@ -25,8 +25,8 @@ hit_dice: 2
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1d8
+attacks: 1
+damage_attack: 1d8
 special_attacks: Acid
 special_defenses: Foul smell
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 75-150 hit points (120 hp)
 health: 75-150 (120)
 thac0_original: 5
 to_hit: 15
-no_of_attacks: Per prime-material monster (3)
-damage_per_attack: Varies (4d6/4d6/2d10)
+attacks: Per prime-material monster (3)
+damage_attack: Varies (4d6/4d6/2d10)
 special_attacks: Varies (roar)
 special_defenses: Varies
 magic_resistance: Special (80%)

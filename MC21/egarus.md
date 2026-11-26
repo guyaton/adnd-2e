@@ -24,8 +24,8 @@ hit_dice: N/A
 health: N/A
 thac0_original: N/A
 to_hit: N/A
-no_of_attacks: 0
-damage_per_attack: 0
+attacks: 0
+damage_attack: 0
 special_attacks: Disintegration
 special_defenses: Teleportation, immune to cold, fire, physical attacks, most spells
 magic_resistance: 25%

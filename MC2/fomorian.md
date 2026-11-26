@@ -24,8 +24,8 @@ hit_dice: 13+3
 health: 16-107
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 1
-damage_per_attack: 2 x weapon, +8 (Str bonus)
+attacks: 1
+damage_attack: 2 x weapon, +8 (Str bonus)
 special_attacks: Surprise
 special_defenses: Only surprised on a 1
 magic_resistance: Nil

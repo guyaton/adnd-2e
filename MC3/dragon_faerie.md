@@ -24,8 +24,8 @@ hit_dice: See below (1-16 hit points by age)
 health: 1-16 (by age)
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1
-damage_per_attack: 1-2
+attacks: 1
+damage_attack: 1-2
 special_attacks: Breath weapon, spells
 special_defenses: Invisibility
 magic_resistance: See below

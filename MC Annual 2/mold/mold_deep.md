@@ -24,8 +24,8 @@ hit_dice: n/a
 health: n/a
 thac0_original: n/a
 to_hit: n/a
-no_of_attacks: 1
-damage_per_attack: Special
+attacks: 1
+damage_attack: Special
 special_attacks: Spores, Strength loss
 special_defenses: See below
 magic_resistance: 20%

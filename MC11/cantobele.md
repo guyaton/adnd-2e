@@ -24,8 +24,8 @@ hit_dice: 2 to 4
 health: 2-32
 thac0_original: '2 HD: 19; 3 HD: 18; 4 HD: 17'
 to_hit: '2 HD: 1; 3 HD: 2; 4 HD: 3'
-no_of_attacks: 8
-damage_per_attack: See below
+attacks: 8
+damage_attack: See below
 special_attacks: Spell use
 special_defenses: Immune to cold
 magic_resistance: Nil

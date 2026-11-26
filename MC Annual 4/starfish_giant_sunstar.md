@@ -24,8 +24,8 @@ hit_dice: 10 (or 12)
 health: 10-80 (or 12-96)
 thac0_original: 11 (or 9)
 to_hit: 9 (or 11)
-no_of_attacks: 1-10 (or 1-12)
-damage_per_attack: 1d10 per arm + special
+attacks: 1-10 (or 1-12)
+damage_attack: 1d10 per arm + special
 special_attacks: Ship damage, see table
 special_defenses: Half damage from blunt weapons
 magic_resistance: Nil

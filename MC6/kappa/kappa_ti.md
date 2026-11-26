@@ -25,8 +25,8 @@ hit_dice: '8'
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 2
-damage_per_attack: 10-20/10-20
+attacks: 2
+damage_attack: 10-20/10-20
 special_attacks: Nil
 special_defenses: Regeneration, camouflage
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 10
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 3 to 8
-damage_per_attack: 1d2+4 each or by weapon +4
+attacks: 3 to 8
+damage_attack: 1d2+4 each or by weapon +4
 special_attacks: Constriction
 special_defenses: Immune to charms, mental attacks, and psionics
 magic_resistance: Nil

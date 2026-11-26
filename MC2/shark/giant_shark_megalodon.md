@@ -25,8 +25,8 @@ hit_dice: 10-15
 health: 10-120
 thac0_original: '10 HD: 11; 11-12 HD: 9; 13-14 HD: 7; 15 HD: 5'
 to_hit: '10 HD: 11; 11-12 HD: 9; 13-14 HD: 7; 15 HD: 5'
-no_of_attacks: 1
-damage_per_attack: 4-16, 5-20, or 6-24
+attacks: 1
+damage_attack: 4-16, 5-20, or 6-24
 special_attacks: Swallows whole
 special_defenses: Nil
 magic_resistance: Nil

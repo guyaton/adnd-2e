@@ -24,8 +24,8 @@ hit_dice: '10'
 health: 10-80
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: 3-18/3-18
+attacks: 2
+damage_attack: 3-18/3-18
 special_attacks: Impalement
 special_defenses: See below
 magic_resistance: See below

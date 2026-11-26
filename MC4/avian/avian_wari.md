@@ -24,8 +24,8 @@ hit_dice: '3'
 health: 3-24
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2 or 1
-damage_per_attack: 1-2/1-4 or 3-12
+attacks: 2 or 1
+damage_attack: 1-2/1-4 or 3-12
 special_attacks: Trample
 special_defenses: Nil
 magic_resistance: Nil

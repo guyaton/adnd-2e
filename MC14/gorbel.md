@@ -24,8 +24,8 @@ hit_dice: '2'
 health: 2-16
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1
-damage_per_attack: 1-4 or 1-6
+attacks: 1
+damage_attack: 1-4 or 1-6
 special_attacks: Explosion
 special_defenses: Immune to blunt weapons
 magic_resistance: Nil

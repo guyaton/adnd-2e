@@ -24,8 +24,8 @@ hit_dice: 15+3
 health: 18-123
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 1-8 or by weapon (4d10+10)
+attacks: 1
+damage_attack: 1-8 or by weapon (4d10+10)
 special_attacks: Hurling rocks for 2-20
 special_defenses: Nil
 magic_resistance: Nil

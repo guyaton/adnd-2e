@@ -24,8 +24,8 @@ hit_dice: 20 (144 hp)
 health: 144
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2
-damage_per_attack: 2-12/2-12
+attacks: 2
+damage_attack: 2-12/2-12
 special_attacks: Dive attack, spell use
 special_defenses: Spell use, regeneration, +3 or better weapons to hit
 magic_resistance: 70%

@@ -24,8 +24,8 @@ hit_dice: '9'
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 5
-damage_per_attack: 1d4/1d4/2d8/1d6/1d6
+attacks: 5
+damage_attack: 1d4/1d4/2d8/1d6/1d6
 special_attacks: Rage
 special_defenses: Immunities
 magic_resistance: 30%

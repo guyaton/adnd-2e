@@ -24,8 +24,8 @@ hit_dice: 8+4
 health: 12-68
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 4
-damage_per_attack: Special
+attacks: 4
+damage_attack: Special
 special_attacks: Mind blast
 special_defenses: Nil
 magic_resistance: 90%

@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 and 1
-damage_per_attack: 2d6/2d6 and by weapon type
+attacks: 2 and 1
+damage_attack: 2d6/2d6 and by weapon type
 special_attacks: Spark bolts, crushing hooves
 special_defenses: Immune to poison, cold, and electricity; hit only by +2 or better magical weapons
 magic_resistance: Nil

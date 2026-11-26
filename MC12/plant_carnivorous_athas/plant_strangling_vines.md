@@ -25,8 +25,8 @@ hit_dice: 1-5 (see below)
 health: 1-40
 thac0_original: 19, 17, or 15
 to_hit: 1, 3, or 5
-no_of_attacks: 1
-damage_per_attack: 1d10
+attacks: 1
+damage_attack: 1d10
 special_attacks: Strangulation
 special_defenses: See below
 magic_resistance: Nil

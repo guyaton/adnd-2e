@@ -24,8 +24,8 @@ hit_dice: 6-8
 health: 6-64
 thac0_original: '6 HD: 15; 7-8 HD: 13'
 to_hit: '6 HD: 5; 7-8 HD: 7'
-no_of_attacks: 1
-damage_per_attack: See below
+attacks: 1
+damage_attack: See below
 special_attacks: See below
 special_defenses: Immune to heat, flame
 magic_resistance: Nil

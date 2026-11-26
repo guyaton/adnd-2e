@@ -25,8 +25,8 @@ hit_dice: 2 to 12
 health: 2-96
 thac0_original: As ranger
 to_hit: As ranger
-no_of_attacks: As swan or ranger
-damage_per_attack: As swan or by weapon
+attacks: As swan or ranger
+damage_attack: As swan or by weapon
 special_attacks: See below
 special_defenses: See below
 magic_resistance: 2% per HD

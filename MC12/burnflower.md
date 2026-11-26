@@ -24,8 +24,8 @@ hit_dice: 1 per patch
 health: 1-8 per patch
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 1 per flower
-damage_per_attack: See below
+attacks: 1 per flower
+damage_attack: See below
 special_attacks: Heat ray
 special_defenses: Nil
 magic_resistance: Nil

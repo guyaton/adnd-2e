@@ -24,8 +24,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1-6/1-6/2-12
+attacks: 3
+damage_attack: 1-6/1-6/2-12
 special_attacks: Leap, rear claws (2-8 each)
 special_defenses: Hit only by silver or +1 or better weapon, -2 on surprise rolls
 magic_resistance: Standard

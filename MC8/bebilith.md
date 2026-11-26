@@ -24,8 +24,8 @@ hit_dice: '12'
 health: 12-96
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 2-8/2-8/2-12
+attacks: 3
+damage_attack: 2-8/2-8/2-12
 special_attacks: Armor destruction, poison
 special_defenses: Webs, protection magic, +2 or better weapons to hit
 magic_resistance: 50%

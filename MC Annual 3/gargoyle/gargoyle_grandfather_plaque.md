@@ -23,8 +23,8 @@ movement: 0
 hit_dice: 6+2
 health: 8-50
 thac0_original: Nil
-no_of_attacks: Nil
-damage_per_attack: Nil
+attacks: Nil
+damage_attack: Nil
 special_attacks: Magic missile, shout, weakness
 special_defenses: +1 or better magical weapon to hit
 magic_resistance: Nil

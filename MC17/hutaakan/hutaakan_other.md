@@ -25,8 +25,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1d4 (club)
+attacks: 1
+damage_attack: 1d4 (club)
 special_attacks: Nil
 special_defenses: Move silently (20%)
 magic_resistance: Nil

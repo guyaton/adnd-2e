@@ -25,8 +25,8 @@ hit_dice: '25'
 health: 25-200
 thac0_original: 4
 to_hit: 16
-no_of_attacks: 2
-damage_per_attack: 2d10 (bite)/2d4 (sting)
+attacks: 2
+damage_attack: 2d10 (bite)/2d4 (sting)
 special_attacks: Surprise; see below
 special_defenses: See below
 magic_resistance: Nil

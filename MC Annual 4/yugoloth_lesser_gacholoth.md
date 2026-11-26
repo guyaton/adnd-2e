@@ -24,8 +24,8 @@ hit_dice: 9+9
 health: 18-81
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2 claws or 1 bite
-damage_per_attack: 2d6/2d6 or 1d10
+attacks: 2 claws or 1 bite
+damage_attack: 2d6/2d6 or 1d10
 special_attacks: Acid touch, shock
 special_defenses: +1 or better weapon to hit
 magic_resistance: 40%

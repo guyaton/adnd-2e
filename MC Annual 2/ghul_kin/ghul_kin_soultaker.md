@@ -25,7 +25,7 @@ hit_dice: 8
 health: 8-64
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3 or 1
+attacks: 3 or 1
 special_attacks: Possession
 special_defenses: Immune to non-wooden weapons
 magic_resistance: Nil

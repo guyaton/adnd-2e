@@ -19,8 +19,8 @@ hit_dice: 5+1
 health: 6-41
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 2
-damage_per_attack: 1-3/2-7
+attacks: 2
+damage_attack: 1-3/2-7
 special_attacks: Gaze and constrict
 special_defenses: Nil
 size: L

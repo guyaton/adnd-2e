@@ -25,8 +25,8 @@ hit_dice: 16+
 health: 16-128+
 thac0_original: 10
 to_hit: 10
-no_of_attacks: 1 or multiple
-damage_per_attack: 1-8 hull points or 2-20
+attacks: 1 or multiple
+damage_attack: 1-8 hull points or 2-20
 special_attacks: Acid
 special_defenses: See below
 magic_resistance: 10%

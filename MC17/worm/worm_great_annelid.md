@@ -24,8 +24,8 @@ hit_dice: 25-50
 health: 25-400
 thac0_original: 3
 to_hit: 17
-no_of_attacks: 1
-damage_per_attack: 3d6 (bite)
+attacks: 1
+damage_attack: 3d6 (bite)
 special_attacks: Swallow
 special_defenses: Immune to heat and pressure
 magic_resistance: Nil

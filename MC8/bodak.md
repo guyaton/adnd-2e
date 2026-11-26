@@ -24,8 +24,8 @@ hit_dice: 9+9
 health: 18-81
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: By weapon
+attacks: 1
+damage_attack: By weapon
 special_attacks: Death gaze
 special_defenses: +1 or better weapons to hit, spell immunity, immune to poison
 magic_resistance: Nil

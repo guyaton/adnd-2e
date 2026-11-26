@@ -25,8 +25,8 @@ hit_dice: '16'
 health: 16-128
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1
-damage_per_attack: 1d12 (branch)
+attacks: 1
+damage_attack: 1d12 (branch)
 special_attacks: Poison touch, spells, charm, energy drain
 special_defenses: Animate dead, immune to some spells
 magic_resistance: Nil

@@ -16,8 +16,8 @@ hit_dice: 8
 health: 8-64
 thac0_original: 12
 to_hit: 8
-no_of_attacks: 1
-damage_per_attack: 2d6 or 3d6
+attacks: 1
+damage_attack: 2d6 or 3d6
 special_attacks: Special
 morale: Average (8-10)
 xp_value: 975

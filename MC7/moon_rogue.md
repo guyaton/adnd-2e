@@ -24,8 +24,8 @@ hit_dice: '15'
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1, Special
-damage_per_attack: 1-10, Special
+attacks: 1, Special
+damage_attack: 1-10, Special
 special_attacks: Paralyzing spines
 special_defenses: Nil
 magic_resistance: Nil

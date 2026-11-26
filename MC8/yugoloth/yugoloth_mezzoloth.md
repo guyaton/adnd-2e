@@ -25,8 +25,8 @@ hit_dice: 10+20
 health: 30-100
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 or 1
-damage_per_attack: 7-12/7-12 +7 (strength bonus)
+attacks: 2 or 1
+damage_attack: 7-12/7-12 +7 (strength bonus)
 special_attacks: Magical items
 special_defenses: +1 or better weapons to hit
 magic_resistance: 50%

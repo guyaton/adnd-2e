@@ -25,8 +25,8 @@ hit_dice: '20'
 health: 20-160
 thac0_original: 3
 to_hit: 17
-no_of_attacks: 3
-damage_per_attack: 2d6 (claw)/2d6 (claw)/1d20+10 (bite)
+attacks: 3
+damage_attack: 2d6 (claw)/2d6 (claw)/1d20+10 (bite)
 special_attacks: Breath weapon
 special_defenses: See below
 magic_resistance: Nil

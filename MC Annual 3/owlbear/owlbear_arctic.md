@@ -25,8 +25,8 @@ hit_dice: 8+2
 health: 10-66
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 3
-damage_per_attack: 1d10/1d10/2d6
+attacks: 3
+damage_attack: 1d10/1d10/2d6
 special_attacks: Hug, surprise
 special_defenses: Immune to cold
 magic_resistance: Nil

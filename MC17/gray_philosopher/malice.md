@@ -25,8 +25,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 1d10, 1d8, or 1d6 (bite)
+attacks: 1
+damage_attack: 1d10, 1d8, or 1d6 (bite)
 special_attacks: Attack as 9 HD creature
 special_defenses: See below
 magic_resistance: Nil

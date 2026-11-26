@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2
-damage_per_attack: 1d10/1d10
+attacks: 2
+damage_attack: 1d10/1d10
 special_attacks: Envelopment, smash
 special_defenses: Block
 magic_resistance: 25% or 50%

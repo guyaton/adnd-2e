@@ -25,8 +25,8 @@ hit_dice: 17+5
 health: 22-141
 thac0_original: 3
 to_hit: 17
-no_of_attacks: 6
-damage_per_attack: 2d6+6 (x4)/5d8/4d4
+attacks: 6
+damage_attack: 2d6+6 (x4)/5d8/4d4
 special_attacks: Suffocation, dehydration, swallow
 special_defenses: Nil
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: See below
 health: See below
 thac0_original: 17, 15, or 13
 to_hit: 3, 5, or 7
-no_of_attacks: 1
-damage_per_attack: See below
+attacks: 1
+damage_attack: See below
 special_attacks: Olive slime
 special_defenses: See below
 magic_resistance: See below

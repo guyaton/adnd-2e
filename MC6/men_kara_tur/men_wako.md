@@ -25,8 +25,8 @@ hit_dice: 1 (2-7 hit points)
 health: 2-7
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1 (at +2)
-damage_per_attack: By weapon +1
+attacks: 1 (at +2)
+damage_attack: By weapon +1
 special_attacks: Nil
 special_defenses: Nil
 size: M

@@ -16,8 +16,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 (2)
-damage_per_attack: 4d4 (1d4/1d4)
+attacks: 1 (2)
+damage_attack: 4d4 (1d4/1d4)
 special_attacks: Nil
 morale: Average (8-10)
 xp_value: 175

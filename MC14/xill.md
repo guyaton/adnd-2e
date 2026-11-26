@@ -24,8 +24,8 @@ hit_dice: '5'
 health: 5-40
 thac0_original: 12 (10 with missiles)
 to_hit: 8 (10 with missiles)
-no_of_attacks: 4
-damage_per_attack: 1-4/1-4/1-4/1-4 or by weapon type
+attacks: 4
+damage_attack: 1-4/1-4/1-4/1-4 or by weapon type
 special_attacks: Paralysis, subdual, see below
 special_defenses: Etherealness, see below
 magic_resistance: 70% (but see below)

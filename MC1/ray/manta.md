@@ -24,8 +24,8 @@ hit_dice: 8-11
 health: 8-88
 thac0_original: 13 (8 HD); 11 (9-10 HD); 9 (11 HD)
 to_hit: 7 (8 HD), 11 (9-10 HD), 9(11 HD)
-no_of_attacks: 1 tail or 1 bite
-damage_per_attack: 3-12 (bite) or 2-20 (sting)
+attacks: 1 tail or 1 bite
+damage_attack: 3-12 (bite) or 2-20 (sting)
 special_attacks: See below
 special_defenses: Nil
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 + special
-damage_per_attack: 1d3/1d4+1
+attacks: 2 + special
+damage_attack: 1d3/1d4+1
 special_attacks: Fire jet
 special_defenses: Immune to heat, half damage from edged weapons, immune to mind control
 magic_resistance: 10%

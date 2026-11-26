@@ -25,8 +25,8 @@ hit_dice: 9+3
 health: 12-75
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 2
-damage_per_attack: 1d4+4/1d4+4
+attacks: 2
+damage_attack: 1d4+4/1d4+4
 special_attacks: Energy drain, hold victim
 special_defenses: Invisibility; +1 weapon to hit; immune to hold, sleep, charm; see below
 magic_resistance: Nil

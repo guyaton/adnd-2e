@@ -25,8 +25,8 @@ hit_dice: '16'
 health: 16-128
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 1-4
-damage_per_attack: 2-12/2-12/2-12/2-12
+attacks: 1-4
+damage_attack: 2-12/2-12/2-12/2-12
 special_attacks: Emotion control
 special_defenses: Invisibility
 magic_resistance: 40%

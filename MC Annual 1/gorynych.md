@@ -24,8 +24,8 @@ hit_dice: 9
 health: 9-72
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 5
-damage_per_attack: 1d8 (x2)/1d12 (x3)
+attacks: 5
+damage_attack: 1d8 (x2)/1d12 (x3)
 special_attacks: Tail capture, "wishboning"
 special_defenses: Difficult to surprise
 magic_resistance: Nil

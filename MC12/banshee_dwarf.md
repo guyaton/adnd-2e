@@ -24,8 +24,8 @@ hit_dice: As in life
 health: As in life
 thac0_original: As in life
 to_hit: As in life
-no_of_attacks: As in life
-damage_per_attack: 11-12 (1d2+10) punch or by weapon +10
+attacks: As in life
+damage_attack: 11-12 (1d2+10) punch or by weapon +10
 special_attacks: Gaze, malediction, and psionic
 special_defenses: Steel, or +1 or better weapon to hit
 magic_resistance: See below

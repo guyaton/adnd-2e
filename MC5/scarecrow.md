@@ -24,8 +24,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 + gaze
-damage_per_attack: 1-6 + charm
+attacks: 1 + gaze
+damage_attack: 1-6 + charm
 special_attacks: Charm (see below)
 special_defenses: See below
 magic_resistance: Nil

@@ -24,8 +24,8 @@ hit_dice: 7+4
 health: 11-60
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 1
-damage_per_attack: 2d4
+attacks: 1
+damage_attack: 2d4
 special_attacks: Poison, web
 special_defenses: Chameleon ability in web
 magic_resistance: 15%

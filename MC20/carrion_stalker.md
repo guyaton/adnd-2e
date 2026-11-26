@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 1 or 1d4+5
-damage_per_attack: 1d6 or special
+attacks: 1 or 1d4+5
+damage_attack: 1d6 or special
 special_attacks: Paralysis, spawning
 special_defenses: Nil
 magic_resistance: Nil

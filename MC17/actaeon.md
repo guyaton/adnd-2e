@@ -24,8 +24,8 @@ hit_dice: '11'
 health: 11-88
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 3
-damage_per_attack: 1d6+6 (spear)/1d6+6 (spear)/2d8 (antlers)
+attacks: 3
+damage_attack: 1d6+6 (spear)/1d6+6 (spear)/2d8 (antlers)
 special_attacks: Polymorph breath, summoning
 special_defenses: Camouflage
 magic_resistance: Nil

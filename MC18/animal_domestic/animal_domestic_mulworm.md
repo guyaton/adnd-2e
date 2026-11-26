@@ -25,8 +25,8 @@ hit_dice: 1 point
 health: 1
 thac0_original: N/A
 to_hit: N/A
-no_of_attacks: Nil
-damage_per_attack: N/A
+attacks: Nil
+damage_attack: N/A
 special_attacks: Poison
 special_defenses: Nil
 magic_resistance: Nil

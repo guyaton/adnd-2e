@@ -25,8 +25,8 @@ hit_dice: 7
 health: 7-56
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 24
-damage_per_attack: 1-2 per tentacle
+attacks: 24
+damage_attack: 1-2 per tentacle
 special_attacks: Paralyzation
 special_defenses: Sharp spines
 magic_resistance: Nil

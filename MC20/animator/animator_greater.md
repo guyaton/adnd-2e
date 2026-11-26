@@ -25,8 +25,8 @@ hit_dice: Varies
 health: Varies
 thac0_original: Varies
 to_hit: Varies
-no_of_attacks: 1
-damage_per_attack: 1d12
+attacks: 1
+damage_attack: 1d12
 special_attacks: Spell ability
 special_defenses: Spell immunity
 magic_resistance: Nil

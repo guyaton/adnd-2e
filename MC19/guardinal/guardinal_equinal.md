@@ -25,8 +25,8 @@ hit_dice: 6+3
 health: 9-51
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 2 hoof-strikes
-damage_per_attack: 1d8+8/1d8+8
+attacks: 2 hoof-strikes
+damage_attack: 1d8+8/1d8+8
 special_attacks: Whinny
 special_defenses: None
 magic_resistance: 25%

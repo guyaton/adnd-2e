@@ -24,8 +24,8 @@ hit_dice: 5+5
 health: 10-45
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 1 and 1
-damage_per_attack: 3d6 and 1d3
+attacks: 1 and 1
+damage_attack: 3d6 and 1d3
 special_attacks: Charge
 special_defenses: +2 on saves vs. mind-affecting or emotion-based spells; continue fighting until reduced to -10 hp
 magic_resistance: None

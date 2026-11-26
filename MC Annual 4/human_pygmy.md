@@ -24,8 +24,8 @@ hit_dice: '1'
 health: 1-8
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: By weapon
+attacks: 1
+damage_attack: By weapon
 special_attacks: Surprise, poison, missiles +2
 special_defenses: Camouflage
 magic_resistance: Nil

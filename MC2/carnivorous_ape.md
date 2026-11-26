@@ -24,8 +24,8 @@ hit_dice: 5
 health: 5-40
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3
-damage_per_attack: 1-4/1-4/1-8
+attacks: 3
+damage_attack: 1-4/1-4/1-8
 special_attacks: Rending
 special_defenses: +2 bonus to surprise roll
 magic_resistance: Nil

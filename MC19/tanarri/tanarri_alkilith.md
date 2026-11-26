@@ -25,8 +25,8 @@ hit_dice: '11'
 health: 11-88
 thac0_original: 9
 to_hit: 11
-no_of_attacks: 4
-damage_per_attack: 2d4/2d4/2d4/2d4
+attacks: 4
+damage_attack: 2d4/2d4/2d4/2d4
 special_attacks: Acid, poison
 special_defenses: 1/2 damage from Type S or B weapons; struck only by +2 or better weapons
 magic_resistance: 40%

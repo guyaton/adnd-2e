@@ -24,8 +24,8 @@ hit_dice: 4 or more (d10)
 health: 4-40 or more
 thac0_original: 19
 to_hit: 1
-no_of_attacks: 2
-damage_per_attack: 1d8 (weapon) or 1d6 (unarmed)
+attacks: 2
+damage_attack: 1d8 (weapon) or 1d6 (unarmed)
 special_attacks: High Strength and Dexterity (possible), specialization
 special_defenses: Constitution (possible)
 magic_resistance: Nil

@@ -25,8 +25,8 @@ hit_dice: 6+6
 health: 12-54
 thac0_original: 13
 to_hit: 7
-no_of_attacks: 4
-damage_per_attack: 1-4/1-4/1-4/1-4
+attacks: 4
+damage_attack: 1-4/1-4/1-4/1-4
 special_attacks: Psionics, stalking
 special_defenses: +3 weapon needed to hit; see below
 magic_resistance: Nil (see below)

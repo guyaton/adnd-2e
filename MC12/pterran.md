@@ -24,8 +24,8 @@ hit_dice: '4'
 health: 4-32
 thac0_original: 17
 to_hit: 3
-no_of_attacks: 3 or 1
-damage_per_attack: 1-4/1-4/1-6 (or by weapon)
+attacks: 3 or 1
+damage_attack: 1-4/1-4/1-6 (or by weapon)
 special_attacks: Psionics
 special_defenses: Nil
 magic_resistance: Nil

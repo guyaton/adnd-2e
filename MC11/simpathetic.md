@@ -24,8 +24,8 @@ hit_dice: 4 hp
 health: 4
 thac0_original: 20
 to_hit: 0
-no_of_attacks: 1
-damage_per_attack: 1-4
+attacks: 1
+damage_attack: 1-4
 special_attacks: Alignment alteration
 special_defenses: Immune to fire-based attacks
 magic_resistance: 90%

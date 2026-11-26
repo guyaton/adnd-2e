@@ -24,8 +24,8 @@ hit_dice: 5+2
 health: 7-42
 thac0_original: 15
 to_hit: 5
-no_of_attacks: 3 or 1
-damage_per_attack: 1d3 (x2)/2d4 or by weapon
+attacks: 3 or 1
+damage_attack: 1d3 (x2)/2d4 or by weapon
 special_attacks: Rear-claw rake
 special_defenses: Hit only by obsidian weapons, or by +1 or better weapons
 magic_resistance: Nil

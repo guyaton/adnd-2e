@@ -24,8 +24,8 @@ hit_dice: 9 (52 hp)
 health: 52
 thac0_original: 11
 to_hit: 9
-no_of_attacks: 1
-damage_per_attack: 2-12 (2d6)
+attacks: 1
+damage_attack: 2-12 (2d6)
 special_attacks: Dehydration; psionics
 special_defenses: Psionics
 magic_resistance: Nil

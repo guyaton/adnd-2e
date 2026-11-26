@@ -24,8 +24,8 @@ hit_dice: '15'
 health: 15-120
 thac0_original: 5
 to_hit: 15
-no_of_attacks: 2 or 1
-damage_per_attack: 3-18/3-18 or 5-30
+attacks: 2 or 1
+damage_attack: 3-18/3-18 or 5-30
 special_attacks: Surprise, grip
 special_defenses: Nil
 magic_resistance: Nil

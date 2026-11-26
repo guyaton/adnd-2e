@@ -24,8 +24,8 @@ hit_dice: 4-7
 health: 4-56
 thac0_original: '4 HD: 17; 5-6 HD: 15; 7 HD: 13'
 to_hit: '4 HD: 3; 5-6 HD: 5; 7 HD: 7'
-no_of_attacks: 1
-damage_per_attack: By weapon type
+attacks: 1
+damage_attack: By weapon type
 special_attacks: Song, spell powers
 special_defenses: Spell powers, water-breathing
 magic_resistance: 20%
